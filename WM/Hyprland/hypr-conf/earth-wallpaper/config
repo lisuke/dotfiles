@@ -1,0 +1,11 @@
+[APP]
+earthSize=60
+earthSource=风云四号
+updateTime=1
+wallpaperDir=/
+wallpaperFile=
+
+[System]
+proxy=0
+proxyAdd=
+proxyPort=

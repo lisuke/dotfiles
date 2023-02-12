@@ -1,0 +1,345 @@
+[
+    {
+        "app_name":     "hyprland",
+        "description":  "Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+        "source_dir":   "~/.config/hypr/",
+        "target_dir":   "~/hypr-conf/",
+        "relative_dirs": [
+            "conf.d",
+            "scripts"
+        ],
+        "relative_files": [
+            "hyprland.conf"
+        ]
+    },
+    {
+        "app_name":     "hyprland-environment",
+        "description":  "systemd environment.d",
+        "source_dir":   "~/.config/environment.d/",
+        "target_dir":   "~/hypr-conf/",
+        "relative_dirs": [
+        ],
+        "relative_files": [
+            "hyprland.conf"
+        ]
+    },
+    {
+        "app_name":     "hyprpaper",
+        "description":  "Hyprpaper is a blazing fast wayland wallpaper utility with IPC controls.",
+        "source_dir":   "~/.config/hypr/",
+        "target_dir":   "~/hypr-conf/",
+        "relative_dirs": [
+            "wallpapers"
+        ],
+        "relative_files": [
+            "hyprpaper.conf"
+        ]
+    },
+    {
+        "app_name":     "waybar",
+        "description":  "Highly customizable Wayland bar for Sway and Wlroots based compositors. v tada",
+        "source_dir":   "~/.config/waybar/",
+        "target_dir":   "~/hypr-conf/",
+        "relative_dirs": [
+            "scripts"
+        ],
+        "relative_files": [
+            "config",
+            "style.css"
+        ]
+    },
+    {
+        "app_name":     "dunst",
+        "description":  "Lightweight and customizable notification daemon",
+        "source_dir":   "~/.config/dunst/",
+        "target_dir":   "~/hypr-conf/",
+        "relative_dirs": [
+            "assets",
+            "scripts"
+        ],
+        "relative_files": [
+            "dunstrc"
+        ]
+    },
+    {
+        "app_name":     "alacritty",
+        "description":  "A cross-platform, OpenGL terminal emulator.", 
+        "source_dir":   "~/.config/alacritty/",
+        "target_dir":   "~/hypr-conf/",
+        "relative_dirs": [
+        ],
+        "relative_files": [
+            "alacritty.yml"
+        ]
+    },
+    {
+        "app_name":     "kitty",
+        "description":  "Cross-platform, fast, feature-rich, GPU based terminal", 
+        "source_dir":   "~/.config/kitty/",
+        "target_dir":   "~/hypr-conf/",
+        "relative_dirs": [
+        ],
+        "relative_files": [
+            "kitty.conf"
+        ]
+    },
+    {
+        "app_name":     "rofi",
+        "description":  "Rofi: A window switcher, application launcher and dmenu replacement", 
+        "source_dir":   "~/.config/rofi/",
+        "target_dir":   "~/hypr-conf/",
+        "relative_dirs": [
+        ],
+        "relative_files": [
+            "colors.rasi",
+            "config.rasi",
+            "fonts.rasi"
+        ]
+    },
+    {
+        "app_name":     "ncmpcpp",
+        "description":  "", 
+        "source_dir":   "~/.config/ncmpcpp/",
+        "target_dir":   "~/hypr-conf/",
+        "relative_dirs": [
+        ],
+        "relative_files": [
+            "config"
+        ]
+    },
+    {
+        "app_name":     "htop",
+        "description":  " htop - an interactive process viewer", 
+        "source_dir":   "~/.config/htop/",
+        "target_dir":   "~/hypr-conf/",
+        "relative_dirs": [
+        ],
+        "relative_files": [
+            "htoprc"
+        ]
+    },
+    {
+        "app_name":     "gtk-2.0",
+        "description":  "", 
+        "source_dir":   "~/",
+        "target_dir":   "~/hypr-conf/",
+        "relative_dirs": [
+        ],
+        "relative_files": [
+            ".gtkrc-2.0"
+        ]
+    },
+    {
+        "app_name":     "gtk-3.0",
+        "description":  "", 
+        "source_dir":   "~/.config/gtk-3.0/",
+        "target_dir":   "~/hypr-conf/",
+        "relative_dirs": [
+        ],
+        "relative_files": [
+            "settings.ini"
+        ]
+    },
+    {
+        "app_name":     "fcitx5",
+        "description":  "", 
+        "source_dir":   "~/",
+        "target_dir":   "~/hypr-conf/",
+        "relative_dirs": [
+            ".config/fcitx5",
+            ".local/share/fcitx5"
+        ],
+        "relative_files": [
+        ]
+    },
+    {
+        "app_name":     "swaylock",
+        "description":  "", 
+        "source_dir":   "~/.config/swaylock/",
+        "target_dir":   "~/hypr-conf/",
+        "relative_dirs": [
+        ],
+        "relative_files": [
+            "config"
+        ]
+    },
+    {
+        "app_name":     "mpd",
+        "description":  "", 
+        "source_dir":   "~/.config/mpd/",
+        "target_dir":   "~/hypr-conf/",
+        "relative_dirs": [
+        ],
+        "relative_files": [
+            "mpd.conf"
+        ]
+    },
+    {
+        "app_name":     "mpv",
+        "description":  "", 
+        "source_dir":   "~/.config/mpv/",
+        "target_dir":   "~/hypr-conf/",
+        "relative_dirs": [
+        ],
+        "relative_files": [
+            "config"
+        ]
+    },
+    {
+        "app_name":     "cava",
+        "description":  "", 
+        "source_dir":   "~/.config/cava/",
+        "target_dir":   "~/hypr-conf/",
+        "relative_dirs": [
+        ],
+        "relative_files": [
+            "config"
+        ]
+    },
+    {
+        "app_name":     "earth-wallpaper",
+        "description":  "", 
+        "source_dir":   "~/.config/earth-wallpaper/",
+        "target_dir":   "~/hypr-conf/",
+        "relative_dirs": [
+        ],
+        "relative_files": [
+            "config",
+            "earth-wallpaper.conf"
+        ]
+    },
+    {
+        "app_name":     "mako",
+        "description":  "", 
+        "source_dir":   "~/.config/mako/",
+        "target_dir":   "~/hypr-conf/",
+        "relative_dirs": [
+        ],
+        "relative_files": [
+            "config"
+        ]
+    },
+    {
+        "app_name":     "neofetch",
+        "description":  "", 
+        "source_dir":   "~/.config/neofetch/",
+        "target_dir":   "~/hypr-conf/",
+        "relative_dirs": [
+        ],
+        "relative_files": [
+            "config.conf"
+        ]
+    },
+    {
+        "app_name":     "qt5ct",
+        "description":  "", 
+        "source_dir":   "~/.config/qt5ct/",
+        "target_dir":   "~/hypr-conf/",
+        "relative_dirs": [
+            "qss",
+            "colors"
+        ],
+        "relative_files": [
+            "qt5ct.conf"
+        ]
+    },
+    {
+        "app_name":     "qtfm6",
+        "description":  "", 
+        "source_dir":   "~/.config/qtfm6/",
+        "target_dir":   "~/hypr-conf/",
+        "relative_dirs": [
+        ],
+        "relative_files": [
+            "qtfm6.conf"
+        ]
+    },
+    {
+        "app_name":     "vlc",
+        "description":  "", 
+        "source_dir":   "~/.config/vlc/",
+        "target_dir":   "~/hypr-conf/",
+        "relative_dirs": [
+        ],
+        "relative_files": [
+            "vlcrc"
+        ]
+    },
+    {
+        "app_name":     "wofi",
+        "description":  "", 
+        "source_dir":   "~/.config/wofi/",
+        "target_dir":   "~/hypr-conf/",
+        "relative_dirs": [
+        ],
+        "relative_files": [
+            "config"
+        ]
+    },
+    {
+        "app_name":     "pip",
+        "description":  "", 
+        "source_dir":   "~/.pip/",
+        "target_dir":   "~/hypr-conf/",
+        "relative_dirs": [
+        ],
+        "relative_files": [
+            "pip.conf"
+        ]
+    },
+    {
+        "app_name":     "git",
+        "description":  "", 
+        "source_dir":   "~/",
+        "target_dir":   "~/hypr-conf/",
+        "relative_dirs": [
+        ],
+        "relative_files": [
+            ".gitconfig"
+        ]
+    },
+    {
+        "app_name":     "bash",
+        "description":  "", 
+        "source_dir":   "~/",
+        "target_dir":   "~/hypr-conf/",
+        "relative_dirs": [
+        ],
+        "relative_files": [
+            ".bashrc"
+        ]
+    },
+    {
+        "app_name":     "cargo",
+        "description":  "", 
+        "source_dir":   "~/.cargo/",
+        "target_dir":   "~/hypr-conf/",
+        "relative_dirs": [
+        ],
+        "relative_files": [
+            "config"
+        ]
+    },
+    {
+        "app_name":     "npm",
+        "description":  "", 
+        "source_dir":   "~/",
+        "target_dir":   "~/hypr-conf/",
+        "relative_dirs": [
+        ],
+        "relative_files": [
+            ".npmrc"
+        ]
+    },
+    {
+        "app_name":     "face-icon",
+        "description":  "", 
+        "source_dir":   "~/",
+        "target_dir":   "~/hypr-conf/",
+        "relative_dirs": [
+        ],
+        "relative_files": [
+            ".face.icon"
+        ]
+    }
+]
