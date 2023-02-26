@@ -1,8 +1,10 @@
 # dotfiles
-My dotfiles use **[dfm](https://github.com/lisuke/dfm)**.
+
+**[lisuke](https://github.com/lisuke)**'s dotfiles use **[mdfm](https://github.com/lisuke/mdfm)**.
 
 ## Requirements
-- **[dfm](https://github.com/lisuke/dfm)** :leaves: [dfm](https://github.com/lisuke/dfm) is a linux tools for Dot's Files Manager. (backup or restore)
+
+-   **[mdfm](https://github.com/lisuke/mdfm)** :leaves: [mdfm](https://github.com/lisuke/mdfm) is a linux tools for My Dot Files Manager. (backup or restore)
 
 ## My Hyprland WM
 
@@ -11,5 +13,5 @@ Enjoy yourself:
 ```sh
 git clone https://github.com/lisuke/dotfiles.git
 cd dotfiles/WM/Hyprland
-dfm -R
+mdfm -R
 ```
