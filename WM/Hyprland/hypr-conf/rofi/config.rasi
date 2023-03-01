@@ -9,14 +9,15 @@
 
 /*****----- Configuration -----*****/
 configuration {
-	modi:                       "drun,run";
-    show-icons:                 false;
+    modes:                      "window,drun,run,ssh";
+    show-icons:                 true;
     display-drun:               "";
     display-run:                "";
     display-filebrowser:        "";
     display-window:             "";
-	drun-display-format:        "{name}";
-	window-format:              "{w} · {c} · {t}";
+    display-ssh:                "SSH";
+    drun-display-format:        "{name}";
+    window-format:              "{w} · {c} · {t}";
 }
 
 /*****----- Global Properties -----*****/

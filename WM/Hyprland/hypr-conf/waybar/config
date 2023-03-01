@@ -22,7 +22,7 @@
         "custom/launcher": {
             "interval": 3600,
             "format": "<span color='#6a92d7'> ᕦ༼~•́ ₒ•̀ ~༽ᕤ </span>",
-            "on-click": "rofi -show drun",
+            "on-click": "pkill rofi || rofi -show drun",
         },
         "custom/yay": {
             "format": "<span color='#bf616a'> {}</span>",
@@ -196,10 +196,10 @@
             "format": "{volume}%",
             "format-muted": "婢",
             "format-icons": ["", "", ""],
-            "on-click": "wpctl set-mute 60 toggle",
+            "on-click": "wpctl set-mute @DEFAULT_AUDIO_SINK@ toggle",
             "on-click-right": "qpwgraph",
-            "on-scroll-up": "wpctl set-volume 60 2%+",
-            "on-scroll-down": "wpctl set-volume 60 2%-",
+            "on-scroll-up": "wpctl set-volume @DEFAULT_AUDIO_SINK@ 2%+",
+            "on-scroll-down": "wpctl set-volume @DEFAULT_AUDIO_SINK@ 2%-",
         },
         "bluetooth": {
             "on-click": "~/.config/waybar/scripts/rofi-bluetooth &",
@@ -235,7 +235,8 @@
         },
         "custom/power-menu": {
             "format": "<span color='#bf616a'> <span font-family='Font Awesome 6 Free'>⏻</span> </span>",
-            "on-click": "bash ~/.config/waybar/scripts/power-menu/powermenu.sh",
+            //"on-click": "bash ~/.config/waybar/scripts/power-menu/powermenu.sh",
+            "on-click": "nwg-bar",
         },
     }, 
     {
