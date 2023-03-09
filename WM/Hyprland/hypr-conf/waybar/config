@@ -13,7 +13,7 @@
         // left
         "modules-left": [
             "custom/launcher",
-            "custom/yay",
+            "custom/repo",
             "wlr/workspaces",
             "cpu",
             "memory",
@@ -24,9 +24,10 @@
             "format": "<span color='#6a92d7'> ᕦ༼~•́ ₒ•̀ ~༽ᕤ </span>",
             "on-click": "pkill rofi || rofi -show drun",
         },
-        "custom/yay": {
+        "custom/repo": {
             "format": "<span color='#bf616a'> {}</span>",
-            "exec": "result=$(checkupdates | wc -l); [[ $result != 0 ]] && echo '  '$result' ' || echo ' '",
+            "exec": "python3 ~/.config/waybar/scripts/checkrepos.py",
+            "return-type": "json",
             "interval": 60,
             "on-click": "kitty --class=yay yay -Syyu || dunstify -a 'yay' 'The system has been updated' "
         },
@@ -235,8 +236,8 @@
         },
         "custom/power-menu": {
             "format": "<span color='#bf616a'> <span font-family='Font Awesome 6 Free'>⏻</span> </span>",
-            //"on-click": "bash ~/.config/waybar/scripts/power-menu/powermenu.sh",
-            "on-click": "nwg-bar",
+            "on-click": "bash ~/.config/waybar/scripts/power-menu/powermenu.sh"
+            // "on-click": "nwg-bar",
         },
     }, 
     {
