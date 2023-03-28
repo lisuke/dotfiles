@@ -310,9 +310,31 @@
         ]
     },
     {
+        "app_name":     "zsh",
+        "description":  "", 
+        "source_dir":   "~/",
+        "target_dir":   "~/hypr-conf/",
+        "relative_dirs": [
+        ],
+        "relative_files": [
+            ".zshrc"
+        ]
+    },
+    {
+        "app_name":     "scripts",
+        "description":  "", 
+        "source_dir":   "~/",
+        "target_dir":   "~/hypr-conf/",
+        "relative_dirs": [
+            "scripts"
+        ],
+        "relative_files": [
+        ]
+    },
+    {
         "app_name":     "cargo",
         "description":  "", 
-        "source_dir":   "~/.cargo/",
+        "source_dir":   "~/cargo/",
         "target_dir":   "~/hypr-conf/",
         "relative_dirs": [
         ],
@@ -329,6 +351,17 @@
         ],
         "relative_files": [
             ".npmrc"
+        ]
+    },
+    {
+        "app_name":     "pip",
+        "description":  "", 
+        "source_dir":   "~/",
+        "target_dir":   "~/hypr-conf/",
+        "relative_dirs": [
+        ],
+        "relative_files": [
+            ".pip/pip.conf"
         ]
     },
     {

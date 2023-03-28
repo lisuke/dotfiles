@@ -7,11 +7,13 @@
 
 alias ls='ls --color=auto'
 PS1='[\u@\h \W]\$ '
-GOPATH=~/go
-NODEPATH=~/.node_global
-PATH=$PATH:$GOPATH/bin:$NODEPATH/bin
+
 export PATH
 
 if [ -t 1 ]; then
 	exec zsh
+fi
+
+if [ -e $HOME/scripts/custom_shell_rc ]; then
+	source $HOME/scripts/custom_shell_rc
 fi

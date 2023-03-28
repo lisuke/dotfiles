@@ -1,0 +1,49 @@
+# local bin
+export PATH=~/.local/bin:$PATH
+
+
+# perl
+export PERL5LIB="$HOME/perl5/lib/perl5${PERL5LIB:+:${PERL5LIB}}";
+export PERL_LOCAL_LIB_ROOT="$HOME/perl5${PERL_LOCAL_LIB_ROOT:+:${PERL_LOCAL_LIB_ROOT}}";
+export PERL_MB_OPT="--install_base \"$HOME/perl5\"";
+export PERL_MM_OPT="INSTALL_BASE=$HOME/perl5";
+#
+export PATH="$HOME/perl5/bin${PATH:+:${PATH}}";
+
+
+# Rust
+#export RUSTUP_DIST_SERVER=https://mirrors.ustc.edu.cn/rust-static
+#export RUSTUP_UPDATE_ROOT=https://mirrors.ustc.edu.cn/rust-static/rustup
+# Cargo
+export CARGO_HOME=$HOME/cargo/
+#
+export PATH=$CARGO_HOME/bin:$PATH
+
+
+# Node
+NODEPATH=$HOME/node_global
+#
+export PATH=$PATH:$NODEPATH/bin/
+
+
+# Go
+# Go 模块代理
+export GO111MODULE=on
+export GOPROXY=https://goproxy.cn
+#
+export GOPATH=$HOME/go
+export GOBIN=$GOPATH/bin
+#
+export PATH=$PATH:$GOROOT/bin:$GOPATH/bin
+
+
+# alias
+alias pgrepv="ps -aux | grep -v grep| grep"
+#
+alias proxies=all_proxy=http://lisuke:lisuke165@192.168.31.11:7890
+#alias proxies=all_proxy=http://127.0.0.1:20483
+#
+
+
+export EDITOR='nvim'
+

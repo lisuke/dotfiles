@@ -3,7 +3,7 @@ font=Work Sans
 
 clock
 timestr=%R
-
+screenshots
 image=~/.config/hypr/wallpapers/tree.jpg
 
 fade-in=0.2

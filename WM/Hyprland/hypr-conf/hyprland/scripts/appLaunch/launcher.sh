@@ -12,7 +12,7 @@
 ## style-11    style-12    style-13    style-14    style-15
 
 dir="$HOME/.config/hypr/scripts/appLaunch/"
-theme='style-3'
+theme='style-15'
 
 ## Run
 rofi \
