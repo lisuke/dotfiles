@@ -85,7 +85,7 @@ def format_chances(hour):
     for event in chances.keys():
         if int(hour[event]) > 0:
             conditions.append(chances[event]+" "+hour[event]+"%")
-    return ", ".join(conditions)
+    return " | ".join(conditions)
 
 tempint = int(weather['current_condition'][0]['FeelsLikeC'])
 extrachar = ''
@@ -116,7 +116,7 @@ for i, day in enumerate(weather['weather']):
         if i == 0:
             if int(format_time(hour['time'])) < datetime.now().hour-2:
                 continue
-        data['tooltip'] += f"{format_time(hour['time'])} {WEATHER_CODES[hour['weatherCode']]} {format_temp(hour['FeelsLikeC'])} {hour['lang_zh-cn'][0]['value']}, {format_chances(hour)}\n"
+        data['tooltip'] += f"{format_time(hour['time'])} ||  {WEATHER_CODES[hour['weatherCode']]} {hour['lang_zh-cn'][0]['value']:{chr(12288)}<2} {format_temp(hour['FeelsLikeC'])} | {format_chances(hour)}\n"
 
 
 print(json.dumps(data))

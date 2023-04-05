@@ -244,7 +244,7 @@
     }, 
     {
         "output": "eDP-1",
-        "layer": "bottom",
+        "layer": "top",
         "position": "top",
         "margin-top": -2,
         "exclusive": false,
@@ -257,7 +257,7 @@
     }, 
     {
         "output": "eDP-1",
-        "layer": "bottom",
+        "layer": "top",
         "position": "top",
         "margin-top": -2,
         "margin-left": 10,
