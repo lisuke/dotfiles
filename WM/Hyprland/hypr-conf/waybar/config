@@ -132,7 +132,7 @@
             "bluetooth", 
             "battery", 
             "custom/recording",
-            "hyprland/language",
+            // "hyprland/language",
             "clock", 
             "custom/power-menu"
         ],
