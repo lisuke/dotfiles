@@ -97,10 +97,10 @@
             "interval": 10,
             "unknown-tag": "",
             "consume-icons": {
-                "on": " " // Icon shows only when "consume" is on
+                "on": " "
             },
             "random-icons": {
-                "off": "", // Icon grayed out when "random" is off
+                "off": "",
                 "on": " "
             },
             "repeat-icons": {
@@ -132,7 +132,7 @@
             "bluetooth", 
             "battery", 
             "custom/recording",
-            // "hyprland/language",
+            "hyprland/language",
             "clock", 
             "custom/power-menu"
         ],

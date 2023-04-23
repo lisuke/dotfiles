@@ -75,14 +75,12 @@
     {
         "app_name":     "rofi",
         "description":  "Rofi: A window switcher, application launcher and dmenu replacement", 
-        "source_dir":   "~/.config/rofi/",
+        "source_dir":   "~/.config/",
         "target_dir":   "~/hypr-conf/",
         "relative_dirs": [
+            "rofi"
         ],
         "relative_files": [
-            "colors.rasi",
-            "config.rasi",
-            "fonts.rasi"
         ]
     },
     {
@@ -266,17 +264,6 @@
         ]
     },
     {
-        "app_name":     "pip",
-        "description":  "", 
-        "source_dir":   "~/.pip/",
-        "target_dir":   "~/hypr-conf/",
-        "relative_dirs": [
-        ],
-        "relative_files": [
-            "pip.conf"
-        ]
-    },
-    {
         "app_name":     "git",
         "description":  "", 
         "source_dir":   "~/",
@@ -345,12 +332,12 @@
     {
         "app_name":     "pip",
         "description":  "", 
-        "source_dir":   "~/",
+        "source_dir":   "~/.pip/",
         "target_dir":   "~/hypr-conf/",
         "relative_dirs": [
         ],
         "relative_files": [
-            ".pip/pip.conf"
+            "pip.conf"
         ]
     },
     {

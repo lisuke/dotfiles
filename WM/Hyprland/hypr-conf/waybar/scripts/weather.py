@@ -116,7 +116,7 @@ for i, day in enumerate(weather['weather']):
         if i == 0:
             if int(format_time(hour['time'])) < datetime.now().hour-2:
                 continue
-        data['tooltip'] += f"{format_time(hour['time'])} ||  {WEATHER_CODES[hour['weatherCode']]} {hour['lang_zh-cn'][0]['value']:{chr(12288)}<2} {format_temp(hour['FeelsLikeC'])} | {format_chances(hour)}\n"
+        data['tooltip'] += f"{format_time(hour['time'])} ||  {WEATHER_CODES[hour['weatherCode']]} {hour['lang_zh-cn'][0]['value']:{chr(12288)}<3} {format_temp(hour['FeelsLikeC'])} | {format_chances(hour)}\n"
 
 
 print(json.dumps(data))
