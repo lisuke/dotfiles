@@ -13,8 +13,8 @@ window:
   # Blank space added around the window in pixels. This padding is scaled
   # by DPI and the specified value is always added at both opposing sides.
   padding:
-    x: 24
-    y: 24
+    x: 2
+    y: 2
   decorations: none
   dimensions:
     columns: 80

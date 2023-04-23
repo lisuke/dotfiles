@@ -62,6 +62,7 @@
             "format": " {icon} {usage:2}% ",
             "max-length": 10,
             "on-click": "kitty --class=htop -1 htop",
+            "on-click-right": "kitty --class=nvtop -1 nvtop",
             "format-icons": ["▁", "▂", "▃", "▄", "▅", "▆", "▇", "█"],
         },
         "memory": {

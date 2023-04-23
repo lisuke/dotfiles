@@ -13,17 +13,6 @@
         ]
     },
     {
-        "app_name":     "hyprland-environment",
-        "description":  "systemd environment.d",
-        "source_dir":   "~/.config/environment.d/",
-        "target_dir":   "~/hypr-conf/",
-        "relative_dirs": [
-        ],
-        "relative_files": [
-            "hyprland.conf"
-        ]
-    },
-    {
         "app_name":     "hyprpaper",
         "description":  "Hyprpaper is a blazing fast wayland wallpaper utility with IPC controls.",
         "source_dir":   "~/.config/hypr/",
