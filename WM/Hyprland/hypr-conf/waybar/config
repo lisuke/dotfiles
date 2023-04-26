@@ -1,5 +1,6 @@
 [
     {
+        "name": "top-bar",
         "output": "eDP-1",
         "exclusive": true,
         "layer": "top", // Waybar at top layer
@@ -29,7 +30,7 @@
             "exec": "python3 ~/.config/waybar/scripts/checkrepos.py",
             "return-type": "json",
             "interval": 60,
-            "on-click": "kitty --class=yay yay -Syyu || dunstify -a 'yay' 'The system has been updated' "
+            "on-click": "kitty --class=yay yay -Syyu ; dunstify -a 'yay' 'The system has been updated' "
         },
         "wlr/workspaces": {
             "disable-scroll": false,
@@ -37,14 +38,14 @@
             "format": " {icon} ",
             "on-click": "activate",
             "format-icons": {
-                "1": "",
-                "2": "",
-                "3": "",
-                "4": "",
-                "5": "",
-                "default": "",
-                "urgent": "",
-                // "active": "",
+                "1": " ",
+                "2": " ",
+                "3": " ",
+                "4": " ",
+                "5": " ",
+                "default": " ",
+                "urgent": " ",
+                "active": " ",
             },
             "on-scroll-up": "hyprctl dispatch workspace e+1",
             "on-scroll-down": "hyprctl dispatch workspace e-1"
@@ -128,7 +129,7 @@
             "backlight", 
             "pulseaudio", 
             "wireplumber",
-            "network", 
+            "network#top", 
             "bluetooth", 
             "battery", 
             "custom/recording",
@@ -149,20 +150,10 @@
             "icon-size": 24,
             "spacing": 4
         },
-        "hyprland/language": {
-            "format": "Lang: {}",
-            "interval": 4,
-            "format-zh": "你好，世界！",
-            "format-en": "Hello World!",
-        },
         "keyboard-state": {
             "numlock": true,
             "capslock": true,
-            "format": "{name} {icon}",
-            "format-icons": {
-                "locked": "",
-                "unlocked": ""
-            }
+            "format": "{name}",
         },
         "backlight": {
             "device": "eDP-1",
@@ -171,7 +162,7 @@
             "on-scroll-up": "~/.config/hypr/scripts/brightness.sh up",
             "on-scroll-down": "~/.config/hypr/scripts/brightness.sh down",
         },
-        "network": {
+        "network#top": {
             "format-wifi": "直 {signalStrength}%",
             "format-ethernet": " Wired",
             "format-disconnected": "睊",
@@ -244,19 +235,7 @@
         },
     }, 
     {
-        "output": "eDP-1",
-        "layer": "top",
-        "position": "top",
-        "margin-top": -2,
-        "exclusive": false,
-        "modules-center": [
-            "hyprland/window"
-        ],
-        "hyprland/window": {
-            "format": " {} "
-        }
-    }, 
-    {
+        "name": "info-bar",
         "output": "eDP-1",
         "layer": "top",
         "position": "top",
@@ -264,6 +243,31 @@
         "margin-left": 10,
         "margin-right": 10,
         "exclusive": false,
+        "modules-left": [
+            "cava"
+        ],
+        "cava": {
+            "cava_config": "~/.config/cava/config",
+            "framerate": 60,
+            "autosens": 1,
+            "sensitivity": 100,
+            "bars": 14,
+            "lower_cutoff_freq": 50,
+            "higher_cutoff_freq": 10000,
+            "method": "pulse",
+            "source": "auto",
+            "stereo": true,
+            "reverse": false,
+            "bar_delimiter": 0,
+            "monstercat": false,
+            "waves": false,
+            "noise_reduction": 0.77,
+            "input_delay": 2,
+            "format-icons" : ["▁", "▂", "▃", "▄", "▅", "▆", "▇", "█" ],
+            "actions": {
+                "on-click-right": "mode"
+            }
+        },
         "modules-center": [
             "hyprland/window"
         ],
@@ -271,17 +275,22 @@
             "format": " {} "
         },
         "modules-right": [
-            "network"
+            "network#2"
         ],
-        "network": {
+        "network#2": {
             "interval": 1,
             "format": "Interface: {ifname}  Up: {bandwidthUpBytes} Down: {bandwidthDownBytes} Total: {bandwidthTotalBytes}"
         }
-    }/*, 
+    }, 
     {
+        "name": "footer-bar",
         "output": "eDP-1",
         "layer": "top",
         "position": "bottom",
+        "margin-top": 10,
+        "margin-left": 10,
+        "margin-right": 10,
+        "margin-bottom": 10,
         "exclusive": true,
         "modules-center": [
             "wlr/taskbar",
@@ -294,12 +303,14 @@
             "on-click": "fullscreen",
             "on-click-middle": "close",
             "on-click-right": "minimize",
-            // "ignore-list": [
-            //    "Alacritty"
-            // ],
+            "ignore-list": [
+                "Alacritty",
+                "htop",
+                "yay"
+            ],
             "app_ids-mapping": {
-              "firefoxdeveloperedition": "firefox-developer-edition"
+              "firefox-nightly": "firefox_nightly"
             }
         }
-    }*/
+    }
 ]
