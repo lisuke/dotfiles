@@ -25,7 +25,7 @@ tooltip label {
 }
 
 #workspaces button {
-    padding: 0px 6px;
+    padding: 0px 0px;
     color: #7984A4;
     background-color: transparent;
     /* Use box-shadow instead of border so the text isn't offset */
@@ -74,10 +74,10 @@ tooltip label {
 #tray,
 #wireplumber,
 #workspaces {
-    padding: 0 10px;
-    color: #e5e5e5;
-    border-radius: 9.5px;
     background-color: rgba(31, 37, 48, 0.7);
+    border-radius: 9.5px;
+    color: #e5e5e5;
+    padding: 0 10px;
 }
 
 #cpu,
@@ -171,13 +171,15 @@ tooltip label {
     color: #f53c3c;
 }
 
-#bluetooth.top,
-#network.top {
+#network.info, 
+#network.top,
+#bluetooth {
     color: #b48ead;
 }
 
-#bluetooth.disconnected,
-#network.disconnected {
+#network.info.disconnected,
+#network.info.disconnected,
+#bluetooth.disconnected {
     color: #f53c3c;
 }
 

@@ -275,9 +275,9 @@
             "format": " {} "
         },
         "modules-right": [
-            "network#2"
+            "network#info"
         ],
-        "network#2": {
+        "network#info": {
             "interval": 1,
             "format": "Interface: {ifname}  Up: {bandwidthUpBytes} Down: {bandwidthDownBytes} Total: {bandwidthTotalBytes}"
         }
