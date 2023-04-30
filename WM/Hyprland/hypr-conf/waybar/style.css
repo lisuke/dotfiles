@@ -24,35 +24,6 @@ tooltip label {
   color: white;
 }
 
-#workspaces button {
-    padding: 0px 0px;
-    color: #7984A4;
-    background-color: transparent;
-    /* Use box-shadow instead of border so the text isn't offset */
-    box-shadow: inset 0 -3px transparent;
-    /* Avoid rounded borders under each workspace name */
-    border: none;
-    border-radius: 0;
-}
-
-#workspaces button:hover {
-    background: rgba(0, 0, 0, 0.7);
-    box-shadow: inset 0 -1px #c2ddda;
-}
-
-#workspaces button.focused {
-    color: #bf616a;
-}
-
-#workspaces button.active {
-    color: #6a92d7;
-    box-shadow: inset 0 -1px #6a92d7;
-}
-
-#workspaces button.urgent {
-    background-color: #eb4d4b;
-}
-
 #backlight,
 #battery,
 #bluetooth,
@@ -78,6 +49,43 @@ tooltip label {
     border-radius: 9.5px;
     color: #e5e5e5;
     padding: 0 10px;
+}
+
+#workspaces button {
+    padding: 0px 0px;
+    color: #7984A4;
+    background-color: transparent;
+    /* Use box-shadow instead of border so the text isn't offset */
+    box-shadow: inset 0 -3px transparent;
+    /* Avoid rounded borders under each workspace name */
+    border: none;
+    border-radius: 0;
+}
+
+#workspaces button:hover {
+    background: rgba(191, 97, 106, 0.7);
+    box-shadow: inset 0 -1px #c2ddda;
+}
+
+#workspaces button.focused {
+    color: #bf616a;
+}
+
+#workspaces button.active {
+    color: #6a92d7;
+    box-shadow: inset 0 -1px #6a92d7;
+}
+
+#workspaces button.urgent {
+    background-color: #eb4d4b;
+}
+
+.modules-left > widget:first-child > #workspaces {
+    margin-left: 0;
+}
+
+.modules-right > widget:last-child > #workspaces {
+    margin-right: 0;
 }
 
 #cpu,
@@ -116,12 +124,8 @@ tooltip label {
     color: red;
 }
 
-.modules-left > widget:first-child > #workspaces {
-    margin-left: 0;
-}
-
-.modules-right > widget:last-child > #workspaces {
-    margin-right: 0;
+#memory {
+    color: #5CD4A2;
 }
 
 #wireplumber,
@@ -190,6 +194,14 @@ tooltip label {
 #tray > .needs-attention {
     -gtk-icon-effect: highlight;
     background-color: #eb4d4b;
+}
+
+#custom-recording {
+    color: #FCC213;
+}
+
+#custom-recording {
+    color: #BF616A;
 }
 
 #mpd {
