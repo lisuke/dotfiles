@@ -19,7 +19,7 @@ window:
   dimensions:
     columns: 80
     lines: 35
-  opacity: 0.7
+  opacity: 1
 
 scrolling:
   # Maximum number of lines in the scrollback buffer.
@@ -79,7 +79,7 @@ font:
 colors:
   # Default colors
   primary:
-    background: "0x131621"
+    background: "0x0d1117"
     foreground: "0xa6accd"
 
   # Cursor colors
