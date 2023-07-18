@@ -17,3 +17,7 @@ fi
 if [ -e $HOME/scripts/custom_shell_rc ]; then
 	source $HOME/scripts/custom_shell_rc
 fi
+export http_proxy=''
+export https_proxy=''
+export ftp_proxy=''
+export socks_proxy=''

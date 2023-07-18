@@ -1,0 +1,7 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin
+#@/db_type	userdb
+#@/rime_version	1.7.3
+#@/tick	1
+#@/user_id	3dec6ac1-e48f-48db-b571-d010f4307a57
+ming yue 	明月	c=1 d=1 t=1

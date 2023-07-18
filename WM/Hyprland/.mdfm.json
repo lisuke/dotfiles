@@ -58,7 +58,7 @@
         "relative_dirs": [
         ],
         "relative_files": [
-            "alacritty.yml"
+            "alacritty.toml"
         ]
     },
     {

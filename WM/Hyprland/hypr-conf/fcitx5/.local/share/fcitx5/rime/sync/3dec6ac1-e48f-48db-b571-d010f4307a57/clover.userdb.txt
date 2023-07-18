@@ -1,0 +1,3026 @@
+# Rime user dictionary
+#@/db_name	clover
+#@/db_type	userdb
+#@/rime_version	1.7.3
+#@/tick	7122
+#@/user_id	3dec6ac1-e48f-48db-b571-d010f4307a57
+a 	啊	c=69 d=4.09675 t=7122
+a la bo 	阿拉伯	c=1 d=2.99122e-08 t=7122
+a li 	阿里	c=5 d=2.44311e-08 t=7122
+ai 	爱	c=0 d=8.27381e-08 t=7122
+ai cun bu cun 	爱存不存	c=1 d=8.31529e-07 t=7122
+an 	安	c=2 d=0.00516156 t=7122
+an an 	暗暗	c=1 d=3.67242e-10 t=7122
+an de 	暗的	c=1 d=3.39007e-10 t=7122
+an jian 	按键	c=1 d=2.3939e-05 t=7122
+an lao fen pei 	按劳分配	c=2 d=2.59334e-10 t=7122
+an li 	案例	c=1 d=9.81367e-15 t=7122
+an niu 	按钮	c=1 d=0.000407691 t=7122
+an quan 	安全	c=9 d=0.000682349 t=7122
+an quan bao mi 	安全保密	c=1 d=9.05454e-09 t=7122
+an yang 	安阳	c=5 d=1.75213 t=7122
+an zhao 	按照	c=1 d=0.0584257 t=7122
+an zhuang 	安装	c=3 d=2.18263e-06 t=7122
+an zhuo 	安卓	c=4 d=2.55717 t=7122
+ao wu 	嗷呜	c=1 d=5.96668e-14 t=7122
+ba 	吧	c=7 d=0.388513 t=7122
+ba 	把	c=25 d=0.0392706 t=7122
+ba cheng 	八成	c=2 d=0.267998 t=7122
+ba chu bai jia 	罢黜百家	c=1 d=7.50584e-08 t=7122
+ba ga 	八嘎	c=1 d=2.00507e-08 t=7122
+ba gu 	八股	c=0 d=1.09455e-05 t=7122
+ba gu qu yi 	八股取义	c=1 d=0.000110003 t=7122
+ba le 	拔了	c=1 d=0.249075 t=7122
+ba qian 	把钱	c=1 d=8.21269e-08 t=7122
+ba xiang 	八相	c=0 d=1.90728e-09 t=7122
+ba xiang shi jie 	八相世界	c=1 d=1.91685e-08 t=7122
+bai du 	百度	c=2 d=1.32534e-12 t=7122
+bai ma si 	白马寺	c=1 d=1.20093e-07 t=7122
+bai tian 	白天	c=2 d=0.323778 t=7122
+bai tian e 	白天鹅	c=1 d=7.65877e-10 t=7122
+bai wan xiong shi 	百万雄师	c=0 d=4.55252e-09 t=7122
+ban 	办	c=1 d=0.860708 t=7122
+ban 	版	c=3 d=6.60062e-06 t=7122
+ban ben 	版本	c=8 d=0.00103398 t=7122
+ban biao 	班彪	c=1 d=1.09209e-07 t=7122
+ban chao 	班超	c=2 d=2.18999e-07 t=7122
+ban fa 	办法	c=1 d=1.12865e-12 t=7122
+ban gong 	办公	c=3 d=1.89311e-14 t=7122
+ban gu 	班固	c=1 d=1.09757e-07 t=7122
+ban ji 	版记	c=1 d=1.73443e-08 t=7122
+ban liang 	半两	c=1 d=5.31579e-08 t=7122
+ban quan 	版权	c=0 d=2.02522e-09 t=7122
+ban quan 	阪泉	c=0 d=2.01512e-09 t=7122
+ban quan zhi zhan 	版权之战	c=1 d=2.03538e-08 t=7122
+ban quan zhi zhan 	阪泉之战	c=1 d=2.02522e-08 t=7122
+ban si 	半死	c=1 d=7.30037e-05 t=7122
+ban tian 	半天	c=1 d=4.47621e-15 t=7122
+bang 	帮	c=3 d=0.0591616 t=7122
+bang 	棒	c=0 d=0.0603506 t=7122
+bang ding 	绑定	c=5 d=1.97813 t=7122
+bang wo 	帮我	c=1 d=1.22265e-12 t=7122
+bao 	包	c=18 d=1.81379 t=7122
+bao 	报	c=1 d=0.0119145 t=7122
+bao chi 	保持	c=1 d=7.91379e-13 t=7122
+bao chou 	报仇	c=1 d=0.000236397 t=7122
+bao cun 	保存	c=2 d=2.2283e-10 t=7122
+bao cuo 	报错	c=1 d=2.67272e-07 t=7122
+bao de 	报的	c=1 d=1.96504e-06 t=7122
+bao guan li 	包管理	c=1 d=0.0017555 t=7122
+bao jian 	保健	c=2 d=4.19541e-09 t=7122
+bao lu 	暴露	c=2 d=0.00147096 t=7122
+bao mi 	保密	c=1 d=9.28375e-09 t=7122
+bao mi deng ji 	保密等级	c=1 d=1.76947e-08 t=7122
+bao ming 	报名	c=1 d=5.48998e-05 t=7122
+bao si 	褒姒	c=1 d=3.40648e-08 t=7122
+bao ta zhen he yao 	宝塔镇河妖	c=1 d=1.94681e-14 t=7122
+bao wen 	报文	c=1 d=1.58596e-14 t=7122
+bao zha 	爆炸	c=1 d=4.65889e-15 t=7122
+bao zheng 	保证	c=1 d=0.000678925 t=7122
+bei 	倍	c=1 d=1.57291e-05 t=7122
+bei 	呗	c=1 d=7.69716e-10 t=7122
+bei 	被	c=17 d=2.27653 t=7122
+bei an 	备案	c=3 d=0.0462537 t=7122
+bei fen 	备份	c=1 d=9.54828e-16 t=7122
+bei jie chi 	被劫持	c=1 d=1.38568e-14 t=7122
+bei ju 	悲剧	c=1 d=9.93119e-08 t=7122
+bei shui yi zhan 	背水一战	c=1 d=6.8256e-08 t=7122
+bei zhua 	被抓	c=1 d=7.5227e-05 t=7122
+ben 	本	c=1 d=5.99251e-06 t=7122
+ben di 	本地	c=3 d=2.75285e-10 t=7122
+ben ke 	本科	c=2 d=9.18825e-05 t=7122
+ben yi 	本意	c=1 d=2.06186e-13 t=7122
+ben zhi 	本质	c=1 d=0.00346515 t=7122
+beng kui 	崩溃	c=1 d=0.131994 t=7122
+bi 	比	c=2 d=4.4279e-05 t=7122
+bi de 	彼得	c=4 d=1.39339e-08 t=7122
+bi de yuan li 	彼得原理	c=1 d=3.59041e-09 t=7122
+bi ji ben 	笔记本	c=6 d=0.000174619 t=7122
+bi jiao 	比较	c=0 d=7.85265e-11 t=7122
+bi jiao ming xian 	比较明显	c=1 d=3.66169e-05 t=7122
+bi jiao xuan xiang 	比较选项	c=1 d=7.89201e-10 t=7122
+bi jing 	毕竟	c=1 d=0.000497955 t=7122
+bi mian 	避免	c=1 d=9.80532e-05 t=7122
+bi ru 	比如	c=6 d=0.000593188 t=7122
+bi xu 	必须	c=4 d=0.000894541 t=7122
+bi yao 	必要	c=2 d=0.66741 t=7122
+bi ye 	毕业	c=1 d=9.23431e-05 t=7122
+bi you 	必有	c=1 d=8.40029e-09 t=7122
+bi you yong fu 	必有勇夫	c=1 d=4.09874e-08 t=7122
+bi yue xiu hua 	闭月羞花	c=1 d=1.02849e-07 t=7122
+bi zhi 	壁纸	c=1 d=6.53992e-05 t=7122
+bian 	变	c=4 d=0.0692392 t=7122
+bian bai 	变白	c=1 d=1.33135e-14 t=7122
+bian cheng 	编程	c=1 d=0.000287295 t=7122
+bian dong 	变动	c=1 d=2.81654e-06 t=7122
+bian hao 	变好	c=0 d=5.24841e-06 t=7122
+bian hao le 	变好了	c=1 d=5.27472e-05 t=7122
+bian hua 	变化	c=0 d=2.32956e-09 t=7122
+bian ji 	编辑	c=2 d=0.112885 t=7122
+bian ji 	边际	c=1 d=1.25642e-09 t=7122
+bian li 	遍历	c=1 d=1.97556e-10 t=7122
+bian liang 	变量	c=6 d=0.69597 t=7122
+bian xiang 	变相	c=1 d=0.0784731 t=7122
+bian yi 	编译	c=5 d=3.48494e-06 t=7122
+bian zhi 	编制	c=1 d=1.30498e-14 t=7122
+biao 	彪	c=1 d=1.08665e-07 t=7122
+biao ji 	标记	c=2 d=0.0141368 t=7122
+biao mei 	表妹	c=2 d=1.90256 t=7122
+biao ti 	标题	c=1 d=1.58187e-13 t=7122
+biao ti lan 	标题栏	c=2 d=0.932394 t=7122
+biao zhi 	标志	c=2 d=2.45869e-08 t=7122
+biao zhun 	标准	c=2 d=0.0009421 t=7122
+bie 	别	c=1 d=0.0539337 t=7122
+bie ming 	别名	c=1 d=6.77633e-11 t=7122
+bie niu 	别扭	c=1 d=2.34204e-12 t=7122
+bie ren 	别人	c=5 d=0.0548542 t=7122
+bie sheng 	别生	c=1 d=0.0174224 t=7122
+bing bu shi 	并不是	c=1 d=6.82677e-10 t=7122
+bing fa 	并发	c=3 d=1.33044e-06 t=7122
+bing shu 	兵书	c=1 d=6.62388e-08 t=7122
+bing xing 	并行	c=0 d=7.24768e-09 t=7122
+bo fang qi 	播放器	c=1 d=2.91786e-10 t=7122
+bo ge 	伯格	c=0 d=1.95085e-10 t=7122
+bo ke 	博客	c=3 d=0.217286 t=7122
+bo xue 	剥削	c=1 d=2.2386e-10 t=7122
+bu 	不	c=4 d=8.63114e-05 t=7122
+bu cha 	不差	c=1 d=0.0169922 t=7122
+bu chen zhi 	不称职	c=1 d=4.00789e-09 t=7122
+bu chong 	不重	c=1 d=6.64102e-09 t=7122
+bu cun 	不存	c=0 d=8.27381e-08 t=7122
+bu cun zai 	不存在	c=2 d=0.00110822 t=7122
+bu cuo 	不错	c=1 d=0.357007 t=7122
+bu dao 	不到	c=1 d=2.23936e-14 t=7122
+bu dei 	不得	c=1 d=9.80866e-09 t=7122
+bu ding shi 	不定时	c=1 d=0.000837575 t=7122
+bu dui 	部队	c=2 d=8.15202e-09 t=7122
+bu gai 	不该	c=1 d=5.9216e-13 t=7122
+bu gai bian 	不改变	c=2 d=9.01745e-11 t=7122
+bu gan 	不敢	c=0 d=3.67117e-07 t=7122
+bu gan geng 	不敢更	c=2 d=7.41623e-06 t=7122
+bu guan 	不管	c=1 d=4.27706e-09 t=7122
+bu gun yi xia 	不滚一下	c=1 d=0.000854495 t=7122
+bu guo 	不过	c=2 d=0.000356206 t=7122
+bu hui 	不会	c=4 d=0.538483 t=7122
+bu jian yi 	不建议	c=1 d=2.23358e-13 t=7122
+bu jiu 	不就	c=1 d=0.704688 t=7122
+bu jiu shi 	不就是	c=0 d=1.08909e-05 t=7122
+bu ju 	布局	c=1 d=3.38017e-05 t=7122
+bu ka 	不卡	c=1 d=2.2007e-15 t=7122
+bu kan hui shou 	不堪回首	c=1 d=0.00640933 t=7122
+bu liao 	不了	c=8 d=1.02982 t=7122
+bu mai 	不买	c=1 d=0.00279479 t=7122
+bu mai guo hang 	不买国行	c=1 d=9.59125e-10 t=7122
+bu neng 	不能	c=8 d=1.34825e-05 t=7122
+bu qi lai 	不起来	c=0 d=4.15998e-07 t=7122
+bu que 	不缺	c=0 d=0.00120342 t=7122
+bu ran 	不然	c=3 d=0.0035185 t=7122
+bu ru 	不如	c=1 d=0.00790705 t=7122
+bu ru hu xue yan de hu zi 	不入虎穴焉得虎子	c=1 d=1.14236e-07 t=7122
+bu shan le 	不闪了	c=1 d=1.29424e-05 t=7122
+bu shi 	不是	c=15 d=1.51525 t=7122
+bu shou huan ying 	不受欢迎	c=1 d=5.45035e-08 t=7122
+bu shu fu 	不舒服	c=1 d=0.0216013 t=7122
+bu tai 	不太	c=1 d=1.4959e-15 t=7122
+bu tai hao 	不太好	c=1 d=0.00178203 t=7122
+bu tai li xiang 	不太理想	c=1 d=1.34821e-15 t=7122
+bu tian 	补天	c=2 d=5.1883e-08 t=7122
+bu tong 	不同	c=1 d=0.000490542 t=7122
+bu wan 	不完	c=0 d=1.44897e-11 t=7122
+bu wan 	不晚	c=1 d=0.000238772 t=7122
+bu wei 	部位	c=1 d=1.40638e-12 t=7122
+bu wen 	不稳	c=0 d=2.5371e-13 t=7122
+bu xi huan 	不喜欢	c=1 d=2.26148e-12 t=7122
+bu xia qu 	不下去	c=0 d=8.78544e-08 t=7122
+bu xiang 	不像	c=1 d=0.0191587 t=7122
+bu xiang 	不想	c=1 d=4.20322e-10 t=7122
+bu xiao hua 	不消化	c=1 d=0.021068 t=7122
+bu xing 	不幸	c=1 d=0.00121259 t=7122
+bu xing 	不行	c=8 d=0.000239755 t=7122
+bu xing le 	不行了	c=3 d=1.00716e-05 t=7122
+bu xu yao 	不需要	c=2 d=6.14392e-08 t=7122
+bu yao 	不要	c=2 d=1.06099e-10 t=7122
+bu yi ding 	不一定	c=2 d=0.280832 t=7122
+bu yi yang 	不一样	c=4 d=0.00269866 t=7122
+bu ying gai 	不应该	c=5 d=0.000345338 t=7122
+bu ying xiang 	不影响	c=3 d=0.000190664 t=7122
+bu yong 	不用	c=3 d=1.04386e-05 t=7122
+bu yue er tong 	不约而同	c=2 d=0.000152347 t=7122
+bu zheng chang 	不正常	c=2 d=2.4305e-07 t=7122
+bu zhi dao 	不知道	c=2 d=0.00324708 t=7122
+cai 	才	c=4 d=0.00232746 t=7122
+cai ce 	猜测	c=1 d=1.60577e-13 t=7122
+cai dan 	彩蛋	c=2 d=1.03427e-05 t=7122
+cai dan 	菜单	c=9 d=0.415659 t=7122
+cai fu tong 	财付通	c=1 d=1.37143e-10 t=7122
+cai ji 	采集	c=1 d=0.00139481 t=7122
+cai neng 	才能	c=1 d=2.56879e-11 t=7122
+cai se 	彩色	c=1 d=1.74313e-08 t=7122
+can shu 	参数	c=1 d=5.20964e-06 t=7122
+can tou yan wei 	蚕头燕尾	c=1 d=2.83114e-08 t=7122
+cang 	仓	c=4 d=0.0012098 t=7122
+cang ku 	仓库	c=14 d=0.00157264 t=7122
+cang tian 	苍天	c=0 d=1.14809e-08 t=7122
+cang tian yi si 	苍天已死	c=1 d=1.15384e-07 t=7122
+cao 	槽	c=2 d=0.0196112 t=7122
+cao 	艹	c=2 d=9.05345e-07 t=7122
+cao 	草	c=1 d=4.2141e-11 t=7122
+cao bao 	草包	c=1 d=8.07091e-09 t=7122
+cao gui lun zhan 	曹刿论战	c=2 d=7.21621e-08 t=7122
+cao zhi 	曹植	c=1 d=9.42245e-07 t=7122
+cao zuo 	操作	c=4 d=0.0011347 t=7122
+cao zuo xi tong 	操作系统	c=1 d=1.60605e-15 t=7122
+ce 	测	c=1 d=1.21341e-11 t=7122
+ce 	策	c=0 d=7.21153e-09 t=7122
+ce shi 	测试	c=3 d=3.33846e-06 t=7122
+ce su 	测速	c=11 d=1.10264 t=7122
+ceng 	曾	c=1 d=0.0025415 t=7122
+ceng ci 	层次	c=1 d=1.90268e-09 t=7122
+ceng ji 	层级	c=1 d=4.99584e-13 t=7122
+ceng jing 	曾经	c=1 d=5.77441e-11 t=7122
+cha 	差	c=1 d=6.9144e-13 t=7122
+cha bu duo 	差不多	c=1 d=0.0689068 t=7122
+cha dian 	差点	c=2 d=2.03967e-10 t=7122
+cha jian 	插件	c=1 d=0.109154 t=7122
+cha jing 	茶经	c=3 d=5.7169e-07 t=7122
+cha ka 	插卡	c=3 d=0.0273319 t=7122
+cha kan 	查看	c=5 d=5.46193e-07 t=7122
+cha ping 	差评	c=1 d=6.41152e-07 t=7122
+cha ri 	茶日	c=1 d=1.95052e-07 t=7122
+cha shang 	插上	c=1 d=0.246597 t=7122
+cha shang qu 	插上去	c=1 d=3.93736e-06 t=7122
+chai kai 	拆开	c=1 d=0.980199 t=7122
+chan pin 	产品	c=1 d=9.26136e-10 t=7122
+chang 	常	c=1 d=6.36632e-12 t=7122
+chang an 	长安	c=1 d=8.33681e-08 t=7122
+chang shang 	厂商	c=1 d=1.6055e-11 t=7122
+chang shi 	尝试	c=1 d=1.05217e-10 t=7122
+chang yong 	常用	c=1 d=0.000639387 t=7122
+chao cuo 	晁错	c=2 d=1.46427e-07 t=7122
+chao dai 	朝代	c=1 d=1.59695e-07 t=7122
+chao ling 	超龄	c=1 d=7.79066e-05 t=7122
+chao yi xia 	抄一下	c=2 d=1.19251e-12 t=7122
+che 	车	c=3 d=2.47189e-06 t=7122
+che dan 	扯淡	c=1 d=0.995012 t=7122
+che di 	彻底	c=1 d=2.3481e-13 t=7122
+che ma 	车马	c=0 d=1.25296e-07 t=7122
+chen yu 	沉鱼	c=1 d=1.28801e-07 t=7122
+chen yu luo yan 	沉鱼落雁	c=1 d=1.02336e-07 t=7122
+cheng 	成	c=7 d=1.78712 t=7122
+cheng 	称	c=1 d=1.47417e-07 t=7122
+cheng du 	程度	c=0 d=1.12264e-09 t=7122
+cheng gong 	成功	c=3 d=0.000827535 t=7122
+cheng le 	成了	c=1 d=2.31794e-08 t=7122
+cheng li 	成立	c=1 d=8.83098e-09 t=7122
+cheng qian bi hou 	惩前毖后	c=1 d=9.90724e-09 t=7122
+cheng wei 	成为	c=1 d=2.1401e-10 t=7122
+cheng wen 	成文	c=1 d=1.73576e-08 t=7122
+cheng wen ri qi 	成文日期	c=3 d=4.95114e-08 t=7122
+cheng xu 	程序	c=6 d=6.88958e-05 t=7122
+cheng xu xing 	程序性	c=2 d=4.74184e-09 t=7122
+cheng xu yuan 	程序员	c=1 d=1.59804e-15 t=7122
+cheng yu 	成语	c=1 d=9.23588e-07 t=7122
+cheng zhang 	成长	c=1 d=0.00690852 t=7122
+chi 	吃	c=2 d=7.46982e-10 t=7122
+chi 	池	c=1 d=3.2398e-06 t=7122
+chi bi 	赤壁	c=1 d=1.32723e-07 t=7122
+chi bu dao 	吃不到	c=1 d=2.91082e-11 t=7122
+chi du 	尺度	c=1 d=9.7362e-10 t=7122
+chi huo 	吃货	c=1 d=9.90555e-07 t=7122
+chi jiu hua 	持久化	c=2 d=2.82067e-15 t=7122
+chi mei 	赤眉	c=1 d=1.03883e-07 t=7122
+chi shen me 	吃什么	c=1 d=0.0198411 t=7122
+chi wan fan 	吃完饭	c=1 d=0.0199405 t=7122
+chi you 	蚩尤	c=1 d=2.11844e-08 t=7122
+chong 	冲	c=1 d=0.00615802 t=7122
+chong dian qi 	充电器	c=1 d=4.23666e-15 t=7122
+chong fang 	重放	c=1 d=5.26468e-12 t=7122
+chong qi 	重启	c=12 d=1.83442 t=7122
+chong tu 	冲突	c=1 d=0.327915 t=7122
+chong xin 	重新	c=7 d=0.238118 t=7122
+chong zhuang 	重装	c=2 d=1.32073e-05 t=7122
+chou chou 	瞅瞅	c=1 d=2.22668e-06 t=7122
+chou xiang 	抽象	c=1 d=1.87921e-10 t=7122
+chu 	出	c=2 d=0.140858 t=7122
+chu 	除	c=1 d=0.00118265 t=7122
+chu bu lai 	出不来	c=1 d=2.42422e-06 t=7122
+chu han zhi zheng 	楚汉之争	c=1 d=6.20702e-08 t=7122
+chu lai 	出来	c=5 d=0.0101073 t=7122
+chu li 	处理	c=3 d=0.000534521 t=7122
+chu qi 	初期	c=1 d=2.48601e-08 t=7122
+chu shi 	出使	c=0 d=7.96997e-09 t=7122
+chu shi hua 	初始化	c=5 d=4.31112e-10 t=7122
+chu shi xi yu 	出使西域	c=1 d=8.00992e-08 t=7122
+chu tou niao 	出头鸟	c=1 d=1.15404e-09 t=7122
+chu xian 	出现	c=3 d=0.169483 t=7122
+chu yi dian 	出一点	c=1 d=5.6328e-13 t=7122
+chu zhong 	初中	c=1 d=0.00250366 t=7122
+chuan 	传	c=1 d=5.18366e-06 t=7122
+chuan cheng 	传承	c=4 d=0.309259 t=7122
+chuan da 	传达	c=0 d=1.67478e-09 t=7122
+chuan da fan wei 	传达范围	c=1 d=1.68317e-08 t=7122
+chuan jiao 	传教	c=2 d=0.0301664 t=7122
+chuan ran 	传染	c=1 d=7.08703e-09 t=7122
+chuan song 	传送	c=1 d=1.02601e-08 t=7122
+chuan yue 	穿越	c=5 d=0.0379978 t=7122
+chuang guan 	窗管	c=1 d=1.35124e-12 t=7122
+chuang jian 	创建	c=2 d=1.61259e-13 t=7122
+chuang kou 	窗口	c=7 d=2.803 t=7122
+chuang ti 	窗体	c=8 d=0.95637 t=7122
+chun shen jun 	春申君	c=1 d=4.46237e-08 t=7122
+chun shi 	蠢事	c=1 d=1.44547e-11 t=7122
+ci 	次	c=2 d=0.00782838 t=7122
+ci 	词	c=1 d=0.97531 t=7122
+ci shi 	此时	c=1 d=1.02867e-09 t=7122
+cong 	从	c=4 d=0.463187 t=7122
+cong guo wai 	从国外	c=1 d=8.42203e-10 t=7122
+cong lai 	从来	c=1 d=0.00744658 t=7122
+cong zhong xin li 	从众心理	c=1 d=4.75058e-09 t=7122
+cu jin 	促进	c=1 d=0.0203434 t=7122
+cui 	催	c=1 d=4.72608e-07 t=7122
+cun 	存	c=1 d=0.0939493 t=7122
+cun kuan 	存款	c=1 d=0.0515605 t=7122
+cun zai 	存在	c=9 d=0.0781594 t=7122
+cun zhang 	村长	c=1 d=2.02e-07 t=7122
+cun zhe 	存着	c=1 d=1.31447e-11 t=7122
+cuo 	错	c=0 d=6.52637e-11 t=7122
+cuo wu 	错误	c=2 d=0.156453 t=7122
+da 	大	c=5 d=9.98754e-06 t=7122
+da bao 	打包	c=4 d=1.13732e-11 t=7122
+da bao jian 	大宝剑	c=2 d=4.26434e-09 t=7122
+da bao zhe 	打包者	c=1 d=4.55407e-12 t=7122
+da bu fen 	大部分	c=1 d=2.91836e-12 t=7122
+da bu kai 	打不开	c=3 d=8.00944e-11 t=7122
+da dao 	达到	c=1 d=2.40051e-08 t=7122
+da duan xiao duan 	大端小端	c=1 d=1.16322e-14 t=7122
+da fang jue ci 	大放厥词	c=1 d=2.43091e-09 t=7122
+da feng qi xi yun fei yang 	大风起兮云飞扬	c=1 d=5.87485e-08 t=7122
+da gai 	大改	c=0 d=4.75138e-12 t=7122
+da gai xiao 	大改小	c=1 d=4.7752e-11 t=7122
+da gong 	打工	c=0 d=0.0778801 t=7122
+da gong ren 	打工人	c=1 d=0.782705 t=7122
+da hu you 	大忽悠	c=1 d=2.59417e-09 t=7122
+da ji 	大吉	c=0 d=1.30095e-08 t=7122
+da jia 	大家	c=12 d=1.05779 t=7122
+da jia huo 	大家伙	c=1 d=2.37008e-05 t=7122
+da jian 	搭建	c=1 d=2.48728e-14 t=7122
+da kai 	打开	c=4 d=3.81182e-07 t=7122
+da lao 	大佬	c=1 d=8.99071e-14 t=7122
+da lao men 	大佬们	c=4 d=8.84501e-12 t=7122
+da luan 	打乱	c=1 d=2.68749e-13 t=7122
+da qin 	大秦	c=2 d=1.68838e-07 t=7122
+da qing chao 	大清朝	c=1 d=1.9603e-07 t=7122
+da quan 	大全	c=1 d=1.64671e-15 t=7122
+da si 	打死	c=1 d=6.87523e-05 t=7122
+da xi 	大戏	c=0 d=1.14255e-10 t=7122
+da xi niu 	大戏牛	c=1 d=1.14828e-09 t=7122
+da xiao 	大小	c=5 d=2.72598 t=7122
+da xiao xie 	大小写	c=2 d=7.13019e-11 t=7122
+da xiao zhuan 	大小篆	c=2 d=1.18595e-06 t=7122
+da xue 	大学	c=6 d=0.00260584 t=7122
+da xue sheng 	大学生	c=2 d=0.000167581 t=7122
+da zhang fu 	大丈夫	c=1 d=0.000243596 t=7122
+da zhi 	大致	c=1 d=1.42691e-06 t=7122
+da zhong 	打中	c=1 d=6.73909e-05 t=7122
+dai biao da hui 	代表大会	c=1 d=0.000113922 t=7122
+dai dong 	带动	c=1 d=1.42739e-10 t=7122
+dai kuan 	带宽	c=1 d=3.91972e-12 t=7122
+dai li 	代理	c=11 d=0.00930327 t=7122
+dai ma 	代码	c=4 d=0.0429768 t=7122
+dai ping 	戴凭	c=1 d=1.18898e-07 t=7122
+dai shang 	带上	c=1 d=6.13357e-15 t=7122
+dai xie 	代谢	c=1 d=0.0204453 t=7122
+dai zhe 	带着	c=1 d=0.0668703 t=7122
+dai zou 	带走	c=1 d=1.89777e-08 t=7122
+dan 	单	c=1 d=0.00524752 t=7122
+dan ci 	单词	c=1 d=3.55529e-11 t=7122
+dan dan 	单单	c=1 d=9.02962e-06 t=7122
+dan fan 	但凡	c=1 d=0.00212284 t=7122
+dan gao 	蛋糕	c=2 d=4.18468e-08 t=7122
+dan nang xi rou 	胆囊息肉	c=1 d=0.0197421 t=7122
+dan sheng 	诞生	c=0 d=6.9264e-05 t=7122
+dan shi 	但是	c=17 d=1.40847 t=7122
+dan wei 	单位	c=1 d=5.4626e-05 t=7122
+dan xian cheng 	单线程	c=1 d=3.23198e-07 t=7122
+dang 	当	c=6 d=0.000139226 t=7122
+dang dui 	党对	c=0 d=3.15326e-12 t=7122
+dang li 	当立	c=1 d=1.16544e-07 t=7122
+dang qian 	当前	c=4 d=0.07502 t=7122
+dang shi 	党史	c=2 d=9.14522e-07 t=7122
+dang shi 	当时	c=4 d=0.012093 t=7122
+dang wo 	当我	c=2 d=2.46481e-05 t=7122
+dang zheng jun 	党政军	c=0 d=1.23452e-09 t=7122
+dang zheng jun qun 	党政军群	c=1 d=1.24071e-08 t=7122
+dang zuo 	当作	c=1 d=0.000528747 t=7122
+dao 	到	c=14 d=0.106203 t=7122
+dao chu 	导出	c=1 d=2.72152e-14 t=7122
+dao ge 	倒戈	c=0 d=3.1289e-09 t=7122
+dao guan 	道观	c=1 d=0.0186856 t=7122
+dao jin zi ta 	倒金字塔	c=1 d=2.35338e-10 t=7122
+dao le 	刀了	c=1 d=0.362402 t=7122
+dao shi 	倒是	c=1 d=3.2092e-12 t=7122
+dao xian zai 	到现在	c=1 d=5.96364e-08 t=7122
+dao you 	道友	c=1 d=0.0182243 t=7122
+dao zhi 	导致	c=6 d=0.0713676 t=7122
+dao zu 	刀俎	c=1 d=6.33241e-08 t=7122
+de 	的	c=374 d=11.7583 t=7122
+de lu ke 	德鲁克	c=2 d=5.14997e-09 t=7122
+dei 	得	c=1 d=0.0152985 t=7122
+deng 	灯	c=1 d=8.27804e-13 t=7122
+deng 	等	c=2 d=0.891366 t=7122
+deng cha 	等差	c=2 d=2.40934e-14 t=7122
+deng deng 	等等	c=2 d=0.278037 t=7122
+deng ji 	等级	c=1 d=3.65535e-14 t=7122
+deng lu 	登录	c=4 d=0.99005 t=7122
+deng wo 	等我	c=1 d=2.21557e-06 t=7122
+di 	第	c=1 d=3.99959e-14 t=7122
+di er 	第二	c=1 d=8.61734e-15 t=7122
+di er ci 	第二次	c=2 d=1.32857e-05 t=7122
+di er ge 	第二个	c=1 d=0.00554422 t=7122
+di fang 	地方	c=4 d=0.148636 t=7122
+di gui 	递归	c=1 d=1.86114e-14 t=7122
+di li yu wo he you zai 	帝力于我何有哉	c=1 d=2.96963e-11 t=7122
+di ming 	地名	c=1 d=9.3062e-08 t=7122
+di san ge 	第三个	c=1 d=0.00557201 t=7122
+di shua 	滴刷	c=1 d=3.15433e-15 t=7122
+di yi 	第一	c=3 d=0.0686703 t=7122
+di yi ci 	第一次	c=2 d=0.0057417 t=7122
+di yi ge 	第一个	c=2 d=0.0393668 t=7122
+di yi gun 	第一滚	c=1 d=1.11761e-14 t=7122
+di yi kao lv 	第一考虑	c=1 d=0.0287246 t=7122
+di zhang zi 	嫡长子	c=2 d=6.6117e-08 t=7122
+di zhong hai 	地中海	c=1 d=8.4206e-08 t=7122
+di zhu 	地主	c=1 d=1.65383e-07 t=7122
+dian 	店	c=1 d=0.00299743 t=7122
+dian 	点	c=4 d=0.0531576 t=7122
+dian ci 	电磁	c=2 d=1.04768e-10 t=7122
+dian ci bo 	电磁波	c=1 d=5.49279e-11 t=7122
+dian huo 	点火	c=1 d=1.98512e-08 t=7122
+dian nao 	电脑	c=2 d=0.0160829 t=7122
+dian shi 	电视	c=1 d=0.0769192 t=7122
+dian tai 	电台	c=1 d=0.00506703 t=7122
+dian xia 	殿下	c=0 d=3.28932e-09 t=7122
+dian yuan 	电源	c=2 d=0.0773047 t=7122
+dian yun 	点云	c=6 d=2.08037e-06 t=7122
+dian zi 	电子	c=1 d=9.21517e-10 t=7122
+dian zi shu 	电子书	c=1 d=2.9043e-14 t=7122
+diao 	掉	c=2 d=5.5461e-07 t=7122
+diao du 	调度	c=1 d=0.110803 t=7122
+diao yong 	调用	c=4 d=0.000611253 t=7122
+diao zuan 	刁钻	c=0 d=1.33089e-11 t=7122
+ding 	丁	c=0 d=6.61127e-16 t=7122
+ding 	定	c=1 d=4.5212e-15 t=7122
+ding 	鼎	c=0 d=2.65297e-09 t=7122
+ding ge 	定个	c=0 d=0.0970446 t=7122
+ding ge gui ze 	定个规则	c=1 d=0.97531 t=7122
+ding hu 	鼎湖	c=0 d=2.07649e-09 t=7122
+ding ji 	顶级	c=1 d=0.0138427 t=7122
+ding ji shi 	丁技师	c=1 d=6.64441e-15 t=7122
+ding lv 	定律	c=3 d=1.22145e-08 t=7122
+ding sheng 	鼎盛	c=1 d=1.57317e-07 t=7122
+ding shi 	定时	c=9 d=0.377253 t=7122
+ding wei 	定位	c=1 d=2.20985e-05 t=7122
+ding yi 	定义	c=2 d=0.00113744 t=7122
+ding yuan 	定远	c=0 d=1.12535e-08 t=7122
+ding yuan hou 	定远侯	c=1 d=1.13099e-07 t=7122
+ding yue 	订阅	c=5 d=0.00135358 t=7122
+ding zhi 	定制	c=1 d=1.38544e-12 t=7122
+dong 	东	c=0 d=0.0980199 t=7122
+dong 	冻	c=1 d=1.81081e-15 t=7122
+dong 	懂	c=2 d=4.64637e-09 t=7122
+dong an 	东岸	c=1 d=8.46281e-08 t=7122
+dong bei 	东北	c=3 d=5.4939e-14 t=7122
+dong bu dong 	动不动	c=2 d=3.61091e-12 t=7122
+dong dong 	东东	c=1 d=3.22474e-10 t=7122
+dong hua 	动画	c=1 d=3.3138e-07 t=7122
+dong le 	懂了	c=6 d=5.57515e-08 t=7122
+dong ren 	动人	c=1 d=4.16069e-08 t=7122
+dong shou 	动手	c=1 d=0.00166989 t=7122
+dong tu 	动图	c=1 d=3.66232e-07 t=7122
+dong xi 	东西	c=6 d=0.0677453 t=7122
+dong xie lu 	东斜路	c=1 d=0.985112 t=7122
+dong zhong shu 	董仲舒	c=1 d=7.85131e-08 t=7122
+dou 	都	c=22 d=0.0783726 t=7122
+dou bei 	都被	c=2 d=0.879887 t=7122
+dou bu 	都不	c=0 d=1.21572e-05 t=7122
+dou bu que 	都不缺	c=1 d=0.0120946 t=7122
+dou bu sheng xiao 	都不生效	c=1 d=0.000122182 t=7122
+dou bu shi 	都不是	c=1 d=0.0569831 t=7122
+dou hai mei 	都还没	c=1 d=2.38854e-08 t=7122
+dou hao 	逗号	c=1 d=6.57494e-09 t=7122
+dou hao 	都好	c=1 d=2.21136e-13 t=7122
+dou hua 	都花	c=0 d=1.44897e-11 t=7122
+dou huai yi 	都怀疑	c=1 d=4.2579e-15 t=7122
+dou kuai 	都快	c=1 d=7.73311e-06 t=7122
+dou lai zi 	都来自	c=1 d=1.32746e-09 t=7122
+dou mei 	都没	c=2 d=0.132655 t=7122
+dou mei fa xian 	都没发现	c=1 d=4.70491e-13 t=7122
+dou mei you 	都没有	c=1 d=1.24434e-13 t=7122
+dou neng 	都能	c=1 d=1.55805e-11 t=7122
+dou shi 	都是	c=11 d=4.0381e-05 t=7122
+dou xiang 	都想	c=1 d=0.0393602 t=7122
+dou you 	都有	c=2 d=6.15467e-08 t=7122
+dou you fang zi 	都有房子	c=1 d=1.44174e-10 t=7122
+dou zha 	都炸	c=1 d=0.000867409 t=7122
+dou zhi chi 	都支持	c=1 d=1.5816e-11 t=7122
+dou zhi jie 	都直接	c=1 d=0.00185476 t=7122
+du 	都	c=0 d=8.63377e-09 t=7122
+du ai 	独爱	c=0 d=1.71274e-08 t=7122
+du ai ju 	独爱菊	c=1 d=1.72133e-07 t=7122
+du che 	堵车	c=1 d=6.97914e-05 t=7122
+du liang heng 	度量衡	c=1 d=5.36921e-08 t=7122
+du qu 	读取	c=1 d=9.05762e-13 t=7122
+du ru hui 	杜如晦	c=1 d=1.51149e-07 t=7122
+du si 	堵死	c=0 d=0.00177743 t=7122
+du si le 	堵死了	c=1 d=0.0178634 t=7122
+du zhe 	堵着	c=1 d=0.00975476 t=7122
+du zun ru shu 	独尊儒术	c=1 d=7.54346e-08 t=7122
+duan 	段	c=1 d=1.23494e-12 t=7122
+duan 	端	c=2 d=1.29901e-10 t=7122
+duan chang ren zai tian ya 	断肠人在天涯	c=1 d=1.26883e-07 t=7122
+duan kou 	端口	c=2 d=3.26869e-14 t=7122
+duan yi 	短一	c=0 d=0.000814786 t=7122
+duan yi dian 	短一点	c=1 d=0.0081887 t=7122
+dui 	兑	c=1 d=1.95557e-08 t=7122
+dui 	对	c=12 d=0.0648304 t=7122
+dui 	怼	c=0 d=2.93299e-13 t=7122
+dui 	队	c=0 d=0.00182243 t=7122
+dui bi 	对比	c=1 d=0.0105672 t=7122
+dui bu dui 	对不对	c=1 d=8.81118e-12 t=7122
+dui deng 	对等	c=1 d=4.63171e-05 t=7122
+dui guo jia 	对国家	c=1 d=2.56216e-10 t=7122
+dui jiu dang ge 	对酒当歌	c=1 d=9.09837e-07 t=7122
+dui ma 	对吗	c=1 d=2.85319e-11 t=7122
+dui xiang 	对象	c=3 d=0.00527382 t=7122
+dui yi ge 	怼一个	c=1 d=2.94769e-12 t=7122
+duo 	多	c=9 d=0.232241 t=7122
+duo duo yi shan 	多多益善	c=1 d=6.79156e-08 t=7122
+duo ge 	多个	c=5 d=2.84867e-06 t=7122
+duo hao 	多好	c=1 d=9.35285e-08 t=7122
+duo ji 	多级	c=1 d=1.87985e-14 t=7122
+duo lao 	多劳	c=0 d=2.15639e-12 t=7122
+duo lao duo de 	多劳多得	c=1 d=2.14564e-11 t=7122
+duo lao shao de 	多劳少得	c=1 d=2.1672e-11 t=7122
+duo ping 	多屏	c=2 d=0.512744 t=7122
+duo shao nian 	多少年	c=1 d=1.62921e-07 t=7122
+duo shao qian 	多少钱	c=1 d=1.01878e-13 t=7122
+duo xi tan jing 	夺席谈经	c=1 d=1.18305e-07 t=7122
+duo xian cheng 	多线程	c=3 d=7.64544e-07 t=7122
+duo xiao 	多小	c=1 d=4.38533e-09 t=7122
+e 	娥	c=0 d=2.15046e-09 t=7122
+e 	额	c=3 d=2.02978e-05 t=7122
+e de 	饿得	c=0 d=6.11773e-15 t=7122
+e de yi pi 	饿得一批	c=1 d=6.1484e-14 t=7122
+e huang nv ying 	娥晃女英	c=1 d=2.16124e-08 t=7122
+e le 	饿了	c=1 d=5.90731e-14 t=7122
+e yu 	鳄鱼	c=0 d=4.65651e-10 t=7122
+e yu fa ze 	鳄鱼法则	c=1 d=4.67985e-09 t=7122
+en 	嗯	c=9 d=0.303056 t=7122
+en 	恩	c=1 d=3.73821e-13 t=7122
+er 	尔	c=1 d=2.5175e-09 t=7122
+er 	而	c=1 d=4.91812e-05 t=7122
+er ci 	二次	c=1 d=7.82971e-05 t=7122
+er ci yuan 	二次元	c=1 d=2.39553e-13 t=7122
+er duo 	耳朵	c=2 d=0.0429894 t=7122
+er ji 	二级	c=4 d=0.741318 t=7122
+er ji 	耳机	c=1 d=1.50836e-12 t=7122
+er qie 	而且	c=1 d=1.67017e-05 t=7122
+er ru 	而入	c=0 d=2.94008e-12 t=7122
+er shi si 	二十四	c=1 d=1.48899e-07 t=7122
+er shou 	二手	c=1 d=0.00194013 t=7122
+er yi 	而已	c=1 d=2.30121e-11 t=7122
+fa 	发	c=1 d=0.172907 t=7122
+fa 	法	c=0 d=4.2874e-09 t=7122
+fa an 	法案	c=1 d=0.000210716 t=7122
+fa bu 	发布	c=1 d=2.69444e-14 t=7122
+fa dian 	发电	c=1 d=1.3545e-11 t=7122
+fa ding xing 	法定性	c=1 d=9.42406e-09 t=7122
+fa jing 	法经	c=1 d=4.2874e-08 t=7122
+fa lv 	法律	c=2 d=0.000191625 t=7122
+fa pang 	发胖	c=1 d=0.0202419 t=7122
+fa sheng 	发生	c=2 d=2.69912e-05 t=7122
+fa song 	发送	c=4 d=4.15485e-12 t=7122
+fa wai 	法外	c=1 d=0.000220415 t=7122
+fa wen 	发文	c=3 d=4.37127e-08 t=7122
+fa wen ji guan 	发文机关	c=3 d=3.63254e-08 t=7122
+fa wen zi hao 	发文字号	c=1 d=1.26577e-08 t=7122
+fa xian 	发现	c=16 d=0.263074 t=7122
+fa yue er 	法约尔	c=5 d=1.21648e-08 t=7122
+fa ze 	法则	c=1 d=4.31639e-09 t=7122
+fan 	反	c=1 d=3.00672e-10 t=7122
+fan bi 	反比	c=1 d=8.3167e-09 t=7122
+fan er 	反而	c=2 d=0.0253494 t=7122
+fan qiang 	翻墙	c=1 d=0.000280202 t=7122
+fan qie 	番茄	c=1 d=5.70413e-14 t=7122
+fan se 	反色	c=5 d=1.74648e-09 t=7122
+fan she 	反射	c=1 d=1.88863e-10 t=7122
+fan shui 	反水	c=1 d=1.40227e-07 t=7122
+fan suo 	繁琐	c=1 d=0.0238732 t=7122
+fan wei 	范围	c=0 d=1.67478e-09 t=7122
+fan yi 	翻译	c=3 d=1.94666e-06 t=7122
+fan zhe 	反着	c=1 d=2.10315e-11 t=7122
+fan zheng 	反正	c=1 d=0.00184551 t=7122
+fan zhuan 	反转	c=1 d=3.91906e-10 t=7122
+fan zui 	犯罪	c=1 d=7.71314e-05 t=7122
+fang 	放	c=2 d=2.04753e-11 t=7122
+fang an 	方案	c=1 d=1.73054e-11 t=7122
+fang bian 	方便	c=3 d=0.0717554 t=7122
+fang fa 	方法	c=1 d=1.49696e-11 t=7122
+fang jia 	房价	c=2 d=3.43808e-10 t=7122
+fang mou du duan 	房谋杜断	c=1 d=1.53433e-07 t=7122
+fang qi 	放弃	c=3 d=7.7511e-05 t=7122
+fang wen 	访问	c=2 d=6.31499e-05 t=7122
+fang xuan ling 	房玄龄	c=1 d=1.50395e-07 t=7122
+fang zi 	房子	c=0 d=1.43455e-11 t=7122
+fei 	费	c=1 d=0.00486835 t=7122
+fei 	非	c=2 d=0.0247235 t=7122
+fei bi yao 	非必要	c=1 d=0.955997 t=7122
+fei chang 	非常	c=6 d=0.00119453 t=7122
+fei di gui 	非递归	c=1 d=3.59102e-11 t=7122
+fei dian 	费电	c=1 d=5.79087e-15 t=7122
+fei dian a 	费电啊	c=1 d=4.07054e-15 t=7122
+fei hui 	飞会	c=1 d=3.78297e-06 t=7122
+fei ji shi shi 	飞机失事	c=1 d=1.08683e-09 t=7122
+fei le 	废了	c=0 d=1.97012e-08 t=7122
+fei wo 	非我	c=1 d=2.05157e-13 t=7122
+fei wu zhi 	非物质	c=1 d=0.08291 t=7122
+fei yan 	费眼	c=1 d=2.8175e-10 t=7122
+fen 	分	c=3 d=2.3465e-05 t=7122
+fen bian lv 	分辨率	c=5 d=0.229925 t=7122
+fen bu shi 	分布式	c=3 d=6.72607e-09 t=7122
+fen dan gao 	分蛋糕	c=2 d=4.79266e-11 t=7122
+fen feng zhi 	分封制	c=2 d=6.43245e-08 t=7122
+fen gong 	分工	c=1 d=2.88137e-09 t=7122
+fen hao 	份号	c=4 d=5.10733e-08 t=7122
+fen hao 	分号	c=1 d=1.08402e-08 t=7122
+fen lei 	分类	c=1 d=8.05281e-12 t=7122
+fen qi 	分期	c=1 d=0.554327 t=7122
+fen qu 	分区	c=2 d=5.80039e-05 t=7122
+fen qu biao 	分区表	c=1 d=0.970446 t=7122
+fen shen 	分身	c=2 d=0.12132 t=7122
+fen shui ling 	分水岭	c=1 d=2.81702e-08 t=7122
+fen xi 	分析	c=1 d=0.0599047 t=7122
+fen xiang 	分享	c=1 d=0.0042963 t=7122
+fen zhong 	分钟	c=1 d=2.05192e-15 t=7122
+feng 	封	c=1 d=0.00065231 t=7122
+feng 	风	c=1 d=1.80178e-15 t=7122
+feng ge 	风格	c=1 d=2.31873e-12 t=7122
+feng huo xi zhu hou 	烽火戏诸侯	c=1 d=3.42356e-08 t=7122
+feng jian 	封建	c=1 d=3.91961e-08 t=7122
+feng kuang 	疯狂	c=2 d=0.000399634 t=7122
+feng lang 	封狼	c=1 d=9.07643e-08 t=7122
+feng lang ju xu 	封狼居胥	c=1 d=8.9413e-08 t=7122
+feng shan 	风扇	c=4 d=0.00147705 t=7122
+feng zhuang 	封装	c=4 d=0.0324411 t=7122
+fo jiao 	佛教	c=1 d=8.05007e-08 t=7122
+fu 	府	c=0 d=8.63377e-09 t=7122
+fu 	负	c=0 d=0.00176857 t=7122
+fu chu 	复出	c=1 d=8.98918e-12 t=7122
+fu de 	富的	c=2 d=1.56937 t=7122
+fu de 	负的	c=1 d=1.47112e-12 t=7122
+fu gai 	覆盖	c=1 d=0.000569928 t=7122
+fu gai diao 	覆盖掉	c=1 d=8.55222e-14 t=7122
+fu hao 	符号	c=3 d=2.41216e-06 t=7122
+fu hui 	复回	c=1 d=7.33822e-07 t=7122
+fu huo 	复活	c=1 d=2.60806e-13 t=7122
+fu jian 	附件	c=2 d=3.02347e-08 t=7122
+fu po 	富婆	c=1 d=0.774916 t=7122
+fu sheng 	复圣	c=1 d=7.30162e-07 t=7122
+fu shou ru 	负收入	c=1 d=0.0177743 t=7122
+fu wu 	服务	c=3 d=0.00286574 t=7122
+fu wu qi 	服务器	c=8 d=0.016245 t=7122
+fu yin 	复印	c=2 d=2.84678e-08 t=7122
+fu za 	复杂	c=1 d=0.657047 t=7122
+fu zai 	负载	c=1 d=0.00151098 t=7122
+fu zai jun heng 	负载均衡	c=3 d=5.14497e-06 t=7122
+fu zhi 	复制	c=1 d=3.43301e-11 t=7122
+fu zhu 	辅助	c=1 d=0.0290133 t=7122
+fu zhu 	附注	c=1 d=1.67478e-08 t=7122
+fu zhu ji guan 	辅助机关	c=1 d=7.91109e-09 t=7122
+fu zi 	父子	c=2 d=8.62229e-14 t=7122
+gai 	改	c=1 d=3.3439e-11 t=7122
+gai 	盖	c=1 d=1.64984e-08 t=7122
+gai 	该	c=1 d=3.53784e-05 t=7122
+gai bian 	改变	c=1 d=0.0443785 t=7122
+gai cheng xu 	改程序	c=1 d=1.27562e-11 t=7122
+gai kao lv 	该考虑	c=1 d=2.09195e-07 t=7122
+gai le 	改了	c=3 d=6.90392e-05 t=7122
+gai lv 	概率	c=5 d=0.288324 t=7122
+gai nian 	概念	c=1 d=0.0269169 t=7122
+gai xia 	垓下	c=1 d=6.84959e-08 t=7122
+gai xia zhi zhan 	垓下之战	c=1 d=6.14526e-08 t=7122
+gai zen me 	该怎么	c=1 d=0.856415 t=7122
+gai zhi 	改制	c=0 d=1.29446e-08 t=7122
+gan 	干	c=2 d=0.0196627 t=7122
+gan diao 	干掉	c=4 d=5.55504e-05 t=7122
+gan fei 	干费	c=1 d=0.000829241 t=7122
+gan guo 	干过	c=0 d=1.42395e-12 t=7122
+gan jue 	感觉	c=17 d=0.333273 t=7122
+gan le 	干了	c=1 d=9.46807e-05 t=7122
+gan rao 	干扰	c=1 d=5.33045e-11 t=7122
+gan sha 	干啥	c=1 d=0.00321477 t=7122
+gan xie 	感谢	c=1 d=6.96467e-10 t=7122
+gang 	刚	c=9 d=0.245409 t=7122
+gang gang 	刚刚	c=1 d=2.302e-15 t=7122
+gang gang hao 	刚刚好	c=1 d=0.511709 t=7122
+gang gao 	刚搞	c=1 d=1.9613e-13 t=7122
+gang hao 	刚好	c=2 d=2.48697e-12 t=7122
+gang jing 	杠精	c=1 d=5.74463e-09 t=7122
+gang qi dong 	刚启动	c=1 d=0.000305061 t=7122
+gang wei 	岗位	c=1 d=0.000205513 t=7122
+gao 	搞	c=10 d=0.20928 t=7122
+gao 	高	c=0 d=1.17491e-15 t=7122
+gao bu liao me 	搞不了么	c=1 d=7.25138e-14 t=7122
+gao chou 	搞臭	c=0 d=0.000341356 t=7122
+gao chou le 	搞臭了	c=1 d=0.00343067 t=7122
+gao de 	搞得	c=2 d=0.869558 t=7122
+gao di 	高低	c=1 d=3.66294e-09 t=7122
+gao di 	高地	c=1 d=3.81243e-09 t=7122
+gao du 	高度	c=1 d=2.43679e-08 t=7122
+gao ge 	搞个	c=6 d=1.34214 t=7122
+gao ji 	高级	c=1 d=8.02792e-05 t=7122
+gao ji zhong xue 	高级中学	c=2 d=7.47725e-14 t=7122
+gao jin qu 	搞进去	c=1 d=0.000649051 t=7122
+gao le 	搞了	c=3 d=0.900325 t=7122
+gao mi hu 	搞迷糊	c=1 d=7.81082e-06 t=7122
+gao shua 	高刷	c=1 d=3.10737e-15 t=7122
+gao su 	告诉	c=1 d=0.00334597 t=7122
+gao xiao 	高效	c=1 d=0.0256042 t=7122
+gao zhe ge 	搞这个	c=1 d=2.08293e-15 t=7122
+gao zhong 	高中	c=4 d=1.06118e-13 t=7122
+ge 	个	c=33 d=1.80808 t=7122
+ge 	割	c=0 d=0.0053397 t=7122
+ge jiu cai 	割韭菜	c=1 d=0.0536647 t=7122
+ge li 	隔离	c=1 d=0.000675539 t=7122
+ge rou 	割肉	c=1 d=3.8408e-08 t=7122
+ge sha 	个啥	c=1 d=8.63377e-08 t=7122
+ge shi 	格式	c=8 d=7.60179e-06 t=7122
+ge shu 	个数	c=1 d=1.93243e-15 t=7122
+ge yi 	隔一	c=0 d=3.14565e-13 t=7122
+ge yi hui 	隔一会	c=1 d=3.16142e-12 t=7122
+gei 	给	c=8 d=1.01955 t=7122
+gei ni 	给你	c=4 d=0.0295431 t=7122
+gen 	艮	c=1 d=1.93611e-08 t=7122
+gen 	跟	c=1 d=4.71709e-14 t=7122
+gen ben 	根本	c=1 d=0.000122721 t=7122
+gen ben zhi du 	根本制度	c=1 d=0.000111109 t=7122
+gen ju 	根据	c=3 d=0.00819795 t=7122
+gen yuan 	根源	c=1 d=9.66756e-15 t=7122
+geng 	更	c=9 d=0.0694848 t=7122
+geng hen 	更狠	c=1 d=2.2611e-10 t=7122
+geng ju ti yi dian 	更具体一点	c=1 d=4.12925e-07 t=7122
+geng le 	更了	c=1 d=1.18979e-15 t=7122
+geng xi huan 	更喜欢	c=1 d=8.41916e-06 t=7122
+geng xin 	更新	c=16 d=6.41179 t=7122
+geng zhong 	更重	c=1 d=0.000224867 t=7122
+gong 	公	c=1 d=6.78612e-08 t=7122
+gong 	工	c=1 d=1.84614e-07 t=7122
+gong bao 	公报	c=1 d=9.85783e-09 t=7122
+gong cheng 	工程	c=4 d=0.548838 t=7122
+gong gong 	公共	c=1 d=7.33946e-09 t=7122
+gong he 	共和	c=0 d=3.37259e-09 t=7122
+gong he xing zheng 	共和行政	c=1 d=3.38949e-08 t=7122
+gong ji 	公基	c=1 d=2.53667e-10 t=7122
+gong jia 	公家	c=1 d=1.20715e-09 t=7122
+gong ju 	工具	c=4 d=6.96883e-06 t=7122
+gong ju xing 	工具性	c=1 d=9.4713e-09 t=7122
+gong kai 	公开	c=1 d=0.00332928 t=7122
+gong kao 	公考	c=1 d=1.12245e-06 t=7122
+gong mian 	共勉	c=1 d=1.13686e-09 t=7122
+gong neng 	功能	c=4 d=0.960799 t=7122
+gong nv 	宫女	c=1 d=8.72054e-08 t=7122
+gong si 	公私	c=1 d=2.26695e-11 t=7122
+gong tong 	共同	c=1 d=7.67467e-05 t=7122
+gong wen 	公文	c=1 d=1.72578e-08 t=7122
+gong wu yuan 	公务员	c=3 d=2.7558e-10 t=7122
+gong xian 	贡献	c=1 d=2.88186e-11 t=7122
+gong xiang 	共享	c=6 d=0.00306364 t=7122
+gong you zhi 	公有制	c=3 d=6.34695e-11 t=7122
+gong yuan 	公元	c=1 d=1.07047e-07 t=7122
+gong zi xiao bai 	公子小白	c=1 d=3.7087e-08 t=7122
+gong zuo liu 	工作流	c=2 d=8.8394e-12 t=7122
+gong zuo qu 	工作区	c=1 d=4.85909e-10 t=7122
+gou 	狗	c=1 d=0.612626 t=7122
+gou qiang 	够呛	c=1 d=0.0608101 t=7122
+gu 	古	c=0 d=1.29446e-08 t=7122
+gu dai 	古代	c=2 d=2.52518e-06 t=7122
+gu dao xi feng shou ma 	古道西风瘦马	c=1 d=1.25621e-07 t=7122
+gu ge 	谷歌	c=1 d=2.80393e-12 t=7122
+gu jin 	古今	c=1 d=2.78899e-08 t=7122
+gu zhang 	故障	c=1 d=8.4467e-15 t=7122
+gua 	挂	c=1 d=2.44984e-12 t=7122
+gua ji 	挂机	c=1 d=0.588605 t=7122
+gua le 	挂了	c=1 d=0.0997588 t=7122
+gua pai 	挂牌	c=1 d=8.78693e-09 t=7122
+guai 	怪	c=1 d=0.0063481 t=7122
+guai guai 	怪怪	c=1 d=0.0127784 t=7122
+guan ban 	官办	c=2 d=2.42603e-07 t=7122
+guan bi 	关闭	c=1 d=9.96199e-15 t=7122
+guan cha 	观察	c=2 d=0.591939 t=7122
+guan diao 	关掉	c=3 d=2.64567e-05 t=7122
+guan du 	官渡	c=1 d=1.32061e-07 t=7122
+guan ji 	关机	c=3 d=0.499074 t=7122
+guan jian 	关键	c=4 d=1.98232 t=7122
+guan jian ci 	关键词	c=1 d=1.35101e-10 t=7122
+guan jian shi 	关键是	c=1 d=3.32294e-10 t=7122
+guan jun hou 	冠军候	c=1 d=8.8967e-08 t=7122
+guan li 	管理	c=7 d=0.598164 t=7122
+guan li ju 	管理局	c=1 d=8.6995e-09 t=7122
+guan li xing 	管理型	c=1 d=7.48773e-09 t=7122
+guan li xue 	管理学	c=3 d=9.84621e-09 t=7122
+guan li zhi fu 	管理之父	c=1 d=1.51932e-09 t=7122
+guan wang 	官网	c=1 d=2.01129e-15 t=7122
+guan xi 	关系	c=2 d=2.18835e-07 t=7122
+guan xing 	惯性	c=1 d=5.04434e-09 t=7122
+guan yu 	关于	c=1 d=1.95185e-15 t=7122
+guang 	光	c=1 d=1.34103e-11 t=7122
+guang da 	广大	c=1 d=2.59461e-11 t=7122
+guang huan xiao ying 	光环效应	c=1 d=5.38311e-09 t=7122
+guang mao 	光猫	c=1 d=1.55456e-14 t=7122
+guang wu 	光武	c=1 d=1.04927e-07 t=7122
+gui fan 	规范	c=2 d=0.00110651 t=7122
+gui fan xing 	规范性	c=1 d=9.37706e-09 t=7122
+gui lv 	规律	c=3 d=6.55374e-05 t=7122
+gui qian 	贵钱	c=1 d=8.80968e-10 t=7122
+gui shu 	归属	c=1 d=1.06274e-10 t=7122
+gui yi 	诡异	c=1 d=7.02009e-15 t=7122
+gui ze 	规则	c=2 d=0.10561 t=7122
+gun 	滚	c=2 d=0.00105717 t=7122
+gun dong 	滚动	c=2 d=0.00514576 t=7122
+gun yi bo 	滚一波	c=1 d=1.01632e-14 t=7122
+gun yi xia 	滚一下	c=2 d=0.928532 t=7122
+gun zhe 	滚着	c=2 d=0.00961577 t=7122
+guo 	国	c=2 d=2.76994e-07 t=7122
+guo 	过	c=6 d=0.0196022 t=7122
+guo 	锅	c=1 d=6.26833e-06 t=7122
+guo chan 	国产	c=1 d=0.000365224 t=7122
+guo cheng 	过程	c=2 d=0.847894 t=7122
+guo duan 	果断	c=1 d=0.000953854 t=7122
+guo ji 	国际	c=1 d=1.94079e-07 t=7122
+guo jia 	国家	c=1 d=8.61294e-09 t=7122
+guo jie 	过节	c=1 d=8.74013e-05 t=7122
+guo kao 	国考	c=1 d=1.37498e-11 t=7122
+guo le 	过了	c=2 d=3.10286e-05 t=7122
+guo lv 	过滤	c=2 d=5.52026e-07 t=7122
+guo nei 	国内	c=8 d=0.397543 t=7122
+guo nian 	过年	c=2 d=2.04294e-14 t=7122
+guo qi 	过期	c=1 d=5.22312e-07 t=7122
+guo qu 	过去	c=2 d=1.36083e-07 t=7122
+guo shi wu shuang 	国士无双	c=1 d=6.85982e-08 t=7122
+guo wai 	国外	c=2 d=9.24124e-10 t=7122
+guo wu yuan 	国务院	c=1 d=0.000204488 t=7122
+guo yi hui 	过一会	c=1 d=0.937067 t=7122
+ha 	哈	c=2 d=0.0871617 t=7122
+ha ha 	哈哈	c=5 d=3.2836e-11 t=7122
+hai 	还	c=9 d=0.502768 t=7122
+hai bu 	还不	c=1 d=0.134426 t=7122
+hai bu ru 	还不如	c=2 d=0.0045375 t=7122
+hai bu wan 	还不晚	c=1 d=6.91205e-09 t=7122
+hai bu yi yang 	还不一样	c=1 d=0.323033 t=7122
+hai bu zheng 	还不正	c=1 d=3.03065e-15 t=7122
+hai chou 	还丑	c=1 d=2.30717e-12 t=7122
+hai en 	海恩	c=1 d=3.83154e-09 t=7122
+hai hao 	还好	c=1 d=2.71311e-07 t=7122
+hai hui 	还会	c=4 d=0.941765 t=7122
+hai ji de 	还记得	c=1 d=0.00538036 t=7122
+hai mei 	还没	c=1 d=4.51735e-05 t=7122
+hai sheng 	还省	c=0 d=0.0017953 t=7122
+hai sheng zhu su 	还省住宿	c=1 d=0.018043 t=7122
+hai shi 	还是	c=25 d=2.64578 t=7122
+hai xing 	还行	c=1 d=2.15713e-15 t=7122
+hai yao 	还要	c=2 d=1.76045e-09 t=7122
+hai yi wei 	还以为	c=1 d=1.52326e-10 t=7122
+hai you 	还有	c=8 d=0.145634 t=7122
+hai zai 	还在	c=1 d=9.19607e-15 t=7122
+hai zhen 	还真	c=1 d=8.17312e-10 t=7122
+hai zhen shi 	还真是	c=1 d=1.6794e-11 t=7122
+hai zhi shi 	还只是	c=1 d=0.0761538 t=7122
+hai zi 	孩子	c=1 d=6.60565e-05 t=7122
+han chu san jie 	汉初三杰	c=1 d=6.39605e-08 t=7122
+han gong qiu 	汉宫秋	c=1 d=9.88166e-08 t=7122
+han hua 	汉化	c=1 d=1.4306e-07 t=7122
+han li 	汉隶	c=1 d=2.77508e-08 t=7122
+han shu 	函数	c=3 d=0.0319048 t=7122
+han shu 	汉书	c=1 d=1.1086e-07 t=7122
+han shu ming 	函数名	c=1 d=1.72608e-10 t=7122
+han wen 	韩文	c=0 d=8.9413e-09 t=7122
+han wen zheng 	韩文正	c=2 d=1.09038e-06 t=7122
+han wu di 	汉武帝	c=1 d=6.99839e-08 t=7122
+han xin 	韩信	c=2 d=1.32167e-07 t=7122
+han zi 	汉字	c=1 d=2.80297e-08 t=7122
+hang 	行	c=4 d=0.000172952 t=7122
+hang hao 	行号	c=1 d=3.71893e-11 t=7122
+hang nei 	行内	c=1 d=1.4854e-08 t=7122
+hang ye 	行业	c=1 d=7.32176e-10 t=7122
+hao 	号	c=5 d=0.99005 t=7122
+hao 	好	c=23 d=1.02671 t=7122
+hao chu 	好处	c=2 d=0.0257014 t=7122
+hao de 	好的	c=4 d=2.29465e-06 t=7122
+hao duo 	好多	c=8 d=0.00791039 t=7122
+hao duo ye 	好多页	c=1 d=1.25599e-05 t=7122
+hao hao 	好好	c=4 d=0.0320746 t=7122
+hao jiu 	好久	c=1 d=2.04628e-12 t=7122
+hao ren 	好人	c=1 d=4.3522e-08 t=7122
+hao xiang 	好像	c=25 d=0.922604 t=7122
+hao xiang 	好香	c=0 d=0.00109985 t=7122
+hao xiang a 	好香啊	c=1 d=0.0110536 t=7122
+hao xin ren 	好心人	c=1 d=0.99005 t=7122
+hao yang mao 	薅羊毛	c=2 d=6.84319e-12 t=7122
+hao yong 	好用	c=1 d=0.00327971 t=7122
+hao zi yuan 	耗资源	c=2 d=8.71905e-06 t=7122
+he 	和	c=16 d=2.34041 t=7122
+he bing 	合并	c=2 d=1.45721e-10 t=7122
+he cheng 	合成	c=2 d=1.92662e-07 t=7122
+he cu 	喝醋	c=1 d=0.0224829 t=7122
+he nan 	河南	c=12 d=0.0162571 t=7122
+he nan sheng 	河南省	c=3 d=2.84443 t=7122
+he qin 	和亲	c=1 d=9.98097e-08 t=7122
+he shui 	喝水	c=1 d=0.0209629 t=7122
+he yi 	何以	c=0 d=3.56328e-09 t=7122
+he yi wei feng jian 	何以为封建	c=1 d=3.58114e-08 t=7122
+he zi 	赫兹	c=0 d=1.95085e-10 t=7122
+he zi bo ge 	赫兹伯格	c=3 d=6.24637e-09 t=7122
+he zuo 	合作	c=1 d=2.91033e-09 t=7122
+hei 	黑	c=2 d=4.23563e-10 t=7122
+hei tian e 	黑天鹅	c=1 d=1.39576e-11 t=7122
+hen 	很	c=4 d=0.0284345 t=7122
+hen da 	很大	c=2 d=3.93297e-05 t=7122
+hen di 	很低	c=1 d=3.28988e-10 t=7122
+hen duo 	很多	c=2 d=2.76745e-05 t=7122
+hen duo bei 	很多倍	c=1 d=0.00329615 t=7122
+hen jiu 	很久	c=1 d=3.21586e-07 t=7122
+hen ming xian 	很明显	c=1 d=1.0578e-14 t=7122
+hen ren 	狠人	c=1 d=3.95777e-08 t=7122
+hen she hui 	很社会	c=1 d=7.45039e-09 t=7122
+hen ying ping ren lan de 	很影评人懒得	c=1 d=4.86074e-14 t=7122
+hen zheng chang 	很正常	c=1 d=7.99332e-13 t=7122
+hong 	宏	c=1 d=3.62711e-11 t=7122
+hong hu zhi zhi 	鸿鹄之志	c=1 d=6.05377e-08 t=7122
+hong se 	红色	c=1 d=1.19803e-08 t=7122
+hou 	侯	c=0 d=1.12535e-08 t=7122
+hou 	后	c=9 d=1.66711 t=7122
+hou guo 	后果	c=1 d=0.0347353 t=7122
+hou mian 	后面	c=6 d=0.0443767 t=7122
+hou mu 	后母	c=0 d=2.65297e-09 t=7122
+hou mu wu ding 	后母戊鼎	c=1 d=2.66627e-08 t=7122
+hou tai 	后台	c=2 d=2.86651e-07 t=7122
+hou tian 	后天	c=1 d=1.7573e-15 t=7122
+hou zhe 	后者	c=1 d=1.56613e-13 t=7122
+hu 	户	c=0 d=8.63377e-09 t=7122
+hu chi 	互斥	c=0 d=8.3167e-10 t=7122
+hu chi xuan xiang 	互斥选项	c=1 d=8.35839e-09 t=7122
+hu lve 	忽略	c=2 d=1.06903e-10 t=7122
+hu ming 	糊名	c=1 d=1.77375e-07 t=7122
+hu ran 	忽然	c=1 d=4.35294e-10 t=7122
+hu seng 	胡僧	c=1 d=8.17173e-08 t=7122
+hu yan 	护眼	c=1 d=4.88345e-10 t=7122
+hu you 	忽悠	c=1 d=2.55555e-09 t=7122
+hua 	话	c=3 d=2.12944e-06 t=7122
+hua bing 	画饼	c=2 d=2.96628e-09 t=7122
+hua li hu shao 	花里胡哨	c=2 d=6.66695e-07 t=7122
+hua sheng ke 	花生壳	c=1 d=0.371577 t=7122
+hua shuo 	话说	c=24 d=2.20988 t=7122
+hua tuo 	华佗	c=1 d=4.71468e-08 t=7122
+hua wei 	华为	c=3 d=4.83948e-14 t=7122
+huai 	坏	c=5 d=2.49929 t=7122
+huai le 	坏了	c=3 d=1.77901e-12 t=7122
+huai qing xu 	坏情绪	c=1 d=7.01651e-09 t=7122
+huai yi 	怀疑	c=2 d=0.000193557 t=7122
+huan 	换	c=8 d=0.01727 t=7122
+huan 	还	c=1 d=0.56836 t=7122
+huan cheng 	换成	c=2 d=0.946485 t=7122
+huan cun 	缓存	c=2 d=1.73851e-10 t=7122
+huan fa 	焕发	c=1 d=7.56685e-15 t=7122
+huan jie 	缓解	c=0 d=5.07221e-16 t=7122
+huan jie le 	缓解了	c=1 d=5.09763e-15 t=7122
+huan jing 	环境	c=11 d=0.68731 t=7122
+huan jing bian liang 	环境变量	c=1 d=2.22244e-13 t=7122
+huang 	晃	c=0 d=2.15046e-09 t=7122
+huang 	皇	c=1 d=2.17207e-08 t=7122
+huang chao 	黄巢	c=1 d=1.67883e-07 t=7122
+huang di 	皇帝	c=3 d=0.173953 t=7122
+huang di nei jing 	黄帝内经	c=1 d=4.66777e-08 t=7122
+huang he 	黄河	c=1 d=2.449e-08 t=7122
+huang jin qi yi 	黄巾起义	c=2 d=2.38558e-07 t=7122
+huang lao 	黄老	c=0 d=6.8942e-09 t=7122
+huang lao zhi shu 	黄老之术	c=1 d=6.92876e-08 t=7122
+huang shi 	黄石	c=1 d=6.65708e-08 t=7122
+huang tian 	皇天	c=1 d=1.15962e-07 t=7122
+huang zong xi 	黄宗羲	c=1 d=8.27381e-07 t=7122
+hui 	会	c=11 d=0.417089 t=7122
+hui ba 	会把	c=1 d=8.38288e-14 t=7122
+hui bu hui 	会不会	c=3 d=0.000821453 t=7122
+hui bu hui shi 	会不会是	c=1 d=3.75695e-13 t=7122
+hui chu 	会出	c=0 d=6.52637e-11 t=7122
+hui chu cuo 	会出错	c=1 d=6.55908e-10 t=7122
+hui dao 	回到	c=2 d=0.018533 t=7122
+hui dong 	会动	c=1 d=0.00220948 t=7122
+hui fu 	恢复	c=2 d=8.6812e-06 t=7122
+hui he 	会合	c=1 d=1.12593e-13 t=7122
+hui he 	会和	c=1 d=1.86564e-13 t=7122
+hui hua 	会话	c=1 d=1.76977e-10 t=7122
+hui lai 	回来	c=1 d=2.70749e-12 t=7122
+hui lv 	汇率	c=1 d=1.06531e-09 t=7122
+hui meng 	会盟	c=0 d=3.65348e-09 t=7122
+hui mie 	毁灭	c=0 d=8.74162e-08 t=7122
+hui mie ba 	毁灭把	c=1 d=8.78544e-07 t=7122
+hui qu 	回去	c=3 d=0.956017 t=7122
+hui shi 	回事	c=2 d=5.94842e-07 t=7122
+hui tu 	绘图	c=1 d=0.394554 t=7122
+hui tui 	回退	c=1 d=9.52363e-15 t=7122
+hui xi niu 	灰犀牛	c=1 d=1.16623e-15 t=7122
+hui xiang 	会响	c=1 d=1.7646e-05 t=7122
+hui you 	会有	c=2 d=0.000195512 t=7122
+hui yuan 	会员	c=1 d=0.0136366 t=7122
+huo 	伙	c=1 d=3.70807e-06 t=7122
+huo 	获	c=1 d=3.51202e-14 t=7122
+huo 	货	c=1 d=0.744532 t=7122
+huo 	霍	c=1 d=9.03116e-08 t=7122
+huo de 	获得	c=2 d=0.121617 t=7122
+huo hu 	火狐	c=4 d=0.161318 t=7122
+huo qu 	获取	c=8 d=0.843665 t=7122
+huo qu bing 	霍去病	c=1 d=8.76425e-08 t=7122
+huo sang 	霍桑	c=1 d=3.39827e-09 t=7122
+huo xu 	或许	c=1 d=4.95809e-12 t=7122
+huo zhe 	或者	c=6 d=3.87486e-05 t=7122
+ji 	几	c=1 d=8.0918e-10 t=7122
+ji 	鸡	c=1 d=0.0902655 t=7122
+ji ben 	基本	c=1 d=3.21641e-09 t=7122
+ji bie 	级别	c=1 d=9.75974e-09 t=7122
+ji cheng 	继承	c=1 d=0.031273 t=7122
+ji cheng wang wei 	继承王位	c=1 d=3.35577e-08 t=7122
+ji chu xing 	基础性	c=1 d=3.26558e-11 t=7122
+ji cuo 	记错	c=0 d=2.09701e-07 t=7122
+ji dan 	鸡蛋	c=1 d=0.0208584 t=7122
+ji de 	记得	c=2 d=0.00873865 t=7122
+ji dian 	机电	c=1 d=3.80291e-14 t=7122
+ji dian xin xi 	机电信息	c=1 d=3.27459e-14 t=7122
+ji fang 	机房	c=1 d=0.00232276 t=7122
+ji guan 	机关	c=3 d=3.6528e-08 t=7122
+ji hua 	计划	c=8 d=0.00307334 t=7122
+ji hui 	机会	c=1 d=9.14242e-05 t=7122
+ji li 	激励	c=4 d=2.1324e-06 t=7122
+ji lu 	记录	c=3 d=0.000610083 t=7122
+ji mi 	机密	c=1 d=1.11147e-08 t=7122
+ji neng 	技能	c=1 d=3.63712e-14 t=7122
+ji nian 	几年	c=1 d=2.01581e-12 t=7122
+ji qi 	机器	c=1 d=4.35368e-12 t=7122
+ji quan 	集权	c=1 d=8.21071e-08 t=7122
+ji quan tong yi 	集权统一	c=1 d=5.56046e-08 t=7122
+ji shi 	及时	c=0 d=4.5643e-10 t=7122
+ji shi 	技师	c=0 d=6.61127e-16 t=7122
+ji shi zhi sun 	及时止损	c=2 d=9.24368e-09 t=7122
+ji shu 	技术	c=5 d=0.0149525 t=7122
+ji suan 	计算	c=1 d=0.236928 t=7122
+ji suan ji 	计算机	c=11 d=0.956131 t=7122
+ji suan ji ke xue yu ji shu 	计算机科学与技术	c=2 d=6.511e-14 t=7122
+ji suan qi 	计算器	c=1 d=2.48044e-11 t=7122
+ji tian 	几天	c=2 d=0.637628 t=7122
+ji xian 	极限	c=1 d=0.00108628 t=7122
+ji xing 	机型	c=0 d=0.000189223 t=7122
+ji xu 	继续	c=1 d=0.489192 t=7122
+ji yi 	记忆	c=4 d=0.241243 t=7122
+ji yu 	基于	c=1 d=1.26969e-15 t=7122
+ji yu 	鲫鱼	c=0 d=9.6128e-08 t=7122
+ji zhou 	冀州	c=1 d=8.56853e-07 t=7122
+ji zhu 	记住	c=2 d=0.42122 t=7122
+jia 	假	c=1 d=1.48615e-14 t=7122
+jia 	家	c=2 d=0.00673795 t=7122
+jia 	甲	c=1 d=2.88834e-08 t=7122
+jia ban 	加班	c=2 d=0.00633389 t=7122
+jia dao 	加到	c=2 d=1.35418 t=7122
+jia de 	假的	c=2 d=0.0105145 t=7122
+jia fen 	加分	c=1 d=4.35442e-14 t=7122
+jia ge 	价格	c=1 d=2.99947e-11 t=7122
+jia gou 	架构	c=1 d=6.3488e-09 t=7122
+jia gu 	甲骨	c=2 d=1.17415e-06 t=7122
+jia gu wen 	甲骨文	c=2 d=1.29891e-06 t=7122
+jia gu wen zhi fu 	甲骨文之父	c=1 d=2.70657e-08 t=7122
+jia huo 	假货	c=1 d=8.89822e-10 t=7122
+jia ji 	加急	c=1 d=1.14532e-08 t=7122
+jia mi 	加密	c=2 d=1.31037 t=7122
+jia mi bang 	加密棒	c=1 d=0.606531 t=7122
+jia mu lu 	家目录	c=1 d=7.73837e-14 t=7122
+jia ru 	加入	c=1 d=0.00301245 t=7122
+jia san 	加三	c=0 d=9.56648e-10 t=7122
+jia shang 	加上	c=1 d=0.000293099 t=7122
+jia su 	加速	c=5 d=0.000275489 t=7122
+jia xiao yi dian tong 	驾校一点通	c=2 d=1.57422 t=7122
+jia zai 	加载	c=3 d=1.04221e-10 t=7122
+jia zai 	夹在	c=1 d=9.98437e-12 t=7122
+jia zhi 	价值	c=3 d=2.49728e-09 t=7122
+jia zhi chi du 	价值尺度	c=1 d=9.83405e-10 t=7122
+jia zi 	甲子	c=0 d=1.30095e-08 t=7122
+jian 	件	c=1 d=0.396531 t=7122
+jian 	建	c=2 d=0.0757103 t=7122
+jian 	见	c=1 d=6.54438e-13 t=7122
+jian an qi zi 	建安七子	c=1 d=9.70941e-07 t=7122
+jian ce 	检测	c=3 d=0.00143012 t=7122
+jian ce xia 	检测下	c=1 d=3.26613e-13 t=7122
+jian cha 	检查	c=1 d=1.62081e-05 t=7122
+jian chi 	坚持	c=1 d=0.826959 t=7122
+jian dan 	简单	c=1 d=1.18652e-12 t=7122
+jian ji 	剪辑	c=1 d=3.18495e-11 t=7122
+jian pan 	键盘	c=4 d=1.10352e-13 t=7122
+jian rong 	兼容	c=2 d=6.31606e-07 t=7122
+jian san 	减三	c=1 d=2.0403e-07 t=7122
+jian shen fang 	健身房	c=1 d=0.0193512 t=7122
+jian ting 	监听	c=2 d=3.21264e-14 t=7122
+jian yi 	建议	c=1 d=1.18938e-11 t=7122
+jian zhan 	建站	c=1 d=0.0158434 t=7122
+jian zhi dan wei 	建制单位	c=1 d=0.000193545 t=7122
+jiang 	姜	c=1 d=5.70122e-08 t=7122
+jiang 	降	c=2 d=1.62527 t=7122
+jiang wen 	降温	c=1 d=0.00107547 t=7122
+jiang xin 	降心	c=0 d=0.0798516 t=7122
+jiang xin lv 	降心率	c=1 d=0.802519 t=7122
+jiao 	教	c=1 d=0.00200924 t=7122
+jiao ben 	脚本	c=2 d=0.00896148 t=7122
+jiao cheng 	教程	c=3 d=8.55863e-13 t=7122
+jiao dian 	焦点	c=2 d=4.35955e-14 t=7122
+jiao shi 	教室	c=1 d=6.54549e-15 t=7122
+jiao shi 	教师	c=3 d=3.81871e-14 t=7122
+jiao shi zi ge 	教师资格	c=1 d=3.72919e-14 t=7122
+jiao wo 	教我	c=1 d=1.24735e-12 t=7122
+jiao yu 	教育	c=1 d=3.17781e-14 t=7122
+jiao zuo 	叫做	c=1 d=2.29488e-08 t=7122
+jie dao 	街道	c=1 d=4.20465e-14 t=7122
+jie dian 	节点	c=17 d=1.18613 t=7122
+jie duan 	阶段	c=1 d=1.35778e-10 t=7122
+jie fang jun 	解放军	c=1 d=3.97964e-14 t=7122
+jie gan er qi 	揭竿而起	c=2 d=1.20171e-07 t=7122
+jie gou 	结构	c=1 d=1.37783e-06 t=7122
+jie gou ti 	结构体	c=1 d=1.15742e-14 t=7122
+jie guan 	接管	c=3 d=0.00155023 t=7122
+jie guo 	结果	c=1 d=1.51958e-11 t=7122
+jie jie 	姐姐	c=2 d=3.36847e-06 t=7122
+jie jue 	解决	c=3 d=0.456174 t=7122
+jie kou 	接口	c=3 d=0.0321515 t=7122
+jie mian 	界面	c=2 d=0.000632063 t=7122
+jie ri 	节日	c=1 d=6.0684e-07 t=7122
+jie shi 	解释	c=1 d=5.01918e-09 t=7122
+jie shou 	接受	c=1 d=1.04981e-13 t=7122
+jie shu 	结束	c=1 d=1.99541e-10 t=7122
+jie tu 	截图	c=3 d=1.09478e-06 t=7122
+jie xi 	解析	c=2 d=2.88097e-07 t=7122
+jie yong 	借用	c=1 d=1.35732e-06 t=7122
+jie zi tui 	介子推	c=2 d=7.74003e-08 t=7122
+jin 	近	c=1 d=1.09246e-11 t=7122
+jin 	进	c=5 d=0.949819 t=7122
+jin bu qu 	进不去	c=1 d=2.4001e-06 t=7122
+jin cheng 	进程	c=2 d=0.182684 t=7122
+jin chu 	进出	c=0 d=8.59217e-11 t=7122
+jin chu zheng ce 	进出政策	c=1 d=8.63524e-10 t=7122
+jin du 	进度	c=1 d=9.90893e-11 t=7122
+jin ji 	紧急	c=0 d=1.12264e-09 t=7122
+jin ji cheng du 	紧急程度	c=3 d=4.07507e-08 t=7122
+jin jin 	仅仅	c=1 d=0.0812682 t=7122
+jin qu 	进去	c=1 d=7.26767e-11 t=7122
+jin ru 	进入	c=6 d=0.425385 t=7122
+jin shi 	近视	c=3 d=1.50427e-14 t=7122
+jin tian 	今天	c=8 d=1.12577 t=7122
+jin wen 	金文	c=2 d=1.18004e-06 t=7122
+jin xing 	进行	c=2 d=4.00725e-07 t=7122
+jin yin 	近因	c=2 d=1.11503e-08 t=7122
+jin yong 	禁用	c=2 d=1.67854e-05 t=7122
+jin zhi 	进制	c=3 d=3.80258e-08 t=7122
+jing chang 	经常	c=4 d=6.30661e-05 t=7122
+jing di 	境地	c=1 d=1.01335e-09 t=7122
+jing dian 	经典	c=2 d=0.00767969 t=7122
+jing gao 	警告	c=1 d=2.46086e-06 t=7122
+jing guo 	经过	c=1 d=3.46574e-05 t=7122
+jing ji 	经济	c=1 d=2.575e-10 t=7122
+jing jian 	精简	c=0 d=8.96444e-10 t=7122
+jing jian gao xiao 	精简高效	c=2 d=1.82008e-08 t=7122
+jing qi 	惊奇	c=1 d=9.38184e-15 t=7122
+jing que 	精确	c=0 d=8.91973e-10 t=7122
+jing que gui fan 	精确规范	c=2 d=1.811e-08 t=7122
+jing tai 	静态	c=4 d=0.0421103 t=7122
+jing tian zhi 	井田制	c=2 d=6.49709e-08 t=7122
+jing xiang 	镜像	c=3 d=6.84999e-14 t=7122
+jing xiang yuan 	镜像源	c=1 d=3.12241e-13 t=7122
+jing ying 	经营	c=1 d=1.51175e-09 t=7122
+jing zhou 	荆州	c=1 d=8.39886e-07 t=7122
+jiu 	九	c=2 d=0.551921 t=7122
+jiu 	就	c=27 d=0.805243 t=7122
+jiu 	旧	c=2 d=2.29063e-05 t=7122
+jiu bi 	就比	c=1 d=8.50667e-10 t=7122
+jiu bu 	就不	c=1 d=9.54016e-06 t=7122
+jiu bu xing 	就不行	c=2 d=6.45923e-06 t=7122
+jiu cai 	韭菜	c=0 d=0.0053397 t=7122
+jiu dan sheng 	就诞生	c=1 d=0.000696112 t=7122
+jiu hui 	就会	c=1 d=0.900325 t=7122
+jiu ke neng 	就可能	c=1 d=3.50057e-05 t=7122
+jiu ke yi 	就可以	c=1 d=3.6365e-12 t=7122
+jiu le 	久了	c=2 d=0.00104362 t=7122
+jiu pian 	纠偏	c=1 d=2.984e-09 t=7122
+jiu qie 	就切	c=1 d=2.00473e-06 t=7122
+jiu quan 	酒泉	c=1 d=8.80818e-08 t=7122
+jiu shi 	就是	c=10 d=0.102049 t=7122
+jiu ta 	就他	c=0 d=6.16221e-12 t=7122
+jiu ta you 	就他有	c=1 d=6.1931e-11 t=7122
+jiu xiang 	就像	c=4 d=1.45292e-12 t=7122
+jiu xing 	就行	c=1 d=7.39283e-06 t=7122
+jiu xu 	就绪	c=1 d=3.57433e-15 t=7122
+jiu yao 	就要	c=1 d=0.000151489 t=7122
+jiu yong 	就用	c=1 d=5.67472e-12 t=7122
+jiu you 	就有	c=1 d=1.20987e-06 t=7122
+jiu zhe 	就这	c=1 d=0.000161662 t=7122
+jiu zhe ba 	就这把	c=1 d=3.06059e-13 t=7122
+jiu zhi dao 	就知道	c=1 d=0.04573 t=7122
+ju 	菊	c=0 d=1.71274e-08 t=7122
+ju jue 	拒绝	c=2 d=1.80562 t=7122
+ju lu zhi zhan 	巨鹿之战	c=1 d=6.08411e-08 t=7122
+ju ti 	具体	c=3 d=1.34538e-06 t=7122
+ju ti yi dian 	具体一点	c=1 d=4.23378e-07 t=7122
+ju zhong 	居中	c=1 d=1.30432e-08 t=7122
+juan 	卷	c=1 d=0.00367942 t=7122
+jue ce 	决策	c=5 d=1.25867e-08 t=7122
+jue ci 	厥词	c=1 d=2.32394e-09 t=7122
+jue ding 	决定	c=1 d=2.2444e-11 t=7122
+jue ding xing 	决定性	c=1 d=3.24929e-11 t=7122
+jue duan 	决断	c=1 d=1.52668e-07 t=7122
+jue dui 	绝对	c=1 d=4.08747e-05 t=7122
+jue dui ling dao 	绝对领导	c=0 d=3.15326e-12 t=7122
+jue le 	绝了	c=1 d=1.19185e-06 t=7122
+jue se 	角色	c=1 d=0.117068 t=7122
+jun dui 	军队	c=1 d=7.9084e-05 t=7122
+jun dui de 	军队的	c=0 d=3.15326e-12 t=7122
+jun guo 	郡国	c=0 d=7.24768e-09 t=7122
+jun guo bing xing 	郡国并行	c=1 d=7.284e-08 t=7122
+jun ren 	军人	c=1 d=8.96139e-05 t=7122
+jun wei zhu xi 	军委主席	c=1 d=0.000207579 t=7122
+jun xian zhi 	郡县制	c=2 d=1.03966e-07 t=7122
+jun zhu li xian 	君主立宪	c=1 d=0.000156102 t=7122
+jun zi 	君子	c=1 d=0.000235217 t=7122
+ka 	卡	c=2 d=0.010358 t=7122
+kai 	开	c=3 d=0.0162901 t=7122
+kai 	楷	c=0 d=2.93199e-09 t=7122
+kai deng 	开灯	c=1 d=4.22429e-10 t=7122
+kai fa 	开发	c=1 d=0.000578542 t=7122
+kai fa zhe 	开发者	c=2 d=0.000456421 t=7122
+kai ge 	开个	c=2 d=0.0164834 t=7122
+kai ji 	开机	c=1 d=0.00451658 t=7122
+kai nian 	开年	c=1 d=1.11203e-14 t=7122
+kai qi 	开启	c=3 d=3.04377e-07 t=7122
+kai shi 	开始	c=10 d=0.00246639 t=7122
+kai yuan 	开源	c=1 d=6.41042e-05 t=7122
+kan 	看	c=11 d=0.262072 t=7122
+kan bu jian 	看不见	c=1 d=0.0862936 t=7122
+kan bu le 	看不了	c=0 d=3.36617e-16 t=7122
+kan cuo 	看错	c=1 d=0.980199 t=7122
+kan de 	看得	c=2 d=7.54897e-12 t=7122
+kan er jing 	坎儿井	c=1 d=1.4595e-07 t=7122
+kan kan 	看看	c=4 d=0.932431 t=7122
+kan lai 	看来	c=1 d=7.8947e-14 t=7122
+kan qi lai 	看起来	c=2 d=0.0273237 t=7122
+kan shi pin 	看视频	c=1 d=9.70776e-05 t=7122
+kan xing hao 	看型号	c=1 d=0.985112 t=7122
+kan zhe 	看着	c=3 d=3.6529e-06 t=7122
+kang ba zi 	扛把子	c=1 d=1 t=7122
+kao 	考	c=1 d=0.00440507 t=7122
+kao 	靠	c=1 d=0.000978001 t=7122
+kao lv 	考虑	c=4 d=0.0690005 t=7122
+kao qu 	考取	c=1 d=3.67367e-14 t=7122
+kao shi 	考试	c=3 d=0.00251621 t=7122
+ke 	可	c=0 d=1.01318e-08 t=7122
+ke 	珂	c=0 d=2.96297e-15 t=7122
+ke bian zi ben 	可变资本	c=1 d=1.12554e-09 t=7122
+ke ceng zhi 	科层制	c=1 d=1.56559e-09 t=7122
+ke cheng 	课程	c=1 d=0.00259284 t=7122
+ke fu 	客服	c=1 d=0.115903 t=7122
+ke guan cun zai 	客观存在	c=1 d=0.000468957 t=7122
+ke ji 	科技	c=2 d=6.39547e-14 t=7122
+ke jiao wen wei ti 	科教文卫体	c=1 d=7.41323e-09 t=7122
+ke mu 	科目	c=1 d=0.00442715 t=7122
+ke neng 	可能	c=5 d=0.000200439 t=7122
+ke shi hua 	可视化	c=3 d=1.46286 t=7122
+ke xuan 	可选	c=1 d=1.13138e-11 t=7122
+ke xue 	科学	c=1 d=1.5137e-09 t=7122
+ke xue guan li 	科学管理	c=1 d=2.67317e-09 t=7122
+ke xue shi 	科学是	c=1 d=1.48949e-11 t=7122
+ke xue yu ji shu 	科学与技术	c=1 d=0.960789 t=7122
+ke yi 	可以	c=28 d=2.51192 t=7122
+ke yong 	可用	c=3 d=0.36511 t=7122
+ke zhao hun 	可招魂	c=1 d=1.01826e-07 t=7122
+keng 	坑	c=2 d=1.24413e-09 t=7122
+kong 	空	c=3 d=1.94827e-07 t=7122
+kong cheng 	空城	c=0 d=9.70941e-08 t=7122
+kong cheng wang xu ruan ying liu 	空城王旭软应留	c=1 d=9.75808e-07 t=7122
+kong pao 	空跑	c=1 d=6.98508e-15 t=7122
+kong qi zhi liang 	空气质量	c=1 d=1.87531e-15 t=7122
+kong zhi 	控制	c=9 d=0.00105948 t=7122
+kong zhi zhi neng 	控制职能	c=1 d=3.18441e-09 t=7122
+kong zi 	孔子	c=2 d=8.30129e-07 t=7122
+kou 	抠	c=1 d=0.00235786 t=7122
+kou xia lai 	扣下来	c=1 d=1.05199e-08 t=7122
+ku 	库	c=4 d=0.0032272 t=7122
+ku teng lao shu hun ya 	枯藤老树昏鸦	c=1 d=1.24371e-07 t=7122
+kua xia zhi ru 	胯下之辱	c=1 d=6.75769e-08 t=7122
+kuai 	块	c=1 d=8.66053e-15 t=7122
+kuai 	快	c=4 d=0.00363465 t=7122
+kuai jie jian 	快捷键	c=1 d=0.000131041 t=7122
+kuai le 	快乐	c=2 d=2.13782e-14 t=7122
+kuai su 	快速	c=1 d=1.43406e-06 t=7122
+kuan dai 	宽带	c=2 d=2.95122e-14 t=7122
+kuang 	框	c=1 d=9.54503e-12 t=7122
+kuang jia 	框架	c=4 d=0.000636198 t=7122
+kuang xiao 	狂笑	c=2 d=1.79616 t=7122
+kui 	葵	c=0 d=3.65348e-09 t=7122
+kui qiu hui meng 	葵丘会盟	c=1 d=3.6718e-08 t=7122
+kun yang 	昆阳	c=1 d=1.17128e-07 t=7122
+kuo zhan 	扩展	c=1 d=9.36786e-15 t=7122
+kuo zhan ping mu 	扩展屏幕	c=2 d=1.68936e-14 t=7122
+la ji 	垃圾	c=1 d=3.34938e-15 t=7122
+lai 	来	c=10 d=2.5854 t=7122
+lai le 	来了	c=1 d=0.831104 t=7122
+lai zhe 	来着	c=1 d=2.48002e-09 t=7122
+lan 	栏	c=1 d=6.01007e-11 t=7122
+lan 	烂	c=1 d=4.43936e-06 t=7122
+lan de 	兰德	c=1 d=0.0206508 t=7122
+lan de 	懒得	c=0 d=4.8365e-15 t=7122
+lan tian 	蓝天	c=1 d=1.85092e-08 t=7122
+lan ya 	蓝牙	c=1 d=1.37521e-13 t=7122
+lang ju xu 	狼居胥	c=0 d=8.8967e-09 t=7122
+lao 	老	c=2 d=0.00841895 t=7122
+lao bu wen le 	老不稳了	c=1 d=2.54982e-12 t=7122
+lao can you ji 	老残游记	c=1 d=2.73377e-08 t=7122
+lao dong 	劳动	c=4 d=0.000171345 t=7122
+lao dong li 	劳动力	c=2 d=2.67053e-07 t=7122
+lao dong mei you 	劳动没有	c=1 d=2.30678e-10 t=7122
+lao dong zhe 	劳动者	c=2 d=1.3674e-09 t=7122
+lao ji xing 	老机型	c=1 d=0.00190171 t=7122
+lao ma shi tu 	老马识途	c=1 d=3.65348e-08 t=7122
+lao po 	老婆	c=1 d=0.0528657 t=7122
+lao ren 	老人	c=1 d=0.0225956 t=7122
+lao sao 	牢骚	c=1 d=3.43242e-09 t=7122
+lao shi 	老师	c=1 d=0.0333733 t=7122
+lao shi 	老是	c=2 d=5.23693e-12 t=7122
+lao shu cang 	老鼠仓	c=1 d=1.17148e-09 t=7122
+lao xiong 	老兄	c=1 d=0.000147748 t=7122
+lao zhan zhe 	老占着	c=1 d=6.95024e-15 t=7122
+lao zhang ren 	老丈人	c=2 d=2.81165e-07 t=7122
+le 	了	c=155 d=7.93228 t=7122
+lei 	类	c=5 d=0.0306538 t=7122
+lei 	雷	c=2 d=1.90728e-08 t=7122
+lei da 	雷达	c=1 d=2.33599e-11 t=7122
+lei ming 	类名	c=1 d=1.71747e-10 t=7122
+lei si 	类似	c=4 d=0.599198 t=7122
+lei xing 	类型	c=2 d=0.0897209 t=7122
+lei zu 	嫘祖	c=1 d=2.04558e-08 t=7122
+li 	力	c=1 d=0.83527 t=7122
+li 	里	c=6 d=0.349941 t=7122
+li cao 	隶草	c=0 d=2.93199e-09 t=7122
+li cao kai xing 	隶草楷行	c=2 d=1.1919e-06 t=7122
+li hai 	厉害	c=1 d=9.8307e-06 t=7122
+li he 	李贺	c=1 d=9.80699e-07 t=7122
+li huo 	离火	c=1 d=1.92645e-08 t=7122
+li jie 	理解	c=1 d=0.000450569 t=7122
+li kui 	李悝	c=1 d=4.26602e-08 t=7122
+li kui 	理亏	c=1 d=4.24474e-08 t=7122
+li lun 	理论	c=4 d=9.82153e-09 t=7122
+li lun 	立论	c=0 d=1.55002e-10 t=7122
+li mian 	里面	c=10 d=0.694641 t=7122
+li ni 	离你	c=1 d=1.06549e-11 t=7122
+li pu 	离谱	c=1 d=8.83549e-15 t=7122
+li qing 	李庆	c=0 d=4.24691e-15 t=7122
+li qing lei 	李庆雷	c=1 d=4.2682e-14 t=7122
+li qing zhao 	李清照	c=1 d=1.02584e-06 t=7122
+li rong 	李荣	c=0 d=4.28959e-15 t=7122
+li rong ying 	李荣英	c=1 d=4.31109e-14 t=7122
+li shan 	历山	c=0 d=2.13973e-09 t=7122
+li shi 	历史	c=2 d=0.000523533 t=7122
+li su 	李肃	c=1 d=0.00106477 t=7122
+li su 	李苏	c=0 d=2.96297e-15 t=7122
+li su ke 	李苏珂	c=3 d=0.951229 t=7122
+li xiang 	理想	c=0 d=1.34148e-16 t=7122
+li yong 	利用	c=1 d=0.00396599 t=7122
+li yong 	李用	c=1 d=0.00394621 t=7122
+li yong lv 	利用率	c=1 d=0.00449405 t=7122
+li yong shan 	李用山	c=1 d=4.10084e-14 t=7122
+li yu 	利于	c=1 d=5.53273e-08 t=7122
+li zhi 	李治	c=1 d=1.55752e-07 t=7122
+lian 	连	c=1 d=1.29534e-15 t=7122
+lian biao 	链表	c=1 d=1.70038e-10 t=7122
+lian bu shang 	连不上	c=4 d=4.8091e-06 t=7122
+lian he 	联合	c=2 d=2.70494e-08 t=7122
+lian he fa wen 	联合发文	c=1 d=1.23452e-08 t=7122
+lian jie 	连接	c=3 d=1.30421e-06 t=7122
+lian xi 	联系	c=1 d=0.118837 t=7122
+liang 	两	c=1 d=3.87927e-08 t=7122
+liang 	亮	c=1 d=3.44131e-10 t=7122
+liang bei 	两倍	c=1 d=4.99499e-11 t=7122
+liang bian 	量变	c=1 d=3.87004e-09 t=7122
+liang ci 	两次	c=1 d=1.11723e-10 t=7122
+liang du 	亮度	c=2 d=8.14925e-05 t=7122
+liang ge 	两个	c=4 d=2.14447e-05 t=7122
+liang gong liang bao jia san tong 	两公两报加三通	c=1 d=9.61444e-09 t=7122
+liang hang 	两行	c=1 d=1.80522e-08 t=7122
+liang hang 	粮行	c=1 d=1.29781e-08 t=7122
+liang ju 	两句	c=2 d=0.000342488 t=7122
+liang xia 	两下	c=1 d=3.66419e-13 t=7122
+liang zhou 	梁州	c=1 d=8.69802e-07 t=7122
+liao tian 	聊天	c=1 d=2.51707e-07 t=7122
+lin jun 	林军	c=0 d=1.03883e-08 t=7122
+lin shi 	临时	c=1 d=1.35055e-06 t=7122
+lin zhen 	临阵	c=0 d=3.1289e-09 t=7122
+lin zhen dao ge 	临阵倒戈	c=1 d=3.14458e-08 t=7122
+lin zhou 	林州	c=3 d=5.41735e-15 t=7122
+lin zhou shi 	林州市	c=6 d=2.06208 t=7122
+ling 	令	c=0 d=7.10416e-09 t=7122
+ling dao 	领导	c=3 d=9.75537e-09 t=7122
+ling hun 	灵魂	c=2 d=0.117864 t=7122
+ling yan ge 	凌烟阁	c=1 d=1.48156e-07 t=7122
+ling yu 	领域	c=1 d=7.83238e-09 t=7122
+liu 	流	c=1 d=5.74757e-15 t=7122
+liu bei 	刘备	c=1 d=7.39409e-08 t=7122
+liu cheng tu 	流程图	c=1 d=2.30004e-05 t=7122
+liu e 	刘鹗	c=1 d=2.72013e-08 t=7122
+liu lan qi 	浏览器	c=2 d=8.43734e-12 t=7122
+liu shi nian 	六十年	c=1 d=0.000237581 t=7122
+liu tong shou duan 	流通手段	c=1 d=9.785e-10 t=7122
+liu wei 	六位	c=2 d=2.18454e-08 t=7122
+liu xiu 	刘秀	c=1 d=1.05982e-07 t=7122
+long 	龙	c=0 d=2.07649e-09 t=7122
+long duan 	垄断	c=1 d=4.14924e-05 t=7122
+long qu ding hu 	龙去鼎湖	c=1 d=2.0869e-08 t=7122
+long shan 	龙山	c=1 d=4.18368e-14 t=7122
+lou 	漏	c=1 d=4.87167e-11 t=7122
+lou chu lai 	漏出来	c=0 d=5.43906e-14 t=7122
+lu 	路	c=0 d=9.98097e-09 t=7122
+lu 	鲁	c=1 d=1.78725e-08 t=7122
+lu ge 	录个	c=0 d=9.02962e-07 t=7122
+lu ge ping 	录个屏	c=1 d=9.07488e-06 t=7122
+lu xun 	陆逊	c=1 d=1.34057e-07 t=7122
+lu you biao 	路由表	c=1 d=1.60993e-14 t=7122
+lu you qi 	路由器	c=2 d=3.26209e-14 t=7122
+lu yu 	陆羽	c=3 d=5.68839e-07 t=7122
+lun zi 	轮子	c=1 d=9.12037e-06 t=7122
+luo ji 	逻辑	c=4 d=1.98556e-08 t=7122
+luo ma 	罗马	c=1 d=2.9763e-08 t=7122
+lv 	率	c=0 d=0.0798516 t=7122
+lv 	绿	c=0 d=1.03883e-08 t=7122
+lv lin jun 	绿林军	c=1 d=1.04404e-07 t=7122
+lv zheng xuan 	旅政宣	c=1 d=1.37119e-08 t=7122
+ma 	吗	c=60 d=3.5825 t=7122
+ma chang 	马场	c=0 d=9.44684e-09 t=7122
+ma si luo 	马斯洛	c=1 d=1.88375e-09 t=7122
+ma ya 	玛雅	c=1 d=3.35077e-08 t=7122
+ma ya ri zhi 	玛雅日志	c=1 d=3.00621e-08 t=7122
+ma yi 	蚂蚁	c=0 d=0.0582748 t=7122
+ma yi sen lin 	蚂蚁森林	c=1 d=0.585669 t=7122
+ma zhi yuan 	马致远	c=1 d=9.83238e-08 t=7122
+mai 	买	c=6 d=0.752014 t=7122
+mai de 	买的	c=1 d=0.640824 t=7122
+mai ge 	买个	c=1 d=0.00179994 t=7122
+man 	慢	c=1 d=1.03954e-15 t=7122
+man man 	慢慢	c=1 d=0.852144 t=7122
+man zu gan 	满足感	c=1 d=1.26905e-09 t=7122
+mang cong 	盲从	c=1 d=4.77439e-09 t=7122
+mao 	毛	c=2 d=0.574072 t=7122
+mao 	猫	c=0 d=6.91205e-10 t=7122
+mao hao 	冒号	c=0 d=1.4059e-09 t=7122
+mao si 	貌似	c=7 d=0.899513 t=7122
+me 	么	c=2 d=8.89528e-06 t=7122
+mei 	没	c=21 d=0.755547 t=7122
+mei ban fa 	没办法	c=1 d=2.23396e-15 t=7122
+mei bi yao 	没必要	c=3 d=3.58719e-10 t=7122
+mei cheng gong 	没成功	c=1 d=0.00778933 t=7122
+mei dao 	没到	c=3 d=2.60863e-09 t=7122
+mei ge 	每个	c=4 d=0.0388437 t=7122
+mei hang 	美行	c=1 d=9.44845e-10 t=7122
+mei ji cuo 	没记错	c=1 d=2.10752e-06 t=7122
+mei jian guo 	没见过	c=1 d=3.64653e-15 t=7122
+mei kai 	没开	c=1 d=0.218712 t=7122
+mei le 	没了	c=1 d=2.79574e-07 t=7122
+mei ren 	媒人	c=1 d=4.67905e-07 t=7122
+mei sha 	没啥	c=1 d=0.000125275 t=7122
+mei shan 	没闪	c=1 d=0.164474 t=7122
+mei shi 	没事	c=1 d=3.66481e-15 t=7122
+mei tai 	没太	c=0 d=1.77007e-13 t=7122
+mei tai zhu yi 	没太注意	c=1 d=1.77895e-12 t=7122
+mei tian 	每天	c=1 d=0.571209 t=7122
+mei wen ti 	没问题	c=1 d=2.54367e-13 t=7122
+mei yi 	每一	c=0 d=3.88878e-08 t=7122
+mei yi zheng 	每一帧	c=1 d=3.90827e-07 t=7122
+mei yong 	没用	c=4 d=0.00780781 t=7122
+mei you 	没有	c=22 d=0.381208 t=7122
+mei you shui shou 	没有税收	c=1 d=1.14255e-09 t=7122
+mei zhao dao 	没找到	c=1 d=0.000422213 t=7122
+mei zhuang 	没装	c=1 d=0.000413853 t=7122
+men 	们	c=1 d=0.890072 t=7122
+men 	门	c=1 d=0.00241755 t=7122
+men kuang 	门框	c=1 d=0.00701293 t=7122
+meng 	孟	c=2 d=1.07842e-07 t=7122
+meng 	猛	c=1 d=2.46723e-07 t=7122
+meng chang jun 	孟尝君	c=1 d=4.41797e-08 t=7122
+meng zhong shu ji 	孟仲叔季	c=1 d=5.84555e-08 t=7122
+mi 	密	c=1 d=0.609571 t=7122
+mi hu 	迷糊	c=0 d=7.77187e-07 t=7122
+mi ji 	密级	c=1 d=1.16263e-08 t=7122
+mi ma 	密码	c=1 d=1.41367e-14 t=7122
+mian 	面	c=1 d=0.000796726 t=7122
+mian ban 	面板	c=1 d=2.43132e-11 t=7122
+mian fei 	免费	c=2 d=1.10009e-11 t=7122
+mian liu 	免流	c=2 d=0.0173936 t=7122
+mian xiang 	面向	c=2 d=3.54951e-10 t=7122
+miao shou hui chun 	妙手回春	c=1 d=4.73831e-08 t=7122
+mie diao 	灭掉	c=1 d=8.23675e-13 t=7122
+min sheng 	民生	c=1 d=7.54474e-10 t=7122
+ming 	名	c=0 d=3.41785e-11 t=7122
+ming bai 	明白	c=1 d=4.72527e-05 t=7122
+ming ling 	命令	c=2 d=0.000172937 t=7122
+ming ling hang 	命令行	c=1 d=0.00173804 t=7122
+ming ming 	命名	c=1 d=8.85233e-08 t=7122
+ming ti 	命题	c=1 d=1.32426e-10 t=7122
+ming tian 	明天	c=1 d=1.74853e-15 t=7122
+ming tiao 	鸣条	c=0 d=2.62658e-09 t=7122
+ming tiao zhi zhan 	鸣条之战	c=1 d=2.63974e-08 t=7122
+ming xian 	明显	c=3 d=2.92392e-05 t=7122
+ming zi 	名字	c=1 d=2.28343e-08 t=7122
+miu lun 	谬论	c=1 d=7.15825e-09 t=7122
+mo 	摸	c=0 d=1.17491e-15 t=7122
+mo ban 	模版	c=5 d=0.212928 t=7122
+mo bu 	莫不	c=1 d=0.158025 t=7122
+mo bu shi 	莫不是	c=2 d=0.257947 t=7122
+mo fei 	莫非	c=1 d=7.79199e-07 t=7122
+mo fei ding lv 	墨菲定律	c=1 d=4.25573e-09 t=7122
+mo fei wang tu 	莫非王土	c=1 d=7.67598e-07 t=7122
+mo gao 	摸高	c=1 d=1.24756e-14 t=7122
+mo gao 	莫高	c=1 d=1.22286e-14 t=7122
+mo gu 	蘑菇	c=2 d=1.39959e-08 t=7122
+mo gu xiao ying 	蘑菇效应	c=1 d=5.83145e-09 t=7122
+mo hu 	模糊	c=2 d=0.000929968 t=7122
+mo kuai 	模块	c=1 d=2.2777e-07 t=7122
+mo kuai ming 	模块名	c=1 d=1.7089e-10 t=7122
+mo ming 	莫名	c=1 d=2.1353e-13 t=7122
+mo ni qi 	模拟器	c=1 d=0.782705 t=7122
+mo ren 	默认	c=4 d=0.423856 t=7122
+mo sheng ren 	陌生人	c=1 d=5.6028e-09 t=7122
+mo shi 	模式	c=4 d=2.68138e-05 t=7122
+mo xiao bei 	莫小贝	c=1 d=8.06953e-07 t=7122
+mo yu 	摸鱼	c=1 d=0.00388746 t=7122
+mou 	某	c=3 d=7.27579e-12 t=7122
+mou bu 	某部	c=1 d=1.80056e-07 t=7122
+mou cai hai ming 	谋财害命	c=1 d=4.22357e-08 t=7122
+mou ge 	某个	c=1 d=0.000197455 t=7122
+mou hua 	谋划	c=1 d=1.51907e-07 t=7122
+mu 	慕	c=1 d=4.7975e-07 t=7122
+mu di 	目的	c=1 d=2.60044e-08 t=7122
+mu lu 	目录	c=9 d=1.34874 t=7122
+mu min 	牧民	c=1 d=2.21633e-10 t=7122
+mu niu liu ma 	木牛流马	c=1 d=1.3814e-07 t=7122
+mu xiao 	母校	c=1 d=8.19149e-07 t=7122
+mu xu 	苜蓿	c=1 d=8.54786e-08 t=7122
+mu ye zhi zhan 	牧野之战	c=2 d=6.22666e-08 t=7122
+na 	哪	c=1 d=4.2756e-05 t=7122
+na 	那	c=7 d=0.571377 t=7122
+na bian 	那边	c=1 d=0.0109985 t=7122
+na bu shi 	那不是	c=1 d=0.0490458 t=7122
+na dao 	那倒	c=1 d=3.51142e-12 t=7122
+na de 	哪的	c=1 d=1.08702e-11 t=7122
+na ge 	哪个	c=3 d=0.0270999 t=7122
+na ge 	那个	c=2 d=2.99717e-06 t=7122
+na ge jin cheng 	那个进程	c=1 d=7.16191e-15 t=7122
+na ge kuai 	哪个快	c=1 d=2.68055e-12 t=7122
+na hai 	那还	c=0 d=0.00480747 t=7122
+na hai shi 	那还是	c=1 d=0.0483156 t=7122
+na le 	拿了	c=1 d=0.0507928 t=7122
+na li 	哪里	c=4 d=4.57474e-06 t=7122
+na me 	那么	c=3 d=0.0173846 t=7122
+na me gao 	那么高	c=1 d=2.5441e-15 t=7122
+na ping mu 	那屏幕	c=1 d=2.74224e-15 t=7122
+na qu 	哪去	c=0 d=7.21275e-11 t=7122
+na qu le 	哪去了	c=1 d=7.24891e-10 t=7122
+na sha 	那啥	c=1 d=0.0374406 t=7122
+na shi hou 	那时候	c=3 d=0.00856792 t=7122
+na wei 	哪位	c=2 d=0.000147011 t=7122
+na you 	哪有	c=1 d=3.7947e-13 t=7122
+na zhong 	那种	c=3 d=0.00134011 t=7122
+nan hua 	南华	c=0 d=7.79199e-08 t=7122
+nan hua zhen ren 	南华真人	c=1 d=7.83104e-07 t=7122
+nao zi 	脑子	c=2 d=0.0438562 t=7122
+ne 	呢	c=17 d=0.769655 t=7122
+nei 	内	c=1 d=1.46328e-08 t=7122
+nei bu 	内部	c=1 d=4.32225e-15 t=7122
+nei cun 	内存	c=4 d=1.93419 t=7122
+nei juan 	内卷	c=1 d=7.23019e-09 t=7122
+nei rong 	内容	c=1 d=9.85951e-11 t=7122
+nei wang 	内网	c=1 d=1.58542e-10 t=7122
+nei xin 	内心	c=1 d=0.891366 t=7122
+neng 	能	c=16 d=0.0187617 t=7122
+neng gan sha 	能干啥	c=1 d=0.00224287 t=7122
+neng shang 	能上	c=1 d=9.21674e-12 t=7122
+neng shi xian 	能实现	c=1 d=2.93249e-10 t=7122
+neng yong 	能用	c=3 d=6.36307e-06 t=7122
+ni 	你	c=21 d=1.28985 t=7122
+ni bu shi 	你不是	c=1 d=0.000108366 t=7122
+ni da ye 	你大爷	c=0 d=7.43115e-09 t=7122
+ni de 	你的	c=1 d=5.63376e-15 t=7122
+ni hao 	你好	c=9 d=0.00245756 t=7122
+ni ke yi 	你可以	c=2 d=0.000750328 t=7122
+ni men 	你们	c=2 d=0.245507 t=7122
+ni neng 	你能	c=2 d=1.16188e-09 t=7122
+ni wan 	你玩	c=0 d=3.44072e-09 t=7122
+ni wan wo ne 	你玩我呢	c=1 d=3.45797e-08 t=7122
+ni wei zhi 	你位置	c=1 d=1.08159e-11 t=7122
+ni ying gai 	你应该	c=2 d=1.27532 t=7122
+ni yong 	你用	c=1 d=2.37129e-11 t=7122
+nian 	年	c=9 d=0.557106 t=7122
+nian fen 	年份	c=1 d=1.35078e-08 t=7122
+niao long 	鸟笼	c=3 d=1.48368e-08 t=7122
+niu 	牛	c=0 d=1.14255e-10 t=7122
+niu ben 	牛犇	c=1 d=1.64614e-11 t=7122
+nu li 	努力	c=1 d=2.17806e-11 t=7122
+nu li zhi 	奴隶制	c=1 d=2.32956e-08 t=7122
+nuo te 	诺特	c=1 d=0.0205478 t=7122
+nv 	女	c=1 d=0.0475963 t=7122
+nv ying 	女英	c=0 d=2.15046e-09 t=7122
+o 	哦	c=1 d=3.97693e-06 t=7122
+ou 	欧	c=1 d=7.54731e-14 t=7122
+ou ke 	欧克	c=6 d=0.000182133 t=7122
+ou li 	欧李	c=0 d=0.0826959 t=7122
+ou li gei 	欧李给	c=1 d=0.831104 t=7122
+pa 	怕	c=1 d=0.0407622 t=7122
+pa jin sen 	帕金森	c=4 d=1.99157e-08 t=7122
+pa qu 	爬取	c=1 d=1.05704e-06 t=7122
+pa qu jie dian 	爬取节点	c=1 d=3.32181e-06 t=7122
+pa zha 	怕炸	c=1 d=2.38196e-05 t=7122
+pai 	派	c=1 d=0.000833397 t=7122
+pai ban 	排版	c=1 d=3.79406e-11 t=7122
+pai su 	拍苏	c=1 d=1.44125e-06 t=7122
+pai xu 	排序	c=7 d=2.23718 t=7122
+pan duan 	判断	c=2 d=3.18738e-10 t=7122
+pan geng 	盘庚	c=0 d=3.06694e-09 t=7122
+pan geng qian yin 	盘庚迁殷	c=1 d=3.08231e-08 t=7122
+pao 	跑	c=5 d=0.0027918 t=7122
+pao bu 	跑步	c=1 d=0.794534 t=7122
+pao bu qi lai a 	跑不起来啊	c=1 d=4.18083e-06 t=7122
+pao lu 	跑路	c=1 d=0.00114197 t=7122
+pao yi 	跑一	c=0 d=0.00448245 t=7122
+pao yi ge 	跑一个	c=1 d=4.09025e-13 t=7122
+pao yi xia 	跑一下	c=1 d=0.0450492 t=7122
+pao zhe 	跑着	c=1 d=2.48686e-12 t=7122
+pei 	配	c=2 d=4.52881e-11 t=7122
+pei 	陪	c=0 d=1.7655e-12 t=7122
+pei de 	配的	c=1 d=2.72857e-15 t=7122
+pei qi 	佩奇	c=1 d=1.61327e-09 t=7122
+pei yi ge 	陪一个	c=1 d=1.77435e-11 t=7122
+pei zhi 	配置	c=20 d=0.92882 t=7122
+peng 	碰	c=2 d=0.00878179 t=7122
+peng dao 	碰到	c=7 d=1.00765 t=7122
+pi 	批	c=1 d=3.98994e-15 t=7122
+pi rou 	皮肉	c=0 d=1.15643e-05 t=7122
+pi rou xie shang 	皮肉协商	c=1 d=0.000116223 t=7122
+pian cha 	偏差	c=1 d=0.00047843 t=7122
+pian yi 	便宜	c=4 d=2.72372e-09 t=7122
+pian yi 	偏移	c=1 d=1.47849e-12 t=7122
+piao chang 	嫖娼	c=1 d=2.48644e-10 t=7122
+pin 	拼	c=1 d=0.0112769 t=7122
+pin de 	品德	c=0 d=1.30454e-11 t=7122
+pin yin 	拼音	c=1 d=1.88407e-11 t=7122
+ping 	屏	c=2 d=0.2334 t=7122
+ping di 	平籴	c=0 d=4.2874e-09 t=7122
+ping di fa 	平籴法	c=1 d=4.30889e-08 t=7122
+ping ji 	平急	c=1 d=1.15106e-08 t=7122
+ping jun 	平均	c=1 d=0.00444934 t=7122
+ping lun 	评论	c=3 d=0.600562 t=7122
+ping mu 	屏幕	c=17 d=0.000122917 t=7122
+ping pang qiu 	乒乓球	c=1 d=2.37784e-14 t=7122
+ping sha 	平沙	c=1 d=1.00813e-07 t=7122
+ping yuan jun 	平原君	c=1 d=4.44012e-08 t=7122
+po an 	破案	c=2 d=2.44492e-05 t=7122
+po chuang li lun 	破窗理论	c=2 d=9.10583e-09 t=7122
+po jie 	破解	c=1 d=0.00360656 t=7122
+pu bian 	普遍	c=3 d=0.00803797 t=7122
+pu tao 	葡萄	c=1 d=0.00104368 t=7122
+pu tian zhi xia 	普天之下	c=1 d=7.63769e-07 t=7122
+qi 	器	c=2 d=1.82374e-10 t=7122
+qi 	起	c=1 d=0.0086517 t=7122
+qi 	骑	c=1 d=1.63343e-08 t=7122
+qi bu shi 	岂不是	c=1 d=0.000199439 t=7122
+qi dai 	期待	c=0 d=5.77343e-10 t=7122
+qi dai xiao ying 	期待效应	c=1 d=5.80237e-09 t=7122
+qi de 	起的	c=2 d=1.14857e-07 t=7122
+qi dong 	启动	c=4 d=0.00154343 t=7122
+qi dong qi 	启动器	c=3 d=5.32864e-07 t=7122
+qi dong xiang 	启动项	c=1 d=0.440432 t=7122
+qi e 	企鹅	c=1 d=1.63032e-15 t=7122
+qi huan gong 	齐桓公	c=1 d=3.6902e-08 t=7122
+qi huang 	岐黄	c=1 d=4.80992e-08 t=7122
+qi jian 	期间	c=1 d=6.27047e-10 t=7122
+qi le 	弃了	c=1 d=0.941765 t=7122
+qi lin 	麒麟	c=0 d=4.14205e-15 t=7122
+qi lin tai cun 	麒麟台村	c=3 d=1.95551 t=7122
+qi mo 	期末	c=1 d=0.00151855 t=7122
+qi shi 	其实	c=2 d=0.0366992 t=7122
+qi ta 	其他	c=15 d=0.0279928 t=7122
+qi yi 	起义	c=1 d=1.68724e-07 t=7122
+qian 	千	c=1 d=2.6612e-15 t=7122
+qian 	迁	c=0 d=3.06694e-09 t=7122
+qian 	钱	c=3 d=0.57695 t=7122
+qian dao 	签到	c=1 d=0.594521 t=7122
+qian dou 	钱都	c=2 d=1.6446e-07 t=7122
+qian dou hua bu wan 	钱都花不完	c=1 d=1.45623e-10 t=7122
+qian du 	迁都	c=1 d=1.45222e-07 t=7122
+qian duan 	前端	c=1 d=2.60673e-07 t=7122
+qian duan shi jian 	前段时间	c=1 d=1.66699e-12 t=7122
+qian fa ren 	签发人	c=4 d=4.92994e-08 t=7122
+qian mian 	前面	c=3 d=0.000331007 t=7122
+qian ti xia 	前提下	c=1 d=1.1806e-12 t=7122
+qian wan 	千万	c=1 d=5.43813e-11 t=7122
+qiang 	强	c=2 d=0.0137049 t=7122
+qiang 	枪	c=1 d=6.84094e-05 t=7122
+qiang da 	强大	c=1 d=1.25685e-13 t=7122
+qiang da chu tou niao 	枪打出头鸟	c=1 d=7.17678e-10 t=7122
+qiang zhi 	强制	c=4 d=0.0718849 t=7122
+qiao 	乔	c=1 d=1.37451e-07 t=7122
+qiao he 	巧合	c=1 d=2.21595e-08 t=7122
+qiao jie 	桥接	c=1 d=1.56911e-06 t=7122
+qie 	切	c=10 d=1.6749e-06 t=7122
+qie 	窃	c=1 d=4.50722e-08 t=7122
+qie bu 	切不	c=0 d=3.49331e-11 t=7122
+qie bu guo le 	切不过了	c=1 d=3.51082e-10 t=7122
+qie huan 	切换	c=6 d=1.51514e-06 t=7122
+qie mian 	切面	c=1 d=1.91717e-10 t=7122
+qie yi 	切一	c=0 d=3.50355e-16 t=7122
+qie yi dian 	切一点	c=1 d=5.6047e-13 t=7122
+qie yi xia 	切一下	c=1 d=3.52111e-15 t=7122
+qin jin zhi hao 	秦晋之好	c=1 d=3.89885e-08 t=7122
+qin shi huang 	秦始皇	c=1 d=2.74747e-08 t=7122
+qin wang 	秦王	c=1 d=4.88261e-08 t=7122
+qing 	卿	c=1 d=5.5926e-08 t=7122
+qing 	晴	c=1 d=1.78385e-15 t=7122
+qing 	清	c=1 d=5.61634e-08 t=7122
+qing 	请	c=1 d=1 t=7122
+qing 	青	c=0 d=9.6128e-08 t=7122
+qing hua 	清华	c=2 d=0.000356465 t=7122
+qing ji yu 	青鲫鱼	c=1 d=9.66099e-07 t=7122
+qing jing 	情景	c=2 d=7.074e-09 t=7122
+qing liang 	轻量	c=1 d=0.0350844 t=7122
+qing nang 	青囊	c=2 d=9.52522e-08 t=7122
+qing qiu 	请求	c=2 d=4.18787e-12 t=7122
+qing shi 	请示	c=1 d=1.07324e-08 t=7122
+qing shou xia wo 	请收下我	c=1 d=8.11136e-09 t=7122
+qing tong qi 	青铜器	c=1 d=2.65297e-08 t=7122
+qing xu 	情绪	c=0 d=6.98151e-10 t=7122
+qing yin yue 	轻音乐	c=1 d=1.18672e-14 t=7122
+qing zhong 	青冢	c=1 d=1.07326e-07 t=7122
+qing zhong you qing you shi lu 	青冢有情尤识路	c=1 d=1.0031e-07 t=7122
+qing zhou 	青州	c=1 d=8.48327e-07 t=7122
+qiu 	丘	c=0 d=3.65348e-09 t=7122
+qiu ge 	求个	c=1 d=3.89077e-13 t=7122
+qiu zhu 	求助	c=1 d=0.123687 t=7122
+qu 	区	c=1 d=0.000198445 t=7122
+qu 	去	c=1 d=0.000555857 t=7122
+qu diao 	去掉	c=0 d=2.47917e-06 t=7122
+qu diao zhi hou 	去掉之后	c=1 d=2.4916e-05 t=7122
+qu dong 	驱动	c=1 d=0.00209124 t=7122
+qu fen 	区分	c=2 d=0.117655 t=7122
+qu xiao 	取消	c=1 d=0.000405658 t=7122
+qu yi 	取义	c=0 d=1.09455e-05 t=7122
+qu yu 	区域	c=1 d=1.41343e-12 t=7122
+quan 	全	c=1 d=5.55747e-14 t=7122
+quan bian 	权变	c=1 d=3.46692e-09 t=7122
+quan bu 	全部	c=2 d=0.000703108 t=7122
+quan guo 	全国	c=1 d=0.00302755 t=7122
+quan jia tong 	全家桶	c=1 d=1.26336e-15 t=7122
+quan jiao 	全角	c=0 d=1.4059e-09 t=7122
+quan jiao mao hao 	全角冒号	c=1 d=1.41295e-08 t=7122
+quan ju 	全局	c=3 d=2.3748e-14 t=7122
+quan kao 	全靠	c=1 d=8.42346e-12 t=7122
+quan lou chu lai 	全漏出来	c=1 d=5.46632e-13 t=7122
+quan ming 	全名	c=1 d=5.77244e-07 t=7122
+quan ping 	全屏	c=9 d=1.61544 t=7122
+quan ping zhuang tai 	全屏状态	c=1 d=5.80434e-13 t=7122
+quan su 	全速	c=2 d=7.68167e-15 t=7122
+quan tao 	全套	c=1 d=1.42419e-13 t=7122
+quan wei 	权威	c=1 d=0.00019258 t=7122
+quan xian 	权限	c=2 d=0.604163 t=7122
+que bao 	确保	c=1 d=1.10574e-06 t=7122
+que ge 	缺个	c=1 d=0.0473589 t=7122
+que shi 	确实	c=9 d=0.08805 t=7122
+qun 	群	c=0 d=1.23452e-09 t=7122
+qun li 	群里	c=1 d=0.995012 t=7122
+qun zhong 	群众	c=1 d=2.62069e-11 t=7122
+ran er 	然而	c=1 d=5.99659e-14 t=7122
+ran hou 	然后	c=7 d=0.381043 t=7122
+rang 	让	c=2 d=0.483222 t=7122
+rang ta 	让他	c=1 d=0.470011 t=7122
+rang wo 	让我	c=1 d=4.59749e-06 t=7122
+rang zi dan 	让子弹	c=1 d=3.76411e-06 t=7122
+re 	热	c=2 d=1.05564e-09 t=7122
+ren 	人	c=16 d=0.181802 t=7122
+ren 	任	c=0 d=2.3056e-05 t=7122
+ren ben 	人本	c=2 d=6.57971e-09 t=7122
+ren cai 	人才	c=1 d=7.94804e-05 t=7122
+ren dou 	人都	c=1 d=1.46e-11 t=7122
+ren he 	任何	c=1 d=2.85173e-05 t=7122
+ren ji guan xi 	人际关系	c=1 d=1.58926e-09 t=7122
+ren jia 	人家	c=1 d=0.00280879 t=7122
+ren min 	人民	c=7 d=0.000394464 t=7122
+ren quan 	人权	c=1 d=0.000209665 t=7122
+ren ren 	人人	c=1 d=3.84211e-12 t=7122
+ren sheng 	人生	c=1 d=9.14398e-07 t=7122
+ren shou 	忍受	c=2 d=0.000152248 t=7122
+ren wei 	人为	c=1 d=6.30083e-08 t=7122
+ren wu 	任务	c=4 d=5.44593e-07 t=7122
+ren yi jing 	任已经	c=1 d=0.000231716 t=7122
+reng ran 	仍然	c=2 d=2.54193e-05 t=7122
+ri 	日	c=1 d=4.50952e-14 t=7122
+ri chu er zuo 	日出而作	c=1 d=2.94008e-11 t=7122
+ri luo 	日落	c=0 d=2.94008e-12 t=7122
+ri luo er ru 	日落而入	c=1 d=2.95481e-11 t=7122
+ri nan 	日南	c=1 d=6.08618e-12 t=7122
+ri nuan 	日暖	c=1 d=1.86019e-08 t=7122
+ri qi 	日期	c=2 d=2.87394e-07 t=7122
+ri yue 	日月	c=0 d=1.25296e-07 t=7122
+ri yue che ma 	日月车马	c=1 d=1.25924e-06 t=7122
+ri zhi 	日志	c=4 d=8.9075e-06 t=7122
+rong 	容	c=1 d=2.38237e-07 t=7122
+rong yao 	荣耀	c=1 d=6.50731e-05 t=7122
+rou shi 	肉食	c=1 d=0.0566989 t=7122
+ru 	入	c=1 d=3.60718e-05 t=7122
+ru dao 	如刀	c=0 d=3.61713e-09 t=7122
+ru guo 	如果	c=1 d=0.0417941 t=7122
+ru he 	如何	c=6 d=9.8615e-05 t=7122
+ru jia 	儒家	c=1 d=5.39612e-08 t=7122
+ru zi ke jiao ye 	孺子可教也	c=1 d=6.52526e-08 t=7122
+ruan 	软	c=0 d=9.70941e-08 t=7122
+ruan jian 	软件	c=9 d=0.55355 t=7122
+run yue 	闰月	c=2 d=5.12351e-08 t=7122
+san 	三	c=1 d=9.07342e-07 t=7122
+san bai 	三百	c=1 d=3.17618e-08 t=7122
+san cun zhi she 	三寸之舌	c=1 d=4.55252e-08 t=7122
+san da zhan yi 	三大战役	c=1 d=1.31403e-07 t=7122
+san gang wu chang 	三纲五常	c=1 d=7.73442e-08 t=7122
+san ge 	三个	c=4 d=0.000203468 t=7122
+san gong 	三公	c=0 d=5.03131e-09 t=7122
+san gong jiu 	三公九	c=1 d=5.56727e-08 t=7122
+san gong jiu qing 	三公九卿	c=3 d=1.55541e-07 t=7122
+san guan 	三观	c=1 d=2.83895e-11 t=7122
+san re 	散热	c=1 d=0.000159256 t=7122
+san shi gong 	三师公	c=1 d=6.59084e-08 t=7122
+san yue bu zhi rou wei 	三月不知肉味	c=1 d=7.5996e-07 t=7122
+sao si 	缫丝	c=1 d=2.06614e-08 t=7122
+se 	色	c=2 d=3.9387e-10 t=7122
+sen lin 	森林	c=1 d=0.0583244 t=7122
+sha 	啥	c=6 d=0.000194313 t=7122
+sha 	杀	c=1 d=7.19168e-05 t=7122
+sha qiu 	沙丘	c=0 d=4.88261e-09 t=7122
+sha qiu zhi bian 	沙丘之变	c=1 d=4.90709e-08 t=7122
+sha ye 	啥也	c=0 d=3.36617e-16 t=7122
+sha ye kan bu le 	啥也看不了	c=1 d=3.38305e-15 t=7122
+shai hei 	晒黑	c=1 d=1.32471e-14 t=7122
+shan 	山	c=3 d=9.5157e-08 t=7122
+shan 	闪	c=2 d=0.179975 t=7122
+shan chu 	删除	c=2 d=6.62994e-11 t=7122
+shan dan 	山丹	c=0 d=9.44684e-09 t=7122
+shan dan ma chang 	山丹马场	c=1 d=9.4942e-08 t=7122
+shan le 	闪了	c=0 d=1.28779e-06 t=7122
+shan rang 	禅让	c=2 d=4.66197e-08 t=7122
+shan shuo 	闪烁	c=3 d=0.000421569 t=7122
+shan tui 	闪退	c=6 d=0.961071 t=7122
+shan xian 	闪现	c=1 d=1.0209e-08 t=7122
+shang 	上	c=15 d=0.7472 t=7122
+shang bu 	上不	c=0 d=1.60911e-09 t=7122
+shang bu ya zheng wen 	上不压正文	c=1 d=1.61717e-08 t=7122
+shang chuan 	上传	c=6 d=9.17046e-05 t=7122
+shang dian 	商店	c=1 d=1.98614e-14 t=7122
+shang jia 	商家	c=1 d=0.0142642 t=7122
+shang mian 	上面	c=6 d=0.97531 t=7122
+shang pin 	商品	c=1 d=2.42505e-10 t=7122
+shang qu 	上去	c=0 d=7.6812e-16 t=7122
+shang sheng 	上升	c=4 d=0.079692 t=7122
+shang shou 	上手	c=1 d=3.03694e-10 t=7122
+shang shu 	尚书	c=1 d=1.80958e-07 t=7122
+shang xia 	上下	c=1 d=0.120032 t=7122
+shang xing 	上行	c=1 d=1.06109e-09 t=7122
+shang xing wen 	上行文	c=2 d=2.45448e-08 t=7122
+shao 	少	c=1 d=0.0188734 t=7122
+shao de 	少得	c=0 d=2.15639e-12 t=7122
+shao wei 	稍微	c=1 d=0.000162473 t=7122
+she bei 	设备	c=2 d=0.0151463 t=7122
+she hui 	社会	c=0 d=7.41323e-10 t=7122
+she hui zhu yi zhi du 	社会主义制度	c=1 d=0.000110555 t=7122
+she ji 	设计	c=3 d=0.035019 t=7122
+she jiao 	社交	c=7 d=1.28754e-08 t=7122
+she shi du 	摄氏度	c=1 d=0.00465413 t=7122
+she zhi 	设置	c=8 d=0.416866 t=7122
+shei 	谁	c=3 d=5.21385e-09 t=7122
+shei jiu 	谁就	c=1 d=5.42502e-12 t=7122
+shen lun 	申论	c=1 d=1.38879e-11 t=7122
+shen me 	什么	c=12 d=0.0290761 t=7122
+shen shi 	甚是	c=0 d=3.86005e-09 t=7122
+shen shi xiang nian 	甚是想念	c=1 d=3.8794e-08 t=7122
+shen shou qi hai 	身受其害	c=1 d=5.74561e-11 t=7122
+shen shu 	神书	c=1 d=0.00128115 t=7122
+shen zhi 	甚至	c=1 d=0.0558548 t=7122
+sheng 	省	c=1 d=2.94819e-14 t=7122
+sheng bu dai lai 	生不带来	c=1 d=1.87889e-08 t=7122
+sheng chan guan xi 	生产关系	c=1 d=3.4753e-08 t=7122
+sheng chan li 	生产力	c=2 d=3.50707e-08 t=7122
+sheng cheng 	生成	c=10 d=5.45656e-06 t=7122
+sheng dian 	省电	c=1 d=4.09095e-15 t=7122
+sheng hui 	省会	c=1 d=0.000194515 t=7122
+sheng ji 	升级	c=3 d=0.00477209 t=7122
+sheng ji hou 	升级后	c=1 d=1.53037e-06 t=7122
+sheng li 	生理	c=7 d=1.27309e-08 t=7122
+sheng ren 	胜任	c=1 d=3.75567e-09 t=7122
+sheng si 	生死	c=1 d=1.01074e-08 t=7122
+sheng tai 	生态	c=1 d=6.77749e-13 t=7122
+sheng xiang 	声响	c=1 d=9.49258e-06 t=7122
+sheng xiao 	生效	c=3 d=0.00029802 t=7122
+sheng yin 	声音	c=7 d=4.73524e-09 t=7122
+sheng yu 	剩余	c=0 d=4.55252e-09 t=7122
+sheng yu 	胜于	c=1 d=4.59827e-08 t=7122
+sheng yu bai wan xiong shi 	剩余百万雄师	c=1 d=4.57534e-08 t=7122
+sheng yu jia zhi 	剩余价值	c=1 d=1.30769e-09 t=7122
+shi 	使	c=2 d=2.08582e-12 t=7122
+shi 	市	c=2 d=3.57853e-15 t=7122
+shi 	时	c=4 d=0.0415869 t=7122
+shi 	是	c=124 d=4.11315 t=7122
+shi 	识	c=0 d=9.98097e-09 t=7122
+shi 	试	c=1 d=0.351692 t=7122
+shi bai 	失败	c=9 d=1.83122e-08 t=7122
+shi bing 	士兵	c=1 d=9.37386e-05 t=7122
+shi bu shi 	是不是	c=4 d=0.0152222 t=7122
+shi chui 	石锤	c=1 d=6.22203e-07 t=7122
+shi du 	湿度	c=1 d=1.77496e-15 t=7122
+shi fou 	是否	c=5 d=3.01595e-07 t=7122
+shi ge 	是个	c=3 d=8.39227e-08 t=7122
+shi ge ren 	是个人	c=1 d=0.00213348 t=7122
+shi gong 	师公	c=0 d=6.55797e-09 t=7122
+shi he 	适合	c=1 d=1.46025e-13 t=7122
+shi hou 	时候	c=11 d=0.00301946 t=7122
+shi ji 	世纪	c=1 d=0.562705 t=7122
+shi ji 	实际	c=2 d=0.00382958 t=7122
+shi ji shang 	实际上	c=2 d=0.00559477 t=7122
+shi jian 	事件	c=3 d=0.196912 t=7122
+shi jian 	实践	c=1 d=1.50446e-11 t=7122
+shi jian 	时间	c=1 d=0.00453922 t=7122
+shi jian duan 	时间段	c=1 d=5.61825e-12 t=7122
+shi jian xun huan 	事件循环	c=1 d=0.108609 t=7122
+shi jie 	世界	c=3 d=0.000209495 t=7122
+shi le 	试了	c=0 d=1.33479e-16 t=7122
+shi le xia 	试了下	c=1 d=1.34148e-15 t=7122
+shi nian 	十年	c=1 d=2.6085e-15 t=7122
+shi pin 	视频	c=20 d=0.109831 t=7122
+shi qi 	时期	c=2 d=1.36194e-06 t=7122
+shi qu 	时区	c=1 d=5.76146e-14 t=7122
+shi ren 	诗人	c=1 d=1.74734e-07 t=7122
+shi shi 	试试	c=10 d=0.400801 t=7122
+shi shi qiu shi 	实事求是	c=2 d=1.80197e-08 t=7122
+shi shu 	史书	c=1 d=1.10307e-07 t=7122
+shi wan huo ji 	十万火急	c=1 d=1.0158e-08 t=7122
+shi wu 	事物	c=1 d=0.000466618 t=7122
+shi xian 	实现	c=14 d=0.0005599 t=7122
+shi xian le 	实现了	c=1 d=4.73992e-12 t=7122
+shi xiao 	失效	c=1 d=9.42566e-11 t=7122
+shi xiao xing 	时效性	c=1 d=9.51877e-09 t=7122
+shi yan 	实验	c=1 d=3.4153e-09 t=7122
+shi ye 	事业	c=1 d=5.43536e-05 t=7122
+shi ye bian 	事业编	c=5 d=3.86004e-10 t=7122
+shi ye dan wei 	事业单位	c=1 d=5.38128e-05 t=7122
+shi ying 	适应	c=1 d=0.839457 t=7122
+shi yong 	使用	c=11 d=8.87291e-05 t=7122
+shi zhong jian chi 	始终坚持	c=0 d=3.15326e-12 t=7122
+shi zhong jian chi dang dui jun dui de jue dui ling dao 	始终坚持党对军队的绝对领导	c=1 d=3.16906e-11 t=7122
+shou 	受	c=1 d=1.53115e-12 t=7122
+shou 	手	c=1 d=7.73574e-10 t=7122
+shou biao 	手表	c=0 d=1.26193e-09 t=7122
+shou biao ding lv 	手表定律	c=1 d=8.27522e-09 t=7122
+shou biao li lun 	手表理论	c=1 d=4.40732e-09 t=7122
+shou bu dao 	收不到	c=1 d=9.8374e-14 t=7122
+shou dong 	手动	c=3 d=0.00165327 t=7122
+shou duan 	手段	c=1 d=9.93288e-10 t=7122
+shou ji 	手机	c=8 d=9.07964e-06 t=7122
+shou le 	收了	c=1 d=8.29523e-08 t=7122
+shou li 	手里	c=1 d=1.66212e-07 t=7122
+shou nao ji guan 	首脑机关	c=1 d=7.67728e-09 t=7122
+shou ru 	收入	c=0 d=0.00176857 t=7122
+shou shen 	瘦身	c=2 d=0.0194482 t=7122
+shou shui 	收税	c=1 d=2.38894e-10 t=7122
+shou wu 	手误	c=1 d=1.89255e-05 t=7122
+shou xia 	收下	c=0 d=8.07091e-10 t=7122
+shou xian 	首先	c=1 d=5.08274e-10 t=7122
+shou xie 	手写	c=4 d=0.110251 t=7122
+shou yin ji 	收音机	c=4 d=0.0193332 t=7122
+shou yin xiao ying 	首因效应	c=3 d=1.64221e-08 t=7122
+shu 	书	c=1 d=5.84854e-14 t=7122
+shu 	数	c=1 d=0.00447164 t=7122
+shu biao 	鼠标	c=7 d=0.202197 t=7122
+shu chu 	输出	c=6 d=1.04494 t=7122
+shu ji 	书籍	c=3 d=8.49783e-14 t=7122
+shu ji 	叔季	c=0 d=5.8164e-09 t=7122
+shu ju 	数据	c=5 d=1.37112e-06 t=7122
+shu ju bao 	数据包	c=2 d=1.06087e-11 t=7122
+shu ju ku 	数据库	c=1 d=1.40323e-15 t=7122
+shu ju wu jia 	数据无价	c=1 d=9.93796e-16 t=7122
+shu mei pai 	树莓派	c=15 d=0.0360031 t=7122
+shu mi ma 	输密码	c=1 d=1.21655e-12 t=7122
+shu qian 	书签	c=1 d=0.591555 t=7122
+shu ren 	熟人	c=1 d=5.68747e-09 t=7122
+shu ru 	输入	c=1 d=1.7655e-11 t=7122
+shu ru fa 	输入法	c=6 d=4.34022e-05 t=7122
+shu si 	述思	c=1 d=7.41197e-07 t=7122
+shu tong 	疏通	c=1 d=1.11974e-07 t=7122
+shu yu 	属于	c=1 d=2.09772e-10 t=7122
+shu zu 	数组	c=2 d=6.67317e-07 t=7122
+shua 	刷	c=1 d=0.00186406 t=7122
+shua ji 	刷机	c=1 d=1.03647e-13 t=7122
+shua ji hou 	刷机后	c=1 d=7.49156e-15 t=7122
+shua le 	刷了	c=1 d=1.79158e-07 t=7122
+shuang ji 	双击	c=1 d=0.937067 t=7122
+shuang tian er 	双添耳	c=1 d=0.0925506 t=7122
+shuang xiu 	双修	c=1 d=4.48703e-14 t=7122
+shuang yin su 	双因素	c=3 d=6.28754e-09 t=7122
+shui 	水	c=1 d=1.34775e-11 t=7122
+shui jian bao 	水煎包	c=1 d=0.000115643 t=7122
+shui jiao 	睡觉	c=1 d=0.020141 t=7122
+shui shou 	税收	c=0 d=1.13686e-10 t=7122
+shun geng 	舜耕	c=0 d=2.13973e-09 t=7122
+shun geng li shan 	舜耕历山	c=1 d=2.15046e-08 t=7122
+shun xu 	顺序	c=2 d=1.46827e-06 t=7122
+shun xu hao 	顺序号	c=1 d=1.36435e-08 t=7122
+shuo 	说	c=5 d=0.0185248 t=7122
+shuo bu ding 	说不定	c=1 d=8.89973e-12 t=7122
+shuo de hao 	说得好	c=1 d=3.77449e-09 t=7122
+shuo lai ye 	说来也	c=0 d=2.55468e-06 t=7122
+shuo lai ye guai 	说来也怪	c=1 d=2.56748e-05 t=7122
+shuo ming 	说明	c=2 d=5.63038e-06 t=7122
+shuo ming shu 	说明书	c=2 d=0.0200867 t=7122
+shuo shuo 	说说	c=1 d=2.28973e-11 t=7122
+si 	四	c=0 d=8.14925e-06 t=7122
+si chou zhi lu 	丝绸之路	c=1 d=7.96997e-08 t=7122
+si fen zhi san 	四分之三	c=1 d=4.82319e-11 t=7122
+si fen zhi yi 	四分之一	c=1 d=4.92063e-11 t=7122
+si hou 	死后	c=1 d=0.00128757 t=7122
+si hu 	似乎	c=5 d=1.71905 t=7122
+si ji 	四级	c=1 d=3.69208e-14 t=7122
+si jian tao 	四件套	c=1 d=4.84572e-07 t=7122
+si le 	死了	c=1 d=0.000234044 t=7122
+si miao 	寺庙	c=3 d=0.0192549 t=7122
+si shi 	四十	c=1 d=8.05144e-10 t=7122
+si wei 	思维	c=2 d=1.00389e-08 t=7122
+si wei ding shi 	思维定势	c=1 d=3.10578e-09 t=7122
+si xiang 	思想	c=2 d=0.0494532 t=7122
+si xuan yi 	四旋翼	c=1 d=8.19009e-05 t=7122
+si yao 	死要	c=1 d=1.88831e-08 t=7122
+si you zhi 	私有制	c=2 d=4.16575e-11 t=7122
+si zi 	四字	c=1 d=1.60911e-08 t=7122
+song ci 	宋词	c=1 d=1.03615e-06 t=7122
+song ti 	宋体	c=1 d=1.19206e-08 t=7122
+sou suo 	搜索	c=4 d=4.97122e-12 t=7122
+su dong 	速冻	c=1 d=2.45618e-13 t=7122
+su du 	速度	c=5 d=9.98645e-05 t=7122
+su zhe 	苏辙	c=1 d=1.00553e-06 t=7122
+suan fa 	算法	c=3 d=0.380987 t=7122
+suan sha 	算啥	c=1 d=2.54938e-10 t=7122
+sui 	岁	c=1 d=6.57402e-05 t=7122
+sui ji 	随机	c=3 d=6.60797e-09 t=7122
+sui ran 	虽然	c=1 d=0.000437252 t=7122
+sui ren 	燧人	c=1 d=1.97522e-08 t=7122
+sui xing 	随行	c=1 d=1.47874e-14 t=7122
+sui yue 	岁月	c=0 d=3.61713e-09 t=7122
+sui yue ru dao 	岁月如刀	c=1 d=3.63526e-08 t=7122
+sui zai jia zi tian xia da ji 	岁在甲子天下大吉	c=1 d=1.30747e-07 t=7122
+sun gong fei si 	损公肥私	c=1 d=1.16563e-09 t=7122
+suo 	锁	c=2 d=1 t=7122
+suo fang 	缩放	c=8 d=0.000108402 t=7122
+suo ping 	锁屏	c=1 d=9.90387e-05 t=7122
+suo yi 	所以	c=4 d=0.00156592 t=7122
+suo you 	所有	c=1 d=1.01387e-15 t=7122
+suo zhe 	锁着	c=1 d=0.878095 t=7122
+ta 	他	c=20 d=1.55287 t=7122
+ta 	它	c=1 d=6.69159e-10 t=7122
+ta bu xing 	他不行	c=1 d=0.000982903 t=7122
+ta de 	它的	c=1 d=1.94548e-06 t=7122
+ta men 	它们	c=2 d=6.36523e-10 t=7122
+ta shi 	他是	c=1 d=3.19156e-06 t=7122
+ta shi bu shi 	他是不是	c=1 d=4.27924e-15 t=7122
+tai 	太	c=3 d=0.00729913 t=7122
+tai can le 	太惨了	c=1 d=9.85615e-07 t=7122
+tai chi 	太吃	c=1 d=3.70164e-15 t=7122
+tai cun 	台村	c=0 d=4.14205e-15 t=7122
+tai da 	太大	c=2 d=3.99916e-05 t=7122
+tai diao zuan 	太刁钻	c=1 d=1.33757e-10 t=7122
+tai duo 	太多	c=2 d=8.5464e-06 t=7122
+tai duo le 	太多了	c=1 d=3.00049e-15 t=7122
+tai ke xue le 	太科学了	c=1 d=1.38163e-09 t=7122
+tai le 	泰勒	c=3 d=6.56036e-09 t=7122
+tai liang 	太亮	c=0 d=2.78947e-11 t=7122
+tai liang le 	太亮了	c=2 d=6.55005e-10 t=7122
+tai luan 	太乱	c=1 d=7.81614e-14 t=7122
+tai man 	太慢	c=2 d=8.31387e-05 t=7122
+tai man le 	太慢了	c=1 d=3.24818e-07 t=7122
+tai qiang 	太强	c=1 d=8.00856e-06 t=7122
+tai qiang da 	太强大	c=1 d=8.25245e-06 t=7122
+tai shi 	台式	c=1 d=2.10387e-15 t=7122
+tai shi ji 	台式机	c=1 d=2.58255e-15 t=7122
+tai sun 	太孙	c=1 d=0.00130703 t=7122
+tai xue 	太学	c=1 d=7.58127e-08 t=7122
+tai zi 	太子	c=0 d=3.28932e-09 t=7122
+tai zi dian xia 	太子殿下	c=1 d=3.30581e-08 t=7122
+tan 	弹	c=1 d=0.140156 t=7122
+tan chu 	谈出	c=1 d=0.135335 t=7122
+tang chao 	唐朝	c=1 d=1.72996e-07 t=7122
+tang dai 	唐代	c=1 d=1.9119e-07 t=7122
+tang shi 	唐诗	c=1 d=1.03098e-06 t=7122
+tao 	套	c=1 d=0.00104891 t=7122
+te bie 	特别	c=2 d=0.000505481 t=7122
+te ji 	特急	c=1 d=1.1396e-08 t=7122
+te man 	特慢	c=1 d=2.58835e-12 t=7122
+te ti 	特提	c=1 d=1.13392e-08 t=7122
+te zhao 	特招	c=1 d=7.86896e-05 t=7122
+teng xun 	腾讯	c=1 d=3.36617e-15 t=7122
+ti 	体	c=1 d=5.19973e-13 t=7122
+ti 	踢	c=0 d=6.91205e-10 t=7122
+ti 	题	c=1 d=1.23154e-09 t=7122
+ti chu 	提出	c=1 d=0.000249763 t=7122
+ti dai 	替代	c=1 d=1.10916e-13 t=7122
+ti gao 	提高	c=1 d=0.0221482 t=7122
+ti gong 	提供	c=1 d=7.30286e-09 t=7122
+ti huan 	替换	c=1 d=3.68193e-11 t=7122
+ti jiao 	提交	c=2 d=7.57648e-11 t=7122
+ti mao xiao ying 	踢猫效应	c=2 d=1.39282e-08 t=7122
+ti shi 	提示	c=2 d=2.4059e-05 t=7122
+ti xian 	体现	c=1 d=0.00159641 t=7122
+ti yan 	体验	c=2 d=0.0693066 t=7122
+ti zi 	梯子	c=1 d=6.87055e-12 t=7122
+tian chong 	填充	c=2 d=2.96529e-15 t=7122
+tian di jun qin shi 	天地君亲师	c=2 d=1.31735e-07 t=7122
+tian gou 	舔狗	c=1 d=7.89067e-08 t=7122
+tian jia 	添加	c=2 d=0.946485 t=7122
+tian qi 	天气	c=2 d=3.54293e-15 t=7122
+tian xia 	天下	c=0 d=1.30095e-08 t=7122
+tian zi 	天子	c=1 d=7.61927e-08 t=7122
+tiao 	跳	c=1 d=1.24134e-14 t=7122
+tiao a 	跳啊	c=1 d=5.57675e-13 t=7122
+tiao shi 	调试	c=4 d=6.89337e-10 t=7122
+tiao shi yuan 	调试员	c=1 d=3.54732e-14 t=7122
+tiao xuan 	挑选	c=1 d=6.50952e-09 t=7122
+tiao yi ge 	挑一个	c=1 d=3.19319e-12 t=7122
+tiao zheng 	调整	c=2 d=0.228898 t=7122
+tie xin 	贴心	c=1 d=6.98389e-13 t=7122
+tie zi 	铁子	c=0 d=0.0995012 t=7122
+tie zi men 	铁子们	c=1 d=1 t=7122
+ting 	挺	c=2 d=0.00285124 t=7122
+ting da 	挺大	c=1 d=0.00275318 t=7122
+ting duo 	挺多	c=3 d=0.0247312 t=7122
+ting ge 	听歌	c=1 d=0.522046 t=7122
+ting hao 	挺好	c=7 d=0.000810148 t=7122
+ting hao de 	挺好的	c=1 d=2.78369e-15 t=7122
+ting hao shi 	挺好使	c=1 d=1.41002e-13 t=7122
+ting jian 	听见	c=1 d=9.25821e-06 t=7122
+ting ke 	听课	c=1 d=0.000102055 t=7122
+ting yong 	停用	c=1 d=0.0028799 t=7122
+ting zhi 	停止	c=1 d=7.4107e-05 t=7122
+tong 	同	c=1 d=2.81798e-12 t=7122
+tong 	通	c=0 d=9.56648e-10 t=7122
+tong bao 	同胞	c=1 d=0.0478349 t=7122
+tong bu 	同步	c=3 d=0.000178665 t=7122
+tong deng 	同等	c=1 d=1.56155e-08 t=7122
+tong gan 	同感	c=1 d=6.67545e-11 t=7122
+tong ji 	同级	c=1 d=1.33836e-08 t=7122
+tong ji ji guan 	同级机关	c=1 d=1.22836e-08 t=7122
+tong ming 	同名	c=1 d=1.97079e-11 t=7122
+tong qiu 	同求	c=1 d=1.88895e-12 t=7122
+tong yang 	同样	c=1 d=0.995012 t=7122
+tong yang jie kou 	同样接口	c=1 d=1.85123e-10 t=7122
+tong yi 	统一	c=0 d=5.53273e-09 t=7122
+tong yi ge 	同一个	c=3 d=3.59848e-06 t=7122
+tong yi qi lai 	统一起来	c=1 d=0.00141589 t=7122
+tong zhi 	统治	c=1 d=3.09082e-11 t=7122
+tong zhi 	通知	c=1 d=4.49036e-12 t=7122
+tong zhi ta 	通知他	c=1 d=4.33196e-12 t=7122
+tou bi cong rong 	投笔从戎	c=1 d=1.13666e-07 t=7122
+tou kui 	头盔	c=2 d=0.0672055 t=7122
+tou ming 	透明	c=2 d=1.24379 t=7122
+tou she 	投射	c=0 d=5.74463e-10 t=7122
+tou she xiao ying 	投射效应	c=1 d=5.77343e-09 t=7122
+tou tou 	偷偷	c=1 d=0.960789 t=7122
+tou wen jian 	头文件	c=1 d=1.66297e-13 t=7122
+tou xin 	偷信	c=1 d=4.48474e-08 t=7122
+tu 	图	c=1 d=0.355226 t=7122
+tu biao 	图标	c=2 d=2.58729e-14 t=7122
+tu pian 	图片	c=7 d=9.22307e-06 t=7122
+tu ran 	突然	c=8 d=0.244985 t=7122
+tu shang 	图上	c=1 d=4.41872e-10 t=7122
+tui 	退	c=2 d=0.361804 t=7122
+tui chu 	退出	c=5 d=3.20919e-06 t=7122
+tui en 	推恩	c=0 d=7.10416e-09 t=7122
+tui en ling 	推恩令	c=2 d=1.4497e-07 t=7122
+tui jian 	推荐	c=2 d=0.104031 t=7122
+tui le 	退了	c=1 d=0.155673 t=7122
+tui song 	推送	c=2 d=1.34855e-10 t=7122
+tui wu bu tui shai 	退伍不褪色	c=1 d=1.31765e-10 t=7122
+tui xing 	推行	c=1 d=7.17556e-08 t=7122
+tui yi 	退役	c=2 d=0.000182438 t=7122
+tui yi shi bing 	退役士兵	c=1 d=9.05145e-05 t=7122
+tuo 	托	c=2 d=0.0104347 t=7122
+tuo gu gai zhi 	托古改制	c=1 d=1.30095e-07 t=7122
+tuo pan 	托盘	c=1 d=1.36505e-14 t=7122
+tuo zhuai 	拖拽	c=3 d=6.93813e-07 t=7122
+wa kao 	哇靠	c=2 d=0.121238 t=7122
+wa wa 	娃娃	c=1 d=4.0468e-05 t=7122
+wai chao 	外朝	c=1 d=7.10416e-08 t=7122
+wai guo ren 	外国人	c=1 d=0.000211772 t=7122
+wai jie 	外接	c=2 d=1.65597e-14 t=7122
+wan 	完	c=2 d=0.467666 t=7122
+wan 	晚	c=1 d=7.56533e-09 t=7122
+wan 	玩	c=1 d=2.07611e-08 t=7122
+wan cheng 	完成	c=2 d=0.496585 t=7122
+wan e 	万恶	c=2 d=0.0273291 t=7122
+wan e zhi yuan 	万恶之源	c=1 d=8.02929e-07 t=7122
+wan fei le 	玩废了	c=1 d=1.98e-07 t=7122
+wan le 	完了	c=1 d=0.178173 t=7122
+wan neng 	万能	c=2 d=0.00795058 t=7122
+wan nian 	晚年	c=1 d=7.5617e-07 t=7122
+wang 	网	c=4 d=0.00877497 t=7122
+wang ka 	网卡	c=1 d=1.65896e-14 t=7122
+wang le 	忘了	c=1 d=3.44189e-12 t=7122
+wang luo 	网络	c=6 d=0.384812 t=7122
+wang shi 	往事	c=1 d=0.00647375 t=7122
+wang su 	网速	c=4 d=0.724509 t=7122
+wang wei 	王位	c=0 d=3.33903e-09 t=7122
+wang xi zhi 	王羲之	c=1 d=2.87393e-08 t=7122
+wang xian 	网线	c=1 d=3.99687e-06 t=7122
+wang xian zhi 	王仙芝	c=1 d=1.6957e-07 t=7122
+wang xin yun 	网心云	c=2 d=3.56831e-14 t=7122
+wang xu 	王旭	c=0 d=9.70941e-08 t=7122
+wang ye 	网页	c=1 d=1.44921e-12 t=7122
+wang yi rong 	王懿荣	c=2 d=5.3727e-08 t=7122
+wang yi yun 	网易云	c=1 d=0.0987662 t=7122
+wang zhan 	网站	c=1 d=6.007e-05 t=7122
+wang zhao jun 	王昭君	c=1 d=9.78334e-08 t=7122
+wang zhe 	王者	c=1 d=6.47485e-05 t=7122
+wang zhuang 	网状	c=1 d=0.398519 t=7122
+wei 	为	c=3 d=4.86936e-05 t=7122
+wei bian san jue 	韦编三绝	c=1 d=7.44912e-07 t=7122
+wei bo 	韦伯	c=2 d=3.12346e-09 t=7122
+wei ci 	为此	c=2 d=1.28906e-09 t=7122
+wei fu wu 	微服务	c=3 d=1.93344e-08 t=7122
+wei he 	为何	c=2 d=2.25394e-07 t=7122
+wei hu 	维护	c=1 d=0.00116504 t=7122
+wei le 	为了	c=1 d=0.0439369 t=7122
+wei mian tai 	未免太	c=0 d=2.34124e-09 t=7122
+wei mian tai da 	未免太大	c=1 d=2.35298e-08 t=7122
+wei qing 	卫青	c=2 d=1.91795e-07 t=7122
+wei ruan 	微软	c=2 d=0.0415839 t=7122
+wei sha 	为啥	c=1 d=9.12348e-10 t=7122
+wei shen me 	为什么	c=5 d=0.00248372 t=7122
+wei zhi 	位置	c=2 d=0.23457 t=7122
+wen 	文	c=1 d=0.120633 t=7122
+wen bao 	温饱	c=1 d=0.0190631 t=7122
+wen ben 	文本	c=1 d=3.09829e-10 t=7122
+wen du 	温度	c=5 d=0.00653988 t=7122
+wen hua 	文化	c=1 d=0.0833256 t=7122
+wen jian 	文件	c=21 d=0.0407002 t=7122
+wen jian ge shi 	文件格式	c=1 d=0.932394 t=7122
+wen jian jia 	文件夹	c=2 d=1.93373e-15 t=7122
+wen jian xi tong 	文件系统	c=1 d=0.615697 t=7122
+wen jing zhi zhi 	文景之治	c=2 d=1.92075e-07 t=7122
+wen ti 	问题	c=26 d=2.04799 t=7122
+wen xue jia 	文学家	c=1 d=1.08123e-07 t=7122
+wen zhong 	文种	c=1 d=9.56648e-09 t=7122
+wen zi 	文字	c=1 d=1.24671e-06 t=7122
+wo 	我	c=95 d=7.60505 t=7122
+wo ai ni 	我爱你	c=1 d=4.42023e-14 t=7122
+wo bu 	我不	c=0 d=6.46143e-11 t=7122
+wo bu hui 	我不会	c=0 d=5.42409e-11 t=7122
+wo bu hui shi xian 	我不会实现	c=1 d=5.45128e-10 t=7122
+wo bu li jie 	我不理解	c=1 d=6.49382e-10 t=7122
+wo cai ce 	我猜测	c=1 d=0.960789 t=7122
+wo cao 	卧槽	c=1 d=8.48471e-09 t=7122
+wo de 	我的	c=5 d=0.00362464 t=7122
+wo dong 	我懂	c=1 d=1.0057e-08 t=7122
+wo fa xian 	我发现	c=1 d=7.21398e-12 t=7122
+wo gan guo 	我干过	c=1 d=1.43109e-11 t=7122
+wo gan jue 	我感觉	c=1 d=4.82483e-15 t=7122
+wo gang 	我刚	c=1 d=4.11005e-11 t=7122
+wo huan 	我换	c=1 d=2.58035e-05 t=7122
+wo jiu 	我就	c=1 d=0.000340532 t=7122
+wo jiu shi 	我就是	c=1 d=0.0858632 t=7122
+wo kan 	我看	c=2 d=5.6019e-07 t=7122
+wo kan kan 	我看看	c=1 d=2.40795e-15 t=7122
+wo ke neng 	我可能	c=2 d=1.87372e-05 t=7122
+wo ke yi 	我可以	c=1 d=9.24217e-15 t=7122
+wo lia 	我俩	c=1 d=1.54255e-11 t=7122
+wo long feng chu 	卧龙凤雏	c=1 d=4.10935e-09 t=7122
+wo men 	我们	c=5 d=0.07199 t=7122
+wo ne 	我呢	c=1 d=1.003e-07 t=7122
+wo qu 	我去	c=2 d=1.90041e-11 t=7122
+wo shi 	我是	c=2 d=0.000992781 t=7122
+wo shi shi 	我试试	c=1 d=1.37544e-15 t=7122
+wo wei yu rou 	我为鱼肉	c=1 d=6.36415e-08 t=7122
+wo xiang 	我想	c=4 d=1.34788e-07 t=7122
+wo xie xie ni 	我谢谢你	c=1 d=7.81215e-08 t=7122
+wo xin 	我信	c=0 d=7.43115e-09 t=7122
+wo xin ni da ye 	我信你大爷	c=1 d=7.4684e-08 t=7122
+wo ye 	我也	c=4 d=0.0408966 t=7122
+wo ye xiang 	我也想	c=1 d=4.06985e-13 t=7122
+wo yong 	我用	c=1 d=0.83527 t=7122
+wo zai 	我在	c=1 d=0.00588705 t=7122
+wo zhao 	我找	c=1 d=5.67375e-10 t=7122
+wo zhao dao 	我找到	c=2 d=0.00144449 t=7122
+wo zhe bian 	我这边	c=5 d=0.139462 t=7122
+wo zhe ge 	我这个	c=1 d=2.06221e-15 t=7122
+wo zhe li 	我这里	c=1 d=6.22097e-05 t=7122
+wo zheng zai 	我正在	c=1 d=4.59984e-12 t=7122
+wo zhi zhi dao 	我只知道	c=1 d=0.985112 t=7122
+wo zhun bei 	我准备	c=1 d=3.31549e-13 t=7122
+wu 	呜	c=1 d=0.000175127 t=7122
+wu 	戊	c=0 d=2.65297e-09 t=7122
+wu 	无	c=4 d=6.50398e-09 t=7122
+wu bi 	五笔	c=1 d=0.000171659 t=7122
+wu chan jie ji 	无产阶级	c=1 d=2.27243e-10 t=7122
+wu chu 	无处	c=1 d=1.01318e-07 t=7122
+wu da wu zhuang 	误打误撞	c=1 d=2.08258e-13 t=7122
+wu dai shi guo 	五代十国	c=1 d=1.71274e-07 t=7122
+wu fa 	无法	c=2 d=0.000339862 t=7122
+wu fa shang chuan 	无法上传	c=1 d=2.01965e-05 t=7122
+wu jia 	无价	c=1 d=1.40614e-10 t=7122
+wu jiao xing 	五角星	c=1 d=1.11704e-08 t=7122
+wu jun 	五军	c=0 d=3.26558e-12 t=7122
+wu jun le 	五军了	c=1 d=3.28194e-11 t=7122
+wu le 	悟了	c=2 d=6.82575e-09 t=7122
+wu li bu qi zao 	无利不起早	c=1 d=2.44942e-10 t=7122
+wu liang 	无良	c=1 d=0.00311976 t=7122
+wu nao 	无脑	c=1 d=2.26579e-05 t=7122
+wu nong 	务农	c=1 d=4.22573e-14 t=7122
+wu pin 	物品	c=1 d=7.37625e-09 t=7122
+wu ran 	污染	c=2 d=0.00932553 t=7122
+wu suo fang 	无缩放	c=1 d=4.94698e-15 t=7122
+wu yi yu 	无异于	c=1 d=4.2025e-08 t=7122
+wu ze tian 	武则天	c=1 d=1.54202e-07 t=7122
+wu zi 	屋子	c=1 d=4.18226e-10 t=7122
+xi da da 	习大大	c=1 d=9.66263e-09 t=7122
+xi guan le 	习惯了	c=2 d=5.90353e-15 t=7122
+xi hong shi 	西红柿	c=2 d=1.15231e-13 t=7122
+xi huan 	喜欢	c=1 d=3.63588e-10 t=7122
+xi meng 	西蒙	c=4 d=9.30923e-09 t=7122
+xi mu li xin 	徙木立信	c=1 d=4.11929e-08 t=7122
+xi ni 	细腻	c=1 d=2.92641e-15 t=7122
+xi shi 	西施	c=1 d=1.29446e-07 t=7122
+xi tong 	系统	c=10 d=0.272319 t=7122
+xi yang xi xia 	夕阳西下	c=1 d=1.2625e-07 t=7122
+xi yu 	西域	c=2 d=2.48632e-07 t=7122
+xi yu du hu fu 	西域都户府	c=1 d=8.67704e-08 t=7122
+xi zang 	西藏	c=1 d=0.0109436 t=7122
+xia 	下	c=16 d=1.3528 t=7122
+xia 	夏	c=0 d=2.49848e-09 t=7122
+xia kong 	下空	c=1 d=1.5154e-08 t=7122
+xia li 	夏历	c=1 d=2.49848e-08 t=7122
+xia mian 	下面	c=1 d=5.71501e-07 t=7122
+xia tian 	夏天	c=1 d=0.0223708 t=7122
+xia xiao zheng 	夏小正	c=1 d=2.511e-08 t=7122
+xia yi 	下移	c=1 d=3.38189e-11 t=7122
+xia zai 	下载	c=12 d=8.92253e-05 t=7122
+xian 	先	c=3 d=7.82869e-06 t=7122
+xian cheng 	线程	c=1 d=7.79464e-11 t=7122
+xian cheng de 	现成的	c=1 d=1.08983e-12 t=7122
+xian dai 	现代	c=2 d=2.07628e-08 t=7122
+xian dao 	先到	c=1 d=5.37104e-12 t=7122
+xian jin 	先进	c=1 d=2.07113e-07 t=7122
+xian ka 	显卡	c=5 d=4.55108e-05 t=7122
+xian shi 	显示	c=6 d=0.000731375 t=7122
+xian shi qi 	显示器	c=2 d=1.65176e-14 t=7122
+xian su 	限速	c=1 d=5.0933e-05 t=7122
+xian xiang 	现象	c=4 d=0.000863928 t=7122
+xian zai 	现在	c=52 d=1.91055 t=7122
+xiang 	像	c=2 d=2.32355e-07 t=7122
+xiang 	想	c=2 d=0.0365875 t=7122
+xiang dang 	相当	c=2 d=0.0706512 t=7122
+xiang dui 	相对	c=1 d=3.70038e-11 t=7122
+xiang fa 	想法	c=2 d=9.58486e-13 t=7122
+xiang huo 	香火	c=1 d=2.37703e-10 t=7122
+xiang mu 	项目	c=2 d=0.00530026 t=7122
+xiang nian 	想念	c=0 d=3.86005e-09 t=7122
+xiang qi 	想起	c=1 d=0.00571306 t=7122
+xiang shi 	像是	c=3 d=1.02707 t=7122
+xiang xi 	详细	c=4 d=0.000511884 t=7122
+xiang xi yi dian 	详细一点	c=4 d=1.72173e-06 t=7122
+xiang xing 	象形	c=1 d=3.02128e-08 t=7122
+xiang yong 	想用	c=1 d=7.62316e-14 t=7122
+xiang yu 	项羽	c=1 d=6.17606e-08 t=7122
+xiao 	小	c=4 d=1.4947e-10 t=7122
+xiao cao 	小草	c=1 d=4.86918e-05 t=7122
+xiao chong zi 	小虫子	c=1 d=4.94613e-13 t=7122
+xiao gai 	小改	c=0 d=4.82319e-12 t=7122
+xiao gai da 	小改大	c=1 d=4.84737e-11 t=7122
+xiao gai lv 	小概率	c=1 d=1.09775e-09 t=7122
+xiao guo 	效果	c=2 d=7.01484e-10 t=7122
+xiao he 	萧何	c=1 d=6.46033e-08 t=7122
+xiao hua 	消化	c=1 d=4.34392e-15 t=7122
+xiao le 	小了	c=1 d=2.75364e-05 t=7122
+xiao le 	笑了	c=1 d=6.57718e-13 t=7122
+xiao li 	效力	c=1 d=1.56938e-08 t=7122
+xiao ma ge 	小马哥	c=1 d=0.88692 t=7122
+xiao mi 	小米	c=4 d=0.995012 t=7122
+xiao qiao 	小巧	c=1 d=2.25449e-05 t=7122
+xiao qiao liu shui ren jia 	小桥流水人家	c=1 d=1.24994e-07 t=7122
+xiao sheng 	小声	c=1 d=6.28777e-13 t=7122
+xiao shi 	小时	c=1 d=2.76077e-06 t=7122
+xiao shi hou 	小时候	c=1 d=0.000165755 t=7122
+xiao shuo 	小说	c=1 d=0.0587185 t=7122
+xiao xi 	消息	c=1 d=9.88671e-14 t=7122
+xiao xiao 	小小	c=1 d=2.31275e-11 t=7122
+xiao xue 	小学	c=4 d=0.00963841 t=7122
+xiao yao 	逍遥	c=1 d=0.000219315 t=7122
+xiao ying 	效应	c=11 d=6.35835e-08 t=7122
+xiao yong 	效用	c=1 d=1.26272e-09 t=7122
+xiao zheng 	小正	c=0 d=2.49848e-09 t=7122
+xiao zhuan 	小篆	c=1 d=3.05299e-08 t=7122
+xie 	些	c=1 d=4.29704e-05 t=7122
+xie 	写	c=18 d=0.446099 t=7122
+xie diao 	卸掉	c=1 d=2.35987e-13 t=7122
+xie ge 	写个	c=4 d=0.0446397 t=7122
+xie lu 	斜路	c=0 d=0.0980199 t=7122
+xie shang 	协商	c=0 d=1.15643e-05 t=7122
+xie tiao 	协调	c=4 d=8.81149e-09 t=7122
+xie xie 	谢谢	c=2 d=5.14454e-05 t=7122
+xie xie ni 	谢谢你	c=1 d=8.9083e-08 t=7122
+xie xing 	楔形	c=1 d=3.03642e-08 t=7122
+xie yi 	协议	c=2 d=0.008271 t=7122
+xie zuo shui ping 	写作水平	c=1 d=0.0222592 t=7122
+xin 	心	c=1 d=1.76155e-14 t=7122
+xin 	新	c=2 d=0.740833 t=7122
+xin ban 	新版	c=1 d=6.16116e-09 t=7122
+xin chun 	新春	c=1 d=7.60478e-15 t=7122
+xin de 	新的	c=3 d=2.36039e-05 t=7122
+xin li 	心理	c=2 d=0.00412784 t=7122
+xin ling jun 	信陵君	c=1 d=4.39594e-08 t=7122
+xin lv 	心率	c=1 d=0.810584 t=7122
+xin nian 	新年	c=2 d=2.15859e-14 t=7122
+xin shou ji 	新手机	c=1 d=0.085435 t=7122
+xin xi 	信息	c=5 d=0.0114473 t=7122
+xing 	型	c=2 d=7.76264e-09 t=7122
+xing 	性	c=1 d=0.290835 t=7122
+xing 	行	c=2 d=2.9324e-09 t=7122
+xing cheng 	形成	c=1 d=2.47362e-08 t=7122
+xing er shang xue 	形而上学	c=1 d=7.75312e-07 t=7122
+xing hao 	型号	c=0 d=0.0980199 t=7122
+xing huang 	姓黄	c=1 d=1.42347e-07 t=7122
+xing le 	行了	c=1 d=0.70822 t=7122
+xing shu 	行书	c=1 d=2.8596e-08 t=7122
+xing wen 	行文	c=2 d=2.59505e-08 t=7122
+xing zheng 	行政	c=0 d=3.37259e-09 t=7122
+xing zheng shi wu 	行政事务	c=0 d=7.83238e-10 t=7122
+xing zheng shou duan 	行政手段	c=1 d=1.04422e-09 t=7122
+xing zhi 	性质	c=1 d=1.58133e-09 t=7122
+xing zi 	杏子	c=1 d=0.0195457 t=7122
+xiong di 	兄弟	c=1 d=0.786628 t=7122
+xiong di men 	兄弟们	c=5 d=1.70148 t=7122
+xiu 	修	c=1 d=7.0177e-11 t=7122
+xiu 	秀	c=1 d=1.18325e-09 t=7122
+xiu fu 	修复	c=3 d=5.17027e-05 t=7122
+xiu gai 	修改	c=10 d=0.000167292 t=7122
+xiu hua 	羞花	c=1 d=1.27519e-07 t=7122
+xiu le 	秀了	c=1 d=1.20113e-09 t=7122
+xiu yi xiu 	修一修	c=1 d=1.59364e-12 t=7122
+xu 	虚	c=1 d=4.59906e-10 t=7122
+xu 	需	c=0 d=4.55329e-11 t=7122
+xu fei 	续费	c=1 d=0.0131675 t=7122
+xu hang 	续航	c=1 d=7.6812e-15 t=7122
+xu liang 	徐良	c=1 d=9.46969e-07 t=7122
+xu lie 	序列	c=1 d=5.23843e-12 t=7122
+xu ni ji 	虚拟机	c=1 d=0.000746586 t=7122
+xu qiu 	需求	c=4 d=0.826959 t=7122
+xu yao 	需要	c=11 d=0.985329 t=7122
+xu ying zi 	需影子	c=1 d=4.57612e-10 t=7122
+xu zhou 	徐州	c=1 d=8.35697e-07 t=7122
+xuan 	选	c=4 d=0.431715 t=7122
+xuan bu tong 	选不同	c=1 d=7.85265e-10 t=7122
+xuan chu lai 	选出来	c=1 d=0.000149981 t=7122
+xuan ci 	选词	c=1 d=7.12497e-13 t=7122
+xuan diao 	选调	c=1 d=1.13941e-06 t=7122
+xuan ge 	选个	c=1 d=1.06018e-11 t=7122
+xuan hu ji shi 	悬壶济世	c=1 d=4.76206e-08 t=7122
+xuan le 	选了	c=1 d=3.06642e-06 t=7122
+xuan ran 	渲染	c=2 d=1.25343e-10 t=7122
+xuan xiang 	选项	c=0 d=9.10197e-10 t=7122
+xuan yi 	旋翼	c=0 d=8.14925e-06 t=7122
+xuan yuan 	轩辕	c=1 d=1.99507e-08 t=7122
+xuan yuan shi 	轩辕氏	c=1 d=2.10788e-08 t=7122
+xuan zhong 	选中	c=2 d=0.433874 t=7122
+xuan zui chang 	选最长	c=1 d=1.08141e-09 t=7122
+xue 	学	c=1 d=0.0380064 t=7122
+xue bu xia qu 	学不下去	c=1 d=8.82948e-07 t=7122
+xue fan 	削藩	c=0 d=7.21153e-09 t=7122
+xue fan ce 	削藩策	c=1 d=7.24768e-08 t=7122
+xue sheng 	学生	c=3 d=1.13095e-13 t=7122
+xue shi 	学士	c=1 d=3.88138e-14 t=7122
+xue shi 	学时	c=1 d=0.822835 t=7122
+xue shuo 	学说	c=1 d=1.59722e-09 t=7122
+xue xi 	学习	c=1 d=2.1188e-10 t=7122
+xue xiao 	学校	c=1 d=0.00231117 t=7122
+xue ya 	血压	c=2 d=1.63748 t=7122
+xue yuan 	学院	c=4 d=1.31438e-13 t=7122
+xun huan 	循环	c=2 d=2.14108e-15 t=7122
+ya 	压	c=0 d=1.60911e-09 t=7122
+ya po 	压迫	c=1 d=0.0219278 t=7122
+yan 	烟	c=1 d=1.86952e-08 t=7122
+yan 	眼	c=1 d=5.22668e-15 t=7122
+yan bian 	演变	c=1 d=1.25296e-06 t=7122
+yan chi 	延迟	c=1 d=0.00273944 t=7122
+yan hua 	眼花	c=1 d=8.58924e-06 t=7122
+yan huang 	炎黄	c=1 d=2.13973e-08 t=7122
+yan jing 	眼睛	c=2 d=9.5684e-07 t=7122
+yan li ben 	阎立本	c=1 d=1.49645e-07 t=7122
+yan se 	颜色	c=3 d=2.88709e-14 t=7122
+yan shen 	眼神	c=2 d=2.19883e-05 t=7122
+yan wen zi 	颜文字	c=1 d=1.65496e-15 t=7122
+yan yuan 	演员	c=1 d=1.48206e-11 t=7122
+yan zhou 	兖州	c=1 d=8.52579e-07 t=7122
+yang 	养	c=1 d=9.6128e-07 t=7122
+yang 	样	c=2 d=0.918512 t=7122
+yang 	阳	c=1 d=0.00514361 t=7122
+yang can 	养蚕	c=1 d=2.05583e-08 t=7122
+yang mou 	阳谋	c=1 d=7.32052e-08 t=7122
+yang qun 	羊群	c=2 d=9.50163e-09 t=7122
+yang xian 	杨先	c=0 d=4.22573e-15 t=7122
+yang xian ying 	杨先英	c=1 d=4.24691e-14 t=7122
+yang zhou 	扬州	c=1 d=8.65464e-07 t=7122
+yao 	要	c=5 d=0.0150463 t=7122
+yao bu 	要不	c=2 d=0.0359725 t=7122
+yao me 	要么	c=2 d=0.12346 t=7122
+yao qiu 	要求	c=2 d=0.0159229 t=7122
+yao shen me 	要什么	c=1 d=0.00101284 t=7122
+yao shi 	钥匙	c=1 d=0.00798652 t=7122
+ye 	也	c=21 d=2.15973 t=7122
+ye 	页	c=1 d=1.24973e-06 t=7122
+ye bu shi 	也不是	c=1 d=8.03339e-13 t=7122
+ye dei 	也得	c=1 d=2.88284e-15 t=7122
+ye hui 	也会	c=1 d=0.000389752 t=7122
+ye jiu 	也就	c=2 d=0.1663 t=7122
+ye mian 	页面	c=2 d=2.1509e-06 t=7122
+ye shi 	也是	c=5 d=1.75616 t=7122
+ye xing 	也行	c=1 d=0.00337959 t=7122
+ye you 	也有	c=3 d=0.171778 t=7122
+ye zhi zhen 	野指针	c=1 d=0.189191 t=7122
+yi 	一	c=2 d=3.41629e-11 t=7122
+yi 	咦	c=5 d=2.07078e-05 t=7122
+yi ban 	一般	c=2 d=1.52694e-09 t=7122
+yi bo 	一波	c=0 d=1.01125e-15 t=7122
+yi bo san zhe 	一波三折	c=1 d=2.84533e-08 t=7122
+yi bu yi bu 	一步一步	c=0 d=1.17755e-12 t=7122
+yi bu yi bu lai 	一步一步来	c=1 d=1.18345e-11 t=7122
+yi chan 	遗产	c=1 d=0.0837432 t=7122
+yi chang 	异常	c=6 d=1.60235 t=7122
+yi ci 	一次	c=2 d=0.429562 t=7122
+yi da chuan 	一大串	c=2 d=1.19787e-06 t=7122
+yi da dui 	一大堆	c=1 d=0.0176857 t=7122
+yi da kai 	一打开	c=1 d=1.16603e-13 t=7122
+yi di 	异地	c=1 d=6.32036e-15 t=7122
+yi dian 	一点	c=8 d=0.0122263 t=7122
+yi ding 	一定	c=1 d=0.000314351 t=7122
+yi dong 	移动	c=9 d=0.00894799 t=7122
+yi fan 	一番	c=1 d=0.0325493 t=7122
+yi feng 	遗风	c=0 d=1.54202e-08 t=7122
+yi ge 	一个	c=22 d=0.87182 t=7122
+yi ge yi ge 	一个一个	c=1 d=0.00755912 t=7122
+yi gong 	一共	c=1 d=1.40275e-11 t=7122
+yi hang 	一行	c=4 d=3.23505e-08 t=7122
+yi hou 	以后	c=5 d=0.00669488 t=7122
+yi hui 	一会	c=1 d=0.895834 t=7122
+yi jin 	一斤	c=1 d=3.76475e-08 t=7122
+yi jing 	已经	c=9 d=0.00347502 t=7122
+yi jing 	易经	c=1 d=7.94939e-07 t=7122
+yi jing xiao you 	以儆效尤	c=1 d=0.000227127 t=7122
+yi ke 	一颗	c=1 d=4.84489e-05 t=7122
+yi kuai 	一块	c=1 d=0.000531398 t=7122
+yi lai 	依赖	c=7 d=0.324708 t=7122
+yi ling zhi zhan 	夷陵之战	c=1 d=1.33388e-07 t=7122
+yi mo 	一抹	c=0 d=2.29012e-14 t=7122
+yi mo yi yang 	一抹一样	c=1 d=2.3016e-13 t=7122
+yi nei 	以内	c=0 d=7.04928e-06 t=7122
+yi pi 	一批	c=0 d=6.11773e-15 t=7122
+yi pian 	一片	c=1 d=4.94277e-05 t=7122
+yi qi 	一起	c=1 d=0.00304273 t=7122
+yi qian 	以前	c=6 d=0.00835997 t=7122
+yi qie 	一切	c=3 d=1.15955e-05 t=7122
+yi ran cun zai 	依然存在	c=1 d=2.51664e-05 t=7122
+yi ren wei ben 	以人为本	c=2 d=6.04117e-09 t=7122
+yi ri bu jian 	一日不见	c=1 d=3.86005e-08 t=7122
+yi shan 	一闪	c=2 d=0.000762162 t=7122
+yi shan chu 	一删除	c=1 d=9.88839e-16 t=7122
+yi she 	一射	c=1 d=3.72729e-08 t=7122
+yi shi 	意识	c=4 d=0.068892 t=7122
+yi shou jiao qian 	一手交钱	c=1 d=2.10823e-10 t=7122
+yi si 	已死	c=0 d=1.14809e-08 t=7122
+yi si 	意思	c=3 d=0.209633 t=7122
+yi tao 	一套	c=1 d=2.29012e-13 t=7122
+yi tiao 	一条	c=1 d=1.21049e-12 t=7122
+yi tiao long 	一条龙	c=1 d=1.9999e-07 t=7122
+yi wai 	以外	c=1 d=7.15582e-05 t=7122
+yi wei 	以为	c=1 d=0.000876127 t=7122
+yi wu suo you 	一无所有	c=1 d=2.29527e-10 t=7122
+yi xia 	一下	c=9 d=1.14071 t=7122
+yi xia 	以下	c=1 d=0.017249 t=7122
+yi xie 	一些	c=2 d=0.0555468 t=7122
+yi xue 	医学	c=1 d=4.78593e-08 t=7122
+yi yang 	一样	c=12 d=1.51608 t=7122
+yi yao yi bai 	一摇一摆	c=1 d=5.97806e-07 t=7122
+yi ye 	一页	c=1 d=1.24349e-05 t=7122
+yi yi 	意义	c=1 d=5.75852e-08 t=7122
+yi yong 	一用	c=1 d=0.0480747 t=7122
+yi zhi 	一只	c=1 d=4.92146e-13 t=7122
+yi zhi 	一直	c=6 d=0.411158 t=7122
+yi zhi 	意志	c=0 d=7.04928e-06 t=7122
+yi zhi yi nei 	意志以内	c=1 d=7.08461e-05 t=7122
+yi zhong 	一种	c=2 d=0.102481 t=7122
+yin 	殷	c=0 d=3.06694e-09 t=7122
+yin hang 	银行	c=1 d=2.22744e-10 t=7122
+yin hao 	引号	c=1 d=6.54215e-09 t=7122
+yin qing 	引擎	c=1 d=0.108067 t=7122
+yin ru 	引入	c=1 d=3.7363e-07 t=7122
+yin shang 	殷商	c=1 d=1.19783e-06 t=7122
+yin shi 	饮食	c=1 d=7.28524e-10 t=7122
+yin su 	因素	c=1 d=0.0328764 t=7122
+yin xiang 	印象	c=1 d=5.49185e-09 t=7122
+yin xiao 	音效	c=1 d=1.67997e-15 t=7122
+yin xu 	阴虚	c=1 d=1.35824e-14 t=7122
+yin yang li 	阴阳历	c=1 d=2.52359e-08 t=7122
+yin yue 	音乐	c=2 d=0.902165 t=7122
+ying 	英	c=0 d=8.51531e-15 t=7122
+ying dang 	应当	c=1 d=0.000244817 t=7122
+ying gai 	应该	c=16 d=1.0221 t=7122
+ying gai shi 	应该是	c=1 d=2.09701e-06 t=7122
+ying gang 	硬刚	c=1 d=0.000769323 t=7122
+ying ji 	应急	c=1 d=8.65611e-09 t=7122
+ying jian 	硬件	c=1 d=0.000825105 t=7122
+ying jian jia su 	硬件加速	c=1 d=1.06054e-15 t=7122
+ying jie 	硬解	c=3 d=0.000171229 t=7122
+ying le 	赢了	c=1 d=5.45221e-12 t=7122
+ying liu 	应留	c=0 d=9.70941e-08 t=7122
+ying ping ren 	影评人	c=0 d=4.8365e-15 t=7122
+ying wen 	英文	c=2 d=1.83026e-11 t=7122
+ying xiang 	影响	c=2 d=1.08254e-10 t=7122
+ying xiang 	映像	c=1 d=5.54705e-09 t=7122
+ying yong 	应用	c=1 d=0.000590229 t=7122
+ying yu 	英语	c=1 d=9.98777e-16 t=7122
+ying zheng 	嬴政	c=1 d=4.85826e-08 t=7122
+ying zi 	影子	c=0 d=4.55329e-11 t=7122
+yong 	用	c=58 d=1.95314 t=7122
+yong bu liao 	用不了	c=1 d=0.852144 t=7122
+yong de 	用的	c=1 d=2.27321e-14 t=7122
+yong hu 	用户	c=1 d=0.00408677 t=7122
+yong lai 	用来	c=1 d=3.20756e-06 t=7122
+yong ti zi 	用梯子	c=1 d=6.33456e-12 t=7122
+yong zhou 	雍州	c=1 d=8.44096e-07 t=7122
+you 	又	c=4 d=0.00019626 t=7122
+you 	尤	c=0 d=9.98097e-09 t=7122
+you 	有	c=64 d=5.76469 t=7122
+you ben shi 	有本事	c=1 d=1.29803e-10 t=7122
+you cheng xu 	有程序	c=1 d=4.02935e-13 t=7122
+you chi 	有吃	c=0 d=1.44174e-11 t=7122
+you chi you zhu 	有吃有住	c=1 d=1.44897e-10 t=7122
+you dao 	有道	c=1 d=7.08944e-13 t=7122
+you dian 	有点	c=4 d=0.00311289 t=7122
+you du 	有毒	c=1 d=0.0165727 t=7122
+you gao 	有搞	c=1 d=0.798516 t=7122
+you ge 	有个	c=10 d=0.199642 t=7122
+you guan 	有关	c=4 d=0.138761 t=7122
+you ji ge 	有几个	c=1 d=0.00172937 t=7122
+you jian 	右键	c=6 d=0.604351 t=7122
+you kong 	有空	c=1 d=1.60108e-08 t=7122
+you li 	有利	c=1 d=2.58791e-10 t=7122
+you liang ge 	有两个	c=1 d=1.82398e-12 t=7122
+you ling hun 	有灵魂	c=1 d=1.29156e-10 t=7122
+you mei you 	有没有	c=8 d=1.07737 t=7122
+you neng 	有能	c=1 d=2.61436e-12 t=7122
+you pin de 	有品德	c=1 d=1.31108e-10 t=7122
+you qian 	有钱	c=1 d=0.767206 t=7122
+you qing 	有情	c=0 d=9.98097e-09 t=7122
+you ren 	有人	c=2 d=0.000515692 t=7122
+you shen me 	有什么	c=2 d=0.784339 t=7122
+you shi 	又是	c=1 d=0.158817 t=7122
+you shi hou 	有时候	c=7 d=3.67441 t=7122
+you suo 	有所	c=1 d=0.000246044 t=7122
+you wen ti 	有问题	c=6 d=4.13603e-05 t=7122
+you xi 	游戏	c=1 d=0.0682212 t=7122
+you xiao 	有效	c=2 d=9.95351e-05 t=7122
+you xie 	有些	c=5 d=0.00267181 t=7122
+you xuan 	优选	c=3 d=0.386745 t=7122
+you xue xing 	有血性	c=1 d=1.30454e-10 t=7122
+you yong 	有用	c=3 d=4.05599e-11 t=7122
+you zheng bian ma 	邮政编码	c=1 d=0.995012 t=7122
+you zhong 	有种	c=1 d=0.00373503 t=7122
+you zhu 	有住	c=0 d=1.44174e-11 t=7122
+yu 	与	c=8 d=0.170773 t=7122
+yu bei 	预备	c=1 d=7.48518e-05 t=7122
+yu huan 	玉环	c=1 d=1.28158e-07 t=7122
+yu jia zai 	预加载	c=1 d=4.56353e-07 t=7122
+yu min xiu xi 	与民休息	c=1 d=6.96349e-08 t=7122
+yu ming 	域名	c=9 d=0.829411 t=7122
+yu qi 	语气	c=1 d=0.114178 t=7122
+yu yan 	语言	c=3 d=0.132089 t=7122
+yu zhou 	豫州	c=1 d=8.61148e-07 t=7122
+yuan 	元	c=1 d=5.58833e-08 t=7122
+yuan 	员	c=0 d=3.52962e-15 t=7122
+yuan 	源	c=6 d=0.562884 t=7122
+yuan cheng 	远程	c=8 d=1.05778e-10 t=7122
+yuan duan 	远端	c=2 d=8.77213e-11 t=7122
+yuan lai 	原来	c=1 d=3.34653e-05 t=7122
+yuan li 	原理	c=8 d=2.0795e-08 t=7122
+yuan liang 	原谅	c=1 d=0.99005 t=7122
+yuan mou ren 	元谋人	c=1 d=1.84168e-08 t=7122
+yuan sheng 	原生	c=1 d=7.47221e-14 t=7122
+yuan xian 	原先	c=4 d=0.918521 t=7122
+yuan yin 	原因	c=2 d=0.00583034 t=7122
+yue 	月	c=1 d=1.65811e-08 t=7122
+yue 	约	c=1 d=0.818731 t=7122
+yue du 	阅读	c=1 d=0.551563 t=7122
+yue fa san zhang 	约法三章	c=1 d=6.11461e-08 t=7122
+yue ke 	约课	c=1 d=1 t=7122
+yue lai yue 	越来越	c=1 d=0.00631391 t=7122
+yue lai yue di 	越来越低	c=1 d=1.27541e-09 t=7122
+yun 	云	c=1 d=1.77037e-14 t=7122
+yun 	运	c=1 d=2.82383e-07 t=7122
+yun chou wei wo 	运筹帷幄	c=1 d=3.15272e-09 t=7122
+yun dong 	运动	c=1 d=3.28083e-07 t=7122
+yun lun 	晕轮	c=5 d=2.6227e-08 t=7122
+yun nan 	云南	c=1 d=1.8325e-08 t=7122
+yun xing 	运行	c=7 d=0.0413799 t=7122
+za 	咋	c=2 d=0.12938 t=7122
+zai 	再	c=4 d=0.932394 t=7122
+zai 	在	c=28 d=2.31535 t=7122
+zai bu zai 	在不在	c=1 d=5.38219e-07 t=7122
+zai ci 	再次	c=1 d=7.10537e-10 t=7122
+zai li mian 	在里面	c=1 d=9.01398e-15 t=7122
+zai ti 	载体	c=1 d=0.075774 t=7122
+zai xia 	在下	c=1 d=8.03065e-09 t=7122
+zai yu 	在于	c=1 d=9.71602e-15 t=7122
+zan 	咱	c=1 d=0.0867261 t=7122
+zan men 	咱们	c=1 d=2.55598e-11 t=7122
+zan shi 	暂时	c=3 d=0.255388 t=7122
+zao 	早	c=3 d=1.29967 t=7122
+zao gao 	糟糕	c=2 d=0.00120052 t=7122
+zao yi 	早已	c=1 d=8.74311e-09 t=7122
+zao yi 	造一	c=0 d=1.47849e-13 t=7122
+zao yi ge 	造一个	c=1 d=1.4859e-12 t=7122
+ze 	啧	c=1 d=1 t=7122
+ze 	泽	c=1 d=1.96537e-08 t=7122
+ze ren 	责任	c=1 d=0.00023056 t=7122
+ze ren xin 	责任心	c=1 d=3.88944e-09 t=7122
+ze ze 	啧啧	c=1 d=6.19099e-07 t=7122
+zen me 	怎么	c=31 d=0.272492 t=7122
+zen me ban 	怎么办	c=2 d=1 t=7122
+zen me hui 	怎么会	c=1 d=4.78512e-06 t=7122
+zen me kan 	怎么看	c=1 d=1.0712e-15 t=7122
+zeng zhi 	增值	c=1 d=2.20527e-10 t=7122
+zha 	炸	c=3 d=0.00577221 t=7122
+zha le 	炸了	c=3 d=1.64137e-06 t=7122
+zhai yao 	摘要	c=1 d=9.71272e-11 t=7122
+zhan 	站	c=5 d=0.000104477 t=7122
+zhan di fang 	占地方	c=1 d=2.28421e-12 t=7122
+zhan shi 	战士	c=1 d=4.08038e-14 t=7122
+zhan tie 	粘贴	c=1 d=3.45021e-11 t=7122
+zhan yong 	占用	c=1 d=0.000130387 t=7122
+zhan zhe 	占着	c=0 d=6.91558e-16 t=7122
+zhan zhu 	站住	c=3 d=8.19822e-07 t=7122
+zhang 	帐	c=1 d=1.03632e-08 t=7122
+zhang 	章	c=1 d=1.04152e-08 t=7122
+zhang jia 	涨价	c=0 d=0.00137049 t=7122
+zhang ju zheng 	张居正	c=1 d=1.98992e-07 t=7122
+zhang le 	涨了	c=1 d=2.08726e-10 t=7122
+zhang liang 	张良	c=1 d=6.42811e-08 t=7122
+zhang qian 	张骞	c=1 d=7.93022e-08 t=7122
+zhao 	找	c=1 d=2.52444e-12 t=7122
+zhao bu dao 	找不到	c=2 d=1.95524e-06 t=7122
+zhao hun 	招魂	c=0 d=1.01318e-08 t=7122
+zhao jiao 	招教	c=1 d=0.946485 t=7122
+zhao pin 	招聘	c=1 d=9.51553e-05 t=7122
+zhao zhao 	找找	c=1 d=1.18285e-05 t=7122
+zhe 	着	c=1 d=0.0520787 t=7122
+zhe 	者	c=1 d=0.00117088 t=7122
+zhe 	这	c=26 d=1.23512 t=7122
+zhe ba 	这把	c=0 d=3.04532e-14 t=7122
+zhe bian 	这边	c=6 d=0.968413 t=7122
+zhe bian hua 	这变化	c=1 d=2.34124e-08 t=7122
+zhe bu 	这不	c=2 d=0.527287 t=7122
+zhe bu jiu shi 	这不就是	c=1 d=0.000109455 t=7122
+zhe duan shi jian 	这段时间	c=1 d=5.64642e-12 t=7122
+zhe ge 	这个	c=72 d=3.33116 t=7122
+zhe ge xian xiang 	这个现象	c=1 d=2.50409e-05 t=7122
+zhe ji tian 	这几天	c=1 d=3.45914e-12 t=7122
+zhe li 	这里	c=1 d=4.13923e-06 t=7122
+zhe me 	这么	c=9 d=0.993555 t=7122
+zhe men 	这门	c=1 d=5.29017e-10 t=7122
+zhe pei zhi 	这配置	c=1 d=4.77358e-07 t=7122
+zhe shi 	这是	c=7 d=0.000392194 t=7122
+zhe shi jian 	这时间	c=1 d=3.47648e-12 t=7122
+zhe teng 	折腾	c=1 d=0.00878245 t=7122
+zhe xie 	这些	c=1 d=3.07593e-13 t=7122
+zhe xue 	哲学	c=1 d=0.0262523 t=7122
+zhe yang 	这样	c=4 d=0.000414703 t=7122
+zhe ye 	这也	c=1 d=0.0780817 t=7122
+zhe zhong 	这种	c=6 d=0.0020429 t=7122
+zhen 	真	c=4 d=0.0280157 t=7122
+zhen de 	真的	c=3 d=0.0124164 t=7122
+zhen guan 	贞观	c=0 d=1.54202e-08 t=7122
+zhen guan yi feng 	贞观遗风	c=1 d=1.54975e-07 t=7122
+zhen qin 	真琴	c=1 d=1.87953e-12 t=7122
+zhen ren 	真人	c=0 d=7.79199e-08 t=7122
+zhen shi 	真实	c=1 d=4.51889e-09 t=7122
+zhen xiang 	真相	c=1 d=0.25924 t=7122
+zhen zhen zheng zheng 	真真正正	c=1 d=0.045275 t=7122
+zhen zheng 	真正	c=2 d=0.0933124 t=7122
+zheng 	帧	c=2 d=8.76229e-07 t=7122
+zheng 	整	c=1 d=0.965605 t=7122
+zheng 	正	c=0 d=8.9413e-09 t=7122
+zheng 	证	c=1 d=0.0116203 t=7122
+zheng ce 	政策	c=0 d=8.59217e-11 t=7122
+zheng chang 	正常	c=16 d=2.65665 t=7122
+zheng chang ma 	正常吗	c=1 d=1.17795e-15 t=7122
+zheng de 	整得	c=1 d=5.48047e-14 t=7122
+zheng fu 	政府	c=2 d=1.51642e-08 t=7122
+zheng ge 	整个	c=2 d=1.20009e-11 t=7122
+zheng jie 	正解	c=2 d=5.38413e-11 t=7122
+zheng le 	整了	c=1 d=1.70067e-12 t=7122
+zheng pin 	正品	c=2 d=1.78e-09 t=7122
+zheng shu 	证书	c=7 d=3.74709 t=7122
+zheng tai fen bu 	正态分布	c=2 d=9.48266e-10 t=7122
+zheng wen 	正文	c=2 d=3.21477e-08 t=7122
+zheng xiang 	正向	c=0 d=2.1232e-06 t=7122
+zheng xiang ji li 	正向激励	c=1 d=2.13384e-05 t=7122
+zheng zai 	正在	c=2 d=1.46865e-10 t=7122
+zheng zhi 	政治	c=1 d=0.000112226 t=7122
+zheng zhi bu 	政治部	c=1 d=1.79621e-08 t=7122
+zheng zhi xing 	政治性	c=1 d=9.33029e-09 t=7122
+zhi 	值	c=1 d=1.2949e-11 t=7122
+zhi 	制	c=3 d=1.59513e-07 t=7122
+zhi 	只	c=2 d=9.64749e-11 t=7122
+zhi 	至	c=4 d=1.32688e-13 t=7122
+zhi ben 	之本	c=1 d=7.58256e-10 t=7122
+zhi bian 	之变	c=0 d=4.88261e-09 t=7122
+zhi bing jiu ren 	治病救人	c=1 d=9.9569e-09 t=7122
+zhi bu guo 	只不过	c=2 d=0.0746877 t=7122
+zhi bu jian zai lian shang 	支部建在连上	c=1 d=1.42371e-09 t=7122
+zhi chi 	支持	c=4 d=4.39519e-06 t=7122
+zhi dao 	知道	c=2 d=0.00600426 t=7122
+zhi dian 	指点	c=2 d=1.14767e-09 t=7122
+zhi du 	制度	c=4 d=0.000392329 t=7122
+zhi fu 	之父	c=2 d=8.3324e-09 t=7122
+zhi fu 	支付	c=2 d=1.9916e-09 t=7122
+zhi fu bao 	支付宝	c=3 d=0.579842 t=7122
+zhi hou 	之后	c=11 d=0.909455 t=7122
+zhi hui 	只会	c=0 d=0.00137049 t=7122
+zhi hui 	指挥	c=4 d=8.91089e-09 t=7122
+zhi hui zhang jia 	只会涨价	c=1 d=0.0137736 t=7122
+zhi jiao 	支教	c=1 d=3.14619e-14 t=7122
+zhi jie 	直接	c=20 d=1.54988 t=7122
+zhi jie shang qu 	直接上去	c=1 d=7.71971e-15 t=7122
+zhi kong 	指控	c=1 d=2.17695e-05 t=7122
+zhi lei 	之类	c=2 d=0.0776922 t=7122
+zhi li 	治理	c=2 d=0.00030756 t=7122
+zhi ling ji 	指令集	c=1 d=6.28563e-09 t=7122
+zhi nan che 	指南车	c=1 d=4.62132e-08 t=7122
+zhi neng 	只能	c=3 d=0.0189843 t=7122
+zhi neng 	职能	c=1 d=8.03265e-09 t=7122
+zhi neng bu men 	职能部门	c=1 d=8.23395e-09 t=7122
+zhi neng che 	智能车	c=1 d=1.27827e-06 t=7122
+zhi qian 	之前	c=10 d=4.23073e-05 t=7122
+zhi shi 	只是	c=3 d=0.111423 t=7122
+zhi shi 	知识	c=2 d=0.147437 t=7122
+zhi shu 	之术	c=0 d=6.8942e-09 t=7122
+zhi sun 	止损	c=0 d=4.5643e-10 t=7122
+zhi xian shi 	只显示	c=1 d=1.37166e-12 t=7122
+zhi xing 	执行	c=1 d=0.960789 t=7122
+zhi xing he yi 	知行合一	c=1 d=8.23255e-07 t=7122
+zhi yao 	只要	c=2 d=0.279084 t=7122
+zhi ye 	职业	c=1 d=3.16196e-14 t=7122
+zhi ye zi ge 	职业资格	c=1 d=3.58297e-14 t=7122
+zhi yi 	之一	c=1 d=9.44684e-08 t=7122
+zhi yong 	只用	c=1 d=2.68566e-05 t=7122
+zhi you 	只有	c=8 d=0.0572225 t=7122
+zhi yuan 	支援	c=1 d=2.0061e-14 t=7122
+zhi yue 	制约	c=1 d=7.06873e-08 t=7122
+zhi zhan 	之战	c=2 d=1.9319e-07 t=7122
+zhi zhen 	指针	c=1 d=0.00219846 t=7122
+zhi zhi dao 	只知道	c=1 d=1.07822 t=7122
+zhong 	中	c=7 d=1.37651 t=7122
+zhong 	仲	c=0 d=5.8164e-09 t=7122
+zhong 	重	c=0 d=2.14973e-05 t=7122
+zhong chao 	中朝	c=1 d=7.03347e-08 t=7122
+zhong duan 	终端	c=4 d=0.498372 t=7122
+zhong guo 	中国	c=6 d=3.93639e-06 t=7122
+zhong ji 	中级	c=2 d=7.18407e-14 t=7122
+zhong jian 	中间	c=3 d=0.865022 t=7122
+zhong nian 	中年	c=1 d=0.00400585 t=7122
+zhong shang zhi xia 	重赏之下	c=1 d=4.0783e-08 t=7122
+zhong shu 	种树	c=1 d=0.582748 t=7122
+zhong wen 	中文	c=3 d=0.00290252 t=7122
+zhong wen zi ti 	中文字体	c=1 d=0.000430743 t=7122
+zhong xin 	中心	c=2 d=1.68378e-10 t=7122
+zhong xing 	中兴	c=1 d=1.05453e-07 t=7122
+zhong yi xie 	重一些	c=1 d=0.00021605 t=7122
+zhong zhi 	中止	c=1 d=7.37374e-05 t=7122
+zhou 	周	c=1 d=3.16034e-08 t=7122
+zhou 	皱	c=1 d=0.0214936 t=7122
+zhou gong jie meng 	周公解梦	c=1 d=3.37259e-08 t=7122
+zhou tian zi 	周天子	c=1 d=3.99755e-08 t=7122
+zhou wang 	纣王	c=1 d=3.11329e-08 t=7122
+zhou yi 	周易	c=1 d=7.48646e-07 t=7122
+zhou you wang 	周幽王	c=1 d=3.44072e-08 t=7122
+zhu ce 	注册	c=2 d=0.00181803 t=7122
+zhu ci 	主次	c=1 d=2.0615e-11 t=7122
+zhu da jia 	祝大家	c=1 d=1.02654e-14 t=7122
+zhu dao 	主导	c=1 d=0.0544757 t=7122
+zhu dong 	主动	c=1 d=0.00423234 t=7122
+zhu ge liang 	诸葛亮	c=1 d=1.38832e-07 t=7122
+zhu jun 	诸君	c=1 d=1.13119e-09 t=7122
+zhu shi 	注释	c=1 d=3.92343e-11 t=7122
+zhu shi diao 	注释掉	c=1 d=1.10897e-11 t=7122
+zhu su 	住宿	c=0 d=0.0017953 t=7122
+zhu ti 	主题	c=8 d=1.60379e-13 t=7122
+zhu wen 	猪瘟	c=1 d=1.7042e-07 t=7122
+zhu yao 	主要	c=3 d=0.531478 t=7122
+zhu yi 	主义	c=1 d=2.0608e-07 t=7122
+zhu yi 	注意	c=2 d=0.000432852 t=7122
+zhua dao 	抓到	c=1 d=4.8725e-13 t=7122
+zhua qi 	抓起	c=1 d=4.06708e-05 t=7122
+zhuan 	赚	c=1 d=1.28823e-09 t=7122
+zhuan 	转	c=7 d=0.000412588 t=7122
+zhuan chu 	转储	c=2 d=3.92004e-11 t=7122
+zhuan ge 	转个	c=1 d=2.80975e-07 t=7122
+zhuan huan 	转换	c=9 d=1.83496 t=7122
+zhuan men 	专门	c=1 d=9.49581e-10 t=7122
+zhuan qian 	赚钱	c=3 d=0.0187793 t=7122
+zhuan ye 	专业	c=5 d=8.57669e-09 t=7122
+zhuan ye xing zheng shi wu 	专业行政事务	c=1 d=7.87164e-09 t=7122
+zhuan zhan 	转站	c=1 d=1.53486e-11 t=7122
+zhuang 	装	c=10 d=0.0111207 t=7122
+zhuang le 	装了	c=2 d=0.00598873 t=7122
+zhuang shi duan wan 	壮士断腕	c=1 d=4.61018e-09 t=7122
+zhuang tai 	状态	c=11 d=0.00014057 t=7122
+zhui jiu 	追究	c=1 d=0.00022941 t=7122
+zhun bei 	准备	c=1 d=0.0147723 t=7122
+zhuo lu zhi zhan 	涿鹿之战	c=1 d=2.12906e-08 t=7122
+zhuo mian 	桌面	c=5 d=8.06816e-05 t=7122
+zi 	子	c=2 d=1.18605e-06 t=7122
+zi 	字	c=2 d=1.9991e-07 t=7122
+zi 	梓	c=1 d=0.0207543 t=7122
+zi ben 	资本	c=1 d=2.05052e-07 t=7122
+zi ben jia 	资本家	c=4 d=0.0276041 t=7122
+zi dan 	子弹	c=0 d=3.74533e-07 t=7122
+zi dian 	字典	c=2 d=0.00767482 t=7122
+zi dong 	自动	c=15 d=1.35935 t=7122
+zi dong hua 	自动化	c=3 d=3.28876e-06 t=7122
+zi dong sheng cheng 	自动生成	c=1 d=0.00143728 t=7122
+zi fang 	子房	c=1 d=6.55797e-08 t=7122
+zi hao 	字号	c=1 d=1.44997e-08 t=7122
+zi ji 	自己	c=11 d=0.799941 t=7122
+zi ji yong 	自己用	c=1 d=0.71177 t=7122
+zi mu 	字幕	c=1 d=1.43777e-07 t=7122
+zi ti 	字体	c=5 d=0.00291707 t=7122
+zi wang 	子网	c=1 d=1.50861e-14 t=7122
+zi wo 	自我	c=3 d=6.11427e-09 t=7122
+zi wo shi xian 	自我实现	c=4 d=7.34927e-09 t=7122
+zi xi kan 	仔细看	c=1 d=4.36495e-13 t=7122
+zi xing che 	自行车	c=1 d=1.22203e-06 t=7122
+zi yuan 	资源	c=3 d=0.965605 t=7122
+zong 	宗	c=1 d=1.46682e-07 t=7122
+zong bi 	总比	c=1 d=0.0134335 t=7122
+zong fa 	宗法	c=0 d=3.19211e-09 t=7122
+zong fa zhi 	宗法制	c=2 d=6.46469e-08 t=7122
+zong fen 	总分	c=1 d=1.40978e-11 t=7122
+zong shi 	总是	c=1 d=0.0126512 t=7122
+zong tiao 	纵跳	c=2 d=2.56939e-14 t=7122
+zong tiao mo gao 	纵跳摸高	c=1 d=1.30309e-14 t=7122
+zong tiao mo gao pao 	纵跳摸高跑	c=1 d=1.22899e-14 t=7122
+zong zeng 	宗曾	c=1 d=7.375e-07 t=7122
+zou 	走	c=8 d=0.0144035 t=7122
+zou de 	走的	c=1 d=2.02488e-06 t=7122
+zu 	组	c=1 d=1.44498e-07 t=7122
+zu ge 	组个	c=0 d=0.00182243 t=7122
+zu ge dui 	组个队	c=1 d=0.0183156 t=7122
+zu he 	组合	c=2 d=4.4212e-06 t=7122
+zu sun 	祖孙	c=1 d=4.12139e-14 t=7122
+zu zhi 	组织	c=6 d=1.45704e-08 t=7122
+zu zhi li lun zhi fu 	组织立论之父	c=1 d=1.55779e-09 t=7122
+zui 	最	c=2 d=1.0799e-14 t=7122
+zui 	罪	c=1 d=0.000257369 t=7122
+zui da hua 	最大化	c=5 d=3.22577 t=7122
+zui di 	最低	c=1 d=2.85416e-15 t=7122
+zui duo 	最多	c=2 d=5.36065e-11 t=7122
+zui gao rong yu 	最高荣誉	c=1 d=9.39973e-08 t=7122
+zui hao 	最好	c=1 d=1.62977e-11 t=7122
+zui hou 	最后	c=6 d=0.427415 t=7122
+zui hou fa xian 	最后发现	c=1 d=9.86286e-15 t=7122
+zui jin 	最近	c=12 d=1.12215 t=7122
+zui jing dian 	最经典	c=1 d=9.28217e-07 t=7122
+zui kai shi 	最开始	c=1 d=0.0378169 t=7122
+zui pian yi 	最便宜	c=1 d=0.0130365 t=7122
+zui xin 	最新	c=1 d=8.61587e-13 t=7122
+zun zhong 	尊重	c=7 d=1.3388e-08 t=7122
+zuo biao xi 	座标系	c=1 d=2.92442e-07 t=7122
+zuo fa zi bi 	作法自毙	c=1 d=4.13994e-08 t=7122
+zuo ge 	做个	c=2 d=0.000665481 t=7122
+zuo pin 	作品	c=1 d=9.37546e-07 t=7122
+zuo wan 	昨晚	c=1 d=1.78234e-05 t=7122
+zuo wei 	作为	c=3 d=0.000247277 t=7122
+zuo ye 	作业	c=1 d=0.00152616 t=7122
+zuo yong 	作用	c=1 d=0.00226541 t=7122
+zuo zhe 	作者	c=1 d=0.00112497 t=7122
