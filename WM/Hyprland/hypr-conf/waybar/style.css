@@ -6,6 +6,7 @@
 
 window#waybar.top-bar,
 window#waybar.info-bar,
+window#waybar.footer-bottom,
 window#waybar.footer-bar {
     background-color: rgba(0, 0, 0, 0.);
 }
@@ -236,3 +237,9 @@ tooltip label {
     color: #bf616a;
 }
 
+#cava {
+    padding: 0 10px;
+    color:#d8dee9 ;
+
+    font-size: 8px;
+}

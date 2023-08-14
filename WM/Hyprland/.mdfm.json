@@ -6,7 +6,8 @@
         "target_dir":   "~/hypr-conf/",
         "relative_dirs": [
             "conf.d",
-            "scripts"
+            "scripts",
+            "shaders"
         ],
         "relative_files": [
             "hyprland.conf"
