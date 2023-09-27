@@ -11,7 +11,7 @@ PS1='[\u@\h \W]\$ '
 export PATH
 
 if [ -t 1 ]; then
-	exec zsh
+	# exec zsh
 fi
 
 if [ -e $HOME/scripts/custom_shell_rc ]; then

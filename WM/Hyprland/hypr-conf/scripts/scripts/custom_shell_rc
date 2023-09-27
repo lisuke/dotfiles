@@ -1,6 +1,7 @@
 # local bin
 export PATH=~/.local/bin:$PATH
-
+# custom bin
+export PATH=~/scripts/bin:$PATH
 
 # perl
 export PERL5LIB="$HOME/perl5/lib/perl5${PERL5LIB:+:${PERL5LIB}}";
@@ -36,16 +37,17 @@ export GOBIN=$GOPATH/bin
 #
 export PATH=$PATH:$GOROOT/bin:$GOPATH/bin
 
-export PATH=$PATH:/opt/cuda/bin
+# rofi custom scripts
+export PATH=$PATH:$HOME/.config/rofi/scripts
+
 # alias
 alias pgrepv="ps -aux | grep -v grep| grep"
 #
-alias proxies=all_proxy=http://lisuke:lisuke165@192.168.31.11:7890
+export PROXIES=http://lisuke:lisuke165@192.168.31.11:7890
+alias proxies=all_proxy=$PROXIES
 #alias proxies=all_proxy=http://127.0.0.1:20483
 #
-alias nvrun="__NV_PRIME_RENDER_OFFLOAD=1 __GLX_VENDOR_LIBRARY_NAME=nvidia"
-#
-
+alias ud="du -a | sort -rn | head -10"
 
 export EDITOR='nvim'
 

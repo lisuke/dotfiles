@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+
+# cmd   : convert
+# src   : *.png
+# tgt   : *.jpeg
+
+
+ls -1 *.png | xargs -n 1 bash -c 'convert "$0" "${0%.png}.jpeg"'
+
+rm *.png

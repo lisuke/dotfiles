@@ -1,325 +1,318 @@
-[
-    {
-        "name": "top-bar",
-        "output": "eDP-1",
-        "exclusive": true,
-        "layer": "top", // Waybar at top layer
-        "position": "top", // Waybar position (top|bottom|left|right)
-        "height": 20, // Waybar height (to be removed for auto height)
-        "margin-top": 6,
-        "margin-left": 10,
-        "margin-bottom": 0,
-        "margin-right": 10,
-        "spacing": 7, // Gaps between modules (4px)
-        // left
-        "modules-left": [
-            "custom/launcher",
-            "custom/repo",
-            "hyprland/workspaces",
-            "cpu",
-            "memory",
-            "custom/weather",
+[{
+    "name": "top-bar",
+    // "output": "eDP-1",
+    "exclusive": true,
+    "layer": "top", // Waybar at top layer
+    "position": "top", // Waybar position (top|bottom|left|right)
+    "height": 20,
+    "margin-top": 6,
+    "margin-left": 10,
+    "margin-bottom": 0,
+    "margin-right": 10,
+    "spacing": 5,
+    // left
+    "modules-left": [
+        "custom/launcher",
+        "custom/repo",
+        "hyprland/workspaces",
+        "cpu",
+        "memory",
+        "custom/weather",
+    ],
+    "custom/launcher": {
+        "interval": 3600,
+        "format": " ᕦ༼~•́ ₒ•̀ ~༽ᕤ ",
+        "on-click": "rofi -show drun",
+    },
+    "custom/repo": {
+        "format": " 󰒚{}",
+        "exec": "python3 ~/.config/waybar/scripts/checkrepos.py",
+        "return-type": "json",
+        "interval": 60,
+        "on-click": "~/scripts/bin/ttui yay ; dunstify -a 'yay' 'The system has been updated' "
+    },
+    "hyprland/workspaces": {
+        "all-outputs": true,
+        "format": " {icon} ",
+        "format-icons": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": "",
+            // "active": "",
+            "urgent": "󰱯",
+            "default": "",
+        },
+        "on-scroll-up": "hyprctl dispatch workspace e+1",
+        "on-scroll-down": "hyprctl dispatch workspace e-1"
+    },
+    "cpu": {
+        "interval": 5,
+        "states": {
+            "critical": 90,
+            "warning": 72,
+            "running": 54,
+            "good": 36,
+            "great": 18,
+            "cool": 0,
+        },
+        "format": " {icon} {usage:2}% ",
+        "max-length": 10,
+        "on-click": "~/scripts/bin/ttui htop",
+        "on-click-right": "~/scripts/bin/ttui nvtop",
+        "format-icons": ["▁", "▂", "▃", "▄", "▅", "▆", "▇", "█"],
+    },
+    "memory": {
+        "interval": 30,
+        "format": "  {percentage}% ",
+        "format-alt": "  {used:0.1f}G ",
+        "max-length": 10,
+    },
+    "custom/weather": {
+        "exec": "python3 ~/.config/waybar/scripts/weather.py",
+        "restart-interval": 300,
+        "return-type": "json",
+        "format": " {} "
+    },
+    // center
+    "modules-center": [
+        // "user",
+        "mpd"
+    ],
+    "user": {
+        "format": "{user} {work_H}:{work_M}",
+        "interval": 5,
+        "icon": true,
+        "avatar": "$HOME/Pictures/icon.jpg",
+        "height": 30,
+        "width": 30,
+    },
+    "mpd": {
+        "format": " {stateIcon}  {consumeIcon}{randomIcon}{repeatIcon}{singleIcon} {title} ({elapsedTime:%M:%S}/{totalTime:%M:%S})   ",
+        "format-disconnected": "Disconnected ",
+        "format-stopped": "{consumeIcon}{randomIcon}{repeatIcon}{singleIcon}Stopped ",
+        "interval": 10,
+        "unknown-tag": "",
+        "consume-icons": {
+            "on": " "
+        },
+        "random-icons": {
+            "on": " "
+        },
+        "repeat-icons": {
+            "on": "󰑖 "
+        },
+        "single-icons": {
+            "on": "1 "
+        },
+        "state-icons": {
+            "paused": "",
+            "playing": ""
+        },
+        "tooltip-format": "MPD (connected)",
+        "tooltip-format-disconnected": "MPD (disconnected)",
+        "on-click": "mpc next",
+        "on-click-right": "mpc prev",
+        "on-click-middle": "mpc toggle",
+        "on-scroll-up": "mpc seek -2%; mpc toggle; mpc toggle",
+        "on-scroll-down": "mpc seek +2%; mpc toggle; mpc toggle",
+    },
+    // right
+    "modules-right": [
+        "tray",
+        "keyboard-state",
+        "backlight",
+        // "pulseaudio",
+        "wireplumber",
+        "network#top",
+        "bluetooth",
+        "battery",
+        "custom/recording",
+        "clock",
+        "custom/power-menu"
+    ],
+    "tray": {
+        "spacing": 4
+    },
+    "keyboard-state": {
+        "numlock": true,
+        "capslock": true,
+        "format": "{name}",
+    },
+    "backlight": {
+        "device": "eDP-1",
+        "format": " {icon} ",
+        "format-icons": ["󰹐", "󱩍", "󰛩", "󱩎", "󱩏", "󱩐", "󱩑", "󱩒", "󱩓", "󱩔", "󱩕", "󱩖", "󰛨"],
+        "tooltip-format": "{percent}%",
+        "on-scroll-up": "~/.config/hypr/scripts/backlight.sh brightnessctl inc",
+        "on-scroll-down": "~/.config/hypr/scripts/backlight.sh brightnessctl dec",
+    },
+    "pulseaudio": {
+        "format": "{icon}",
+        "format-bluetooth": "󰗾",
+        "format-bluetooth-muted": "󰗿",
+        "format-muted": "󰝟",
+        "format-icons": {
+            "headphone": "",
+            "hands-free": "",
+            "headset": "",
+            "phone": "",
+            "portable": "",
+            "car": "",
+            "default": ["󰕿", "󰖀", "󰕾"]
+        },
+        "tooltip-format": "{volume}%",
+        "on-click": "~/.config/hypr/scripts/volume.sh pactl mute",
+        "on-click-right": "pavucontrol",
+        "on-scroll-up": "~/.config/hypr/scripts/volume.sh pactl inc",
+        "on-scroll-down": "~/.config/hypr/scripts/volume.sh pactl dec",
+    },
+    "wireplumber": {
+        "format": "{icon}",
+        "format-muted": "󰝟",
+        "format-icons": ["󰕿", "󰖀", "󰕾"],
+        "tooltip-format": "{volume}%",
+        "on-click": "~/.config/hypr/scripts/volume.sh wpctl mute",
+        "on-click-right": "qpwgraph",
+        "on-scroll-up": "~/.config/hypr/scripts/volume.sh wpctl inc",
+        "on-scroll-down": "~/.config/hypr/scripts/volume.sh wpctl dec",
+    },
+    "network#top": {
+        "format-wifi": " 󰖩 ",
+        "format-ethernet": " 󰈀 ",
+        "format-disconnected": " 󰖪 ",
+        "on-click": "~/.config/rofi/scripts/wifi-menu",
+        "tooltip-format": "{signalStrength}%",
+    },
+    "bluetooth": {
+        "on-click": "~/.config/rofi/scripts/bt-menu",
+        "format": "  ",
+        "tooltip-format": "{status}",
+    },
+    "battery": {
+        "bat": "BAT0",
+        "adapter": "AC",
+        "interval": 20,
+        "states": {
+            "good": 95,
+            "warning": 30,
+            "critical": 15
+        },
+        "max-length": 20,
+        "format": "{icon}",
+        "format-time": "{H}h {M}min",
+        "format-warning": "{icon} {capacity}%",
+        "format-critical": "{icon} {capacity}%",
+        "format-charging": "󰂄 {capacity}%",
+        "format-plugged": "󰚥 {capacity}%",
+        "format-full": "󱊣",
+        "format-icons": ["󰂎", "󰁺", "󰁻", "󰁼", "󰁽", "󰁾", "󰁿", "󰂀", "󰂁", "󰂂", "󰁹"],
+        "tooltip-format": "{capacity}%, {time}",
+    },
+    "custom/recording": {
+        "exec": "~/.config/waybar/scripts/recording.sh status",
+        "format": " {} ",
+        "on-click": "~/.config/waybar/scripts/recording.sh toggle fullscreen",
+        "on-click-right": "~/.config/waybar/scripts/recording.sh toggle region",
+        "restart-interval": 1,
+        "return-type": "json",
+        "tooltip": true
+    },
+    "clock": {
+        "format-alt": "  |{:%Y-%m-%d}",
+        "format": "  |{:%H:%M:%S  }",
+        "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>",
+        "interval": 1,
+        "min-length": 14
+    },
+    "custom/power-menu": {
+        "format": " ⏻ ",
+        "on-click": "~/.config/rofi/scripts/power-menu"
+    },
+}, {
+    "name": "info-bar",
+    "output": "eDP-1",
+    "layer": "bottom",
+    "position": "top",
+    "margin-top": -2,
+    "margin-left": 10,
+    "margin-right": 10,
+    "exclusive": false,
+    "modules-center": [
+        "hyprland/window"
+    ],
+    "hyprland/window": {
+        "format": " {} "
+    },
+    "modules-right": [
+        "network#info"
+    ],
+    "network#info": {
+        "interval": 1,
+        "format": "Interface: {ifname}  Up: {bandwidthUpBytes} Down: {bandwidthDownBytes} Total: {bandwidthTotalBytes}"
+    }
+}, {
+    "name": "footer-bar",
+    "output": "eDP-1",
+    "layer": "top",
+    "position": "bottom",
+    "margin-top": 10,
+    "margin-left": 10,
+    "margin-right": 10,
+    "margin-bottom": 10,
+    "exclusive": true,
+    "modules-center": [
+        "wlr/taskbar",
+    ],
+    "wlr/taskbar": {
+        "format": "{icon}",
+        "icon-size": 36,
+        "icon-theme": "Papirus-Dark",
+        "tooltip-format": "{app_id} {state}",
+        "on-click": "fullscreen",
+        "on-click-middle": "close",
+        "on-click-right": "minimize",
+        "ignore-list": [
+            // "Alacritty",
+            "htop",
+            "yay"
         ],
-        "custom/launcher": {
-            "interval": 3600,
-            "format": "<span color='#6a92d7'> ᕦ༼~•́ ₒ•̀ ~༽ᕤ </span>",
-            "on-click": "pkill rofi || rofi -show drun",
-        },
-        "custom/repo": {
-            "format": "<span color='#bf616a'> {}</span>",
-            "exec": "python3 ~/.config/waybar/scripts/checkrepos.py",
-            "return-type": "json",
-            "interval": 60,
-            "on-click": "kitty --class=yay yay -Syyu ; dunstify -a 'yay' 'The system has been updated' "
-        },
-        "hyprland/workspaces": {
-            "all-outputs": true,
-            "format": " {icon} ",
-            "format-icons": {
-                "1": " ",
-                "2": " ",
-                "3": " ",
-                "4": " ",
-                "5": " ",
-                "default": " ",
-                "urgent": " ",
-                "active": " ",
-            },
-            "persistent_workspaces": {
-                 "*": 1, // 5 workspaces by default on every monitor
-                 "HDMI-A-1": 3 // but only three on HDMI-A-1
-            },
-            "on-scroll-up": "hyprctl dispatch workspace e+1",
-            "on-scroll-down": "hyprctl dispatch workspace e-1"
-        },
-        "cpu": {
-            "interval": 5,
-            "states": {
-                "critical": 90,
-                "warning": 72,
-                "running": 54,
-                "good": 36,
-                "great": 18,
-                "cool": 0,
-            },
-            "format": " {icon} {usage:2}% ",
-            "max-length": 10,
-            "on-click": "kitty --class=htop -1 htop",
-            "on-click-right": "kitty --class=nvtop -1 nvtop",
-            "format-icons": ["▁", "▂", "▃", "▄", "▅", "▆", "▇", "█"],
-        },
-        "memory": {
-            "interval": 30,
-            "format": "  {percentage}% ",
-            "format-alt": "  {used:0.1f}G ",
-            "max-length": 10,
-        },
-        "custom/weather": {
-            "exec": "python3 ~/.config/waybar/scripts/weather.py",
-            "restart-interval": 300,
-            "return-type": "json",
-            "format": " {} "
-        },
-        // center
-        "modules-center": [
-            // "user",
-            "mpd"
-        ],
-        "user": {
-            "format": "{user} {work_H}:{work_M}",
-            "interval": 5,
-            "icon": true,
-            "avatar": "$HOME/Pictures/icon.jpg",
-            "height": 30,
-            "width": 30,
-        },
-        "mpd": {
-            "format": " {stateIcon}  {consumeIcon}{randomIcon}{repeatIcon}{singleIcon} {title} ({elapsedTime:%M:%S}/{totalTime:%M:%S})   ",
-            "format-disconnected": "Disconnected ",
-            "format-stopped": "{consumeIcon}{randomIcon}{repeatIcon}{singleIcon}Stopped ",
-            "interval": 10,
-            "unknown-tag": "",
-            "consume-icons": {
-                "on": " "
-            },
-            "random-icons": {
-                "off": "",
-                "on": " "
-            },
-            "repeat-icons": {
-                "on": " "
-            },
-            "single-icons": {
-                "on": "1 "
-            },
-            "state-icons": {
-                "paused": "",
-                "playing": ""
-            },
-            "tooltip-format": "MPD (connected)",
-            "tooltip-format-disconnected": "MPD (disconnected)",
-            "on-click": "mpc next",
-            "on-click-right": "mpc prev",
-            "on-click-middle": "mpc toggle",
-            "on-scroll-up": "mpc seek -2%; mpc toggle; mpc toggle",
-            "on-scroll-down": "mpc seek +2%; mpc toggle; mpc toggle",
-        },
-        // right
-        "modules-right": [
-            "tray", 
-            "keyboard-state", 
-            "backlight", 
-            "pulseaudio", 
-            "wireplumber",
-            "network#top", 
-            "bluetooth", 
-            "battery", 
-            "custom/recording",
-            // "hyprland/language",
-            "clock", 
-            "custom/power-menu"
-        ],
-        "custom/recording": {
-            "exec": "~/.config/waybar/scripts/recording.sh status",
-            "format": " {} ",
-            "on-click": "~/.config/waybar/scripts/recording.sh toggle fullscreen",
-            "on-click-right": "~/.config/waybar/scripts/recording.sh toggle region",
-            "restart-interval": 1,
-            "return-type": "json",
-            "tooltip": true
-        },
-        "tray": {
-            "icon-size": 24,
-            "spacing": 4
-        },
-        "keyboard-state": {
-            "numlock": true,
-            "capslock": true,
-            "format": "{name}",
-        },
-        "backlight": {
-            "device": "eDP-1",
-            "format": "{icon} {percent}%",
-            "format-icons": ["", "", "", "", "", "", "", "", ""],
-            // "on-scroll-up": "~/.config/hypr/scripts/brightness.sh up",
-            // "on-scroll-down": "~/.config/hypr/scripts/brightness.sh down",
-        },
-        "network#top": {
-            "format-wifi": "直 {signalStrength}%",
-            "format-ethernet": " Wired",
-            "format-disconnected": "睊",
-            "on-click": "bash ~/.config/waybar/scripts/rofi-wifi-menu.sh",
-            "format-disconnected": "Dised  ",
-        },
-        "pulseaudio": {
-            "format": "{icon}",
-            "format-bluetooth": " ",
-            "format-bluetooth-muted": " ",
-            "format-muted": "婢",
-            "format-icons": {
-                "headphone": "",
-                "hands-free": "",
-                "headset": "",
-                "phone": "",
-                "portable": "",
-                "car": "",
-                "default": ["", "", ""]
-            },
-            "scroll-step": 5,
-            "on-click": "pamixer -t",
-            "on-click-right": "pavucontrol"
-        },
-        "wireplumber": {
-            "format": "{volume}%",
-            "format-muted": "婢",
-            "format-icons": ["", "", ""],
-            "on-click": "wpctl set-mute @DEFAULT_AUDIO_SINK@ toggle",
-            "on-click-right": "qpwgraph",
-            "on-scroll-up": "wpctl set-volume @DEFAULT_AUDIO_SINK@ 2%+",
-            "on-scroll-down": "wpctl set-volume @DEFAULT_AUDIO_SINK@ 2%-",
-        },
-        "bluetooth": {
-            "on-click": "~/.config/waybar/scripts/rofi-bluetooth &",
-            "format": " {status}",
-        },
-        "battery": {
-            "bat": "BAT0",
-            "adapter": "AC",
-            "interval": 20,
-            "states": {
-                "good": 95,
-                "warning": 30,
-                "critical": 15
-            },
-            "max-length": 20,
-            "format": "{icon} {capacity}%",
-            "format-time": "{H}h {M}min",
-            "format-warning": "{icon} {capacity}%",
-            "format-critical": "{icon} {capacity}%",
-            "format-charging": "<span font-family='Font Awesome 6 Free'></span> {capacity}%",
-            "format-plugged": "  {capacity}%",
-            "format-alt": "{icon} {time}",
-            "format-full": "  {capacity}%",
-            "format-icons": [" ", " ", " ", " ", " "],
-            "tooltip-format": "{time}",
-        },
-        "clock": {
-            "format-alt": "<span color='#6a92d7'> |{:%Y-%m-%d}</span>",
-            "format": "<span color='#6a92d7'> |{:%H:%M:%S  }</span>",
-            "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>",
-            "interval": 1,
-            "min-length": 14
-        },
-        "custom/power-menu": {
-            "format": "<span color='#bf616a'> <span font-family='Font Awesome 6 Free'>⏻</span> </span>",
-            "on-click": "bash ~/.config/waybar/scripts/power-menu/powermenu.sh"
-            // "on-click": "nwg-bar",
-        },
-    }, 
-    {
-        "name": "info-bar",
-        "output": "eDP-1",
-        "layer": "top",
-        "position": "top",
-        "margin-top": -2,
-        "margin-left": 10,
-        "margin-right": 10,
-        "exclusive": false,
-        "modules-center": [
-            "hyprland/window"
-        ],
-        "hyprland/window": {
-            "format": " {} "
-        },
-        "modules-right": [
-            "network#info"
-        ],
-        "network#info": {
-            "interval": 1,
-            "format": "Interface: {ifname}  Up: {bandwidthUpBytes} Down: {bandwidthDownBytes} Total: {bandwidthTotalBytes}"
-        }
-    }, 
-    {
-        "name": "footer-bar",
-        "output": "eDP-1",
-        "layer": "top",
-        "position": "bottom",
-        "margin-top": 10,
-        "margin-left": 10,
-        "margin-right": 10,
-        "margin-bottom": 10,
-        "exclusive": true,
-        "modules-center": [
-            "wlr/taskbar",
-        ],
-        "wlr/taskbar": {
-            "format": "{icon}",
-            "icon-size": 36,
-            "icon-theme": "Numix-Circle",
-            "tooltip-format": "{app_id} {state}",
-            "on-click": "fullscreen",
-            "on-click-middle": "close",
-            "on-click-right": "minimize",
-            "ignore-list": [
-                "Alacritty",
-                "htop",
-                "yay"
-            ],
-            "app_ids-mapping": {
-              "firefox-nightly": "firefox_nightly"
-            }
-        }
-    }, 
-    {
-        "name": "footer-bottom",
-        "output": "eDP-1",
-        "layer": "bottom",
-        "position": "bottom",
-        //"margin-bottom": -60,
-        "exclusive": false,
-        "modules-center": [
-            "cava",
-        ],
-        "cava": {
-            "framerate": 20,
-            "autosens": 1,
-            "sensitivity": 100,
-            "bars": 250,
-            "lower_cutoff_freq": 50,
-            "higher_cutoff_freq": 10000,
-            "method": "pulse",
-            "source": "auto",
-            "stereo": true,
-            "reverse": false,
-            "bar_delimiter": 32,
-            "monstercat": false,
-            "waves": false,
-            "noise_reduction": 0.1,
-            "input_delay": 0,
-            "format-icons" : ["▁", "▂", "▃", "▄", "▅", "▆", "▇", "█" ],
-            "actions": {
-                "on-click-right": "mode"
-            }
+        "app_ids-mapping": {}
+    }
+}, {
+    "name": "footer-bottom",
+    "output": "eDP-1",
+    "layer": "bottom",
+    "position": "bottom",
+    "exclusive": false,
+    "modules-center": [
+        "cava",
+    ],
+    "cava": {
+        "framerate": 20,
+        "autosens": 1,
+        "sensitivity": 100,
+        "bars": 250,
+        "lower_cutoff_freq": 50,
+        "higher_cutoff_freq": 10000,
+        "method": "pulse",
+        "source": "auto",
+        "stereo": true,
+        "reverse": false,
+        "bar_delimiter": 32,
+        "monstercat": false,
+        "waves": false,
+        "noise_reduction": 0.1,
+        "input_delay": 0,
+        "format-icons": ["▁", "▂", "▃", "▄", "▅", "▆", "▇", "█"],
+        "actions": {
+            "on-click-right": "mode"
         }
     }
-]
+}]

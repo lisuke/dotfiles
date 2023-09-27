@@ -1,0 +1,79 @@
+" This is neovim's script file
+"
+" author: lisuke
+" email:  1657787678@qq.com
+"
+
+echo "hello world!"
+
+" toggle number column
+set number
+set relativenumber
+
+" set max column line 
+set columns=80
+
+" :map key cmd
+" 针对不同的模式有不同的快捷键定义命令
+" 例如:
+"     :nmap 负责在普通模式下定义快捷键
+"     :vmap 负责在 visual 模式下定义快捷键
+"     :imap 可以在插入模式下定义快捷键
+"     :cmap 定义命令行模式下的快捷键。
+"     
+" Ctrl  键对应 <c>
+" 空格  键对应 <space>
+" alt   键对应 <a>
+" esc   键对应 <esc>
+" 退格  键对应 <bs>
+" 回车  键对应 <cr>
+" shift 键对应 <shift>
+" f1 到 f12 对应 <f1> 到 <f12>
+" 
+" :noremap 非递归版
+"
+"     key        cmd
+" 删除一行
+:nnoremap <C-d>      dd
+:inoremap <C-d>      <esc>ddi
+
+" 行下移一行
+:nnoremap <A-->      ddp
+:inoremap <A-->      <esc>ddpi
+"   上
+:nnoremap <A-=>      ddkkP
+:inoremap <A-=>      <esc>ddkkpi
+
+" 复制
+" :vnoremap <C-c>     y
+" 粘贴
+" :inoremap <C-v>     <C-r>0
+
+" leader key
+let mapleader = " "
+let g:mapleader = " "
+
+
+" C++ 宏大小写转换
+:noremap <Leader>u   <esc>viwUwa
+:noremap <Leader>l   <esc>viwuwa
+
+" toggle 相对行号
+:noremap <Leader>r   <esc>relativenumber!
+
+" 自动命令
+" 
+:augroup NVIMRC
+:    autocmd!
+:    autocmd BufWritePost init.vim source %
+:augroup END
+
+" html 自动排版
+:autocmd BufReadPost,BufWritePre *.html normal gg=G
+:autocmd BufNewFile,BufReadPost *.html setlocal nowrap
+
+" 注释
+:autocmd FileType python nnoremap <buffer> <localleader>c I#<esc>
+:autocmd FileType javascript nnoremap <buffer> <localleader>c I//<esc>
+
+

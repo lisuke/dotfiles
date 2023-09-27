@@ -1,0 +1,20 @@
+#!/usr/bin/env bash
+# rename to hash.ext
+
+if [[ $# == 0 ]]; then
+  echo "arg: ext"
+  exit 1
+fi
+
+ext=$1
+
+for file in *.$ext ;do
+  
+  hash=$(md5sum "${file}" | cut -d ' ' -f1)
+
+  ext=${file##*.}
+
+  mv -v $file $hash.$ext
+
+done
+

@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+
+# cmd   : dwebp
+# src   : *.webp 
+# tgt   : *.jpeg
+
+
+ls -1 *.webp | xargs -n 1 bash -c 'dwebp "$0" -o "${0%.webp}.jpeg"'
+
+rm *.webp

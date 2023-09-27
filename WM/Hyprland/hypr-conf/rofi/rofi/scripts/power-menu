@@ -1,0 +1,88 @@
+#!/usr/bin/env bash
+
+# power-menu
+
+# Host
+uptime="`uptime -p | sed -e 's/up //g'`"
+host=`hostname`
+
+
+# Actions
+shutdown=" Shutdown"
+reboot="  Reboot"
+lock=" Lock"
+suspend=" Suspend"
+logout="  Logout"
+
+actions_cmd() {
+    $rofi_command -p "$host" -mesg "Uptime: $uptime"
+}
+
+ask_action() {
+    echo -e "$lock\n$suspend\n$logout\n$reboot\n$shutdown" | actions_cmd
+}
+
+# Confirmation
+yes=" Yes"
+no=" No"
+
+confirm_cmd() {
+    $rofi_command -p 'Confirmation' -mesg 'Are you Sure?'
+}
+
+# Ask for confirmation
+ask_confirm() {
+    echo -e "$yes\n$no" | confirm_cmd
+}
+
+# Execute Command
+handle_actions() {
+    if [[ $1 == '--lock' ]]; then
+        if [[ "$DESKTOP_SESSION" == "hyprland" ]]; then
+            swaylock
+        elif [[ "$DESKTOP_SESSION" == "i3" ]]; then
+            i3lock
+        fi
+    else
+        selected="$(ask_confirm)"
+        if [[ "$selected" == "$yes" ]]; then
+            if [[ $1 == '--shutdown' ]]; then
+                systemctl poweroff
+            elif [[ $1 == '--reboot' ]]; then
+                systemctl reboot
+            elif [[ $1 == '--suspend' ]]; then
+                systemctl suspend
+            elif [[ $1 == '--logout' ]]; then
+                if [[ "$DESKTOP_SESSION" == "hyprland" ]]; then
+                    hyprctl dispatch exit 
+                elif [[ "$DESKTOP_SESSION" == "i3" ]]; then
+                    i3-msg exit
+                fi
+            fi
+        else
+            exit 0
+        fi
+    fi
+}
+
+rofi_command="rofi -dmenu -no-fixed-num-lines "
+
+# Actions
+chosen="$(ask_action)"
+case ${chosen} in
+    $shutdown)
+        handle_actions --shutdown
+        ;;
+    $reboot)
+        handle_actions --reboot
+        ;;
+    $lock)
+        handle_actions --lock
+        ;;
+    $suspend)
+        handle_actions --suspend
+        ;;
+    $logout)
+        handle_actions --logout
+        ;;
+esac

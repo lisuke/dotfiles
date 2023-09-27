@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+
+#source ~/scripts/custom_shell_rc
+all_proxy=$PROXIES
+
+# TERM="kitty --class=tui"
+TERM="alacritty --class=ttui --command"
+
+if [[ $# == 0 ]]; then
+  echo "need a command."
+else
+  $TERM $1
+fi
+

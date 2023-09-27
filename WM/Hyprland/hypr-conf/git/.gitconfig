@@ -3,3 +3,5 @@
 [user]
 	email = 1657787678@qq.com
 	name = lisuke
+[safe]
+	directory = /home/lisuke/.local/share/hyprload/hyprland

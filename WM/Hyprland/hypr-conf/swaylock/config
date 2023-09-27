@@ -1,39 +1,27 @@
 ignore-empty-password
 font=Work Sans
 
-clock
-timestr=%R
-screenshots
 image=~/.config/hypr/wallpapers/tree.jpg
-
-fade-in=0.2
-
-effect-blur=95x2
-
-indicator
-indicator-radius=150
-indicator-thickness=10
-indicator-caps-lock
 
 key-hl-color=880033ff
 
 separator-color=00000000
 
-inside-color=#1F2530
-inside-clear-color=ffd20433
 inside-caps-lock-color=009ddc33
+inside-clear-color=ffd20433
+inside-color=#1F2530
 inside-ver-color=303446
 inside-wrong-color=e78284
 
-ring-color=#1B242B
-ring-clear-color=231f20D9
 ring-caps-lock-color=231f20D9
+ring-clear-color=231f20D9
+ring-color=#1B242B
 ring-ver-color=231f20D9
 ring-wrong-color=231f20D9
 
-line-color=303446
-line-clear-color=303446
 line-caps-lock-color=009ddcFF
+line-clear-color=303446
+line-color=303446
 line-ver-color=eebebe
 line-wrong-color=ee2e24FF
 

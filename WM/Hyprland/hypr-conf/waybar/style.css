@@ -1,7 +1,11 @@
 * {
-    /* `otf-font-awesome` is required to be installed for icons */
-    font-family: JetBrainsMono Nerd Font, Nerd Font, FontAwesome, Roboto, Helvetica, Arial, sans-serif;
-    font-size: 17px;
+    /*  Symbols Nerd Font  */
+    font-family: Symbols Nerd Font, monospace;
+}
+
+tooltip {
+    border: 1px solid rgba(100, 114, 125, 0.5);
+    opacity: 0.9;
 }
 
 window#waybar.top-bar,
@@ -15,14 +19,6 @@ window#waybar.top-bar.hidden,
 window#waybar.info-bar.hidden,
 window#waybar.footer-bar.hidden {
     opacity: 0.3;
-}
-
-tooltip {
-  background: rgba(43, 48, 59, 0.5);
-  border: 1px solid rgba(100, 114, 125, 0.5);
-}
-tooltip label {
-  color: white;
 }
 
 #backlight,
@@ -53,23 +49,9 @@ tooltip label {
 }
 
 #workspaces button {
-    padding: 0px 0px;
     color: #7984A4;
     background-color: transparent;
-    /* Use box-shadow instead of border so the text isn't offset */
-    box-shadow: inset 0 -3px transparent;
-    /* Avoid rounded borders under each workspace name */
-    border: none;
-    border-radius: 0;
-}
-
-#workspaces button:hover {
-    background: rgba(191, 97, 106, 0.7);
-    box-shadow: inset 0 -1px #c2ddda;
-}
-
-#workspaces button.focused {
-    color: #bf616a;
+    border-radius: unset;
 }
 
 #workspaces button.active {
@@ -77,16 +59,16 @@ tooltip label {
     box-shadow: inset 0 -1px #6a92d7;
 }
 
+#workspaces button.focused {
+    color: #bf616a;
+}
+
+#workspaces button:hover {
+    box-shadow: inset 0 0 0px 1px #6a92d7;
+}
+
 #workspaces button.urgent {
-    background-color: #eb4d4b;
-}
-
-.modules-left > widget:first-child > #workspaces {
-    margin-left: 0;
-}
-
-.modules-right > widget:last-child > #workspaces {
-    margin-right: 0;
+    box-shadow: inset 0 -1px #eb4d4b;
 }
 
 #cpu,
@@ -134,18 +116,6 @@ tooltip label {
     color: #7d9bba;
 }
 
-#clock {
-    color: #c8d2e0;
-}
-
-#backlight {
-    color: #c0caf5;
-}
-
-#battery {
-    color: #c0caf5;
-}
-
 #battery.charging,
 #battery.full,
 #battery.plugged {
@@ -176,6 +146,8 @@ tooltip label {
     color: #f53c3c;
 }
 
+#battery,
+#backlight,
 #network.info, 
 #network.top,
 #bluetooth {
@@ -195,14 +167,6 @@ tooltip label {
 #tray > .needs-attention {
     -gtk-icon-effect: highlight;
     background-color: #eb4d4b;
-}
-
-#custom-recording {
-    color: #FCC213;
-}
-
-#custom-recording {
-    color: #BF616A;
 }
 
 #mpd {
@@ -233,13 +197,20 @@ tooltip label {
     color: #e5e5e5;
 }
 
-#custom-weather {
-    color: #bf616a;
-}
-
 #cava {
     padding: 0 10px;
-    color:#d8dee9 ;
-
+    color:#d8dee9;
     font-size: 8px;
+}
+
+#clock,
+#custom-launcher {
+    color: #6a92d7;
+}
+
+#custom-power-menu,
+#custom-recording,
+#custom-repo,
+#custom-weather {
+    color: #bf616a;
 }

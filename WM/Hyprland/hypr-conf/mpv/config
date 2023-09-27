@@ -26,11 +26,14 @@ script-opts=ytdl_hook-ytdl_path=yt-dlp
 
 
 vo=gpu
-gpu-api=opengl #（或opengl）
-gpu-context=wayland #（或wayland）
-#spirv-compiler=shaderc
-#vulkan-swap-mode=fifo
-#vulkan-async-transfer=yes
-#vulkan-async-compute=yes
+# gpu-api=opengl # 或vulkan
+# gpu-context=wayland # 或waylandvk
+#
+gpu-api=vulkan
+gpu-context=waylandvk
+spirv-compiler=shaderc
+vulkan-swap-mode=fifo
+vulkan-async-transfer=yes
+vulkan-async-compute=yes
 
 # vim: se ft=dosini:

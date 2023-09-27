@@ -44,7 +44,6 @@
         "source_dir":   "~/.config/dunst/",
         "target_dir":   "~/hypr-conf/",
         "relative_dirs": [
-            "assets",
             "scripts"
         ],
         "relative_files": [
@@ -59,7 +58,8 @@
         "relative_dirs": [
         ],
         "relative_files": [
-            "alacritty.toml"
+            "alacritty.toml",
+            "theme.toml"
         ]
     },
     {
@@ -71,6 +71,18 @@
         ],
         "relative_files": [
             "kitty.conf"
+        ]
+    },
+    {
+        "app_name":     "foot",
+        "description":  "", 
+        "source_dir":   "~/.config/foot/",
+        "target_dir":   "~/hypr-conf/",
+        "relative_dirs": [
+        ],
+        "relative_files": [
+            "colors.ini",
+            "foot.ini"
         ]
     },
     {
@@ -112,6 +124,7 @@
         "source_dir":   "~/",
         "target_dir":   "~/hypr-conf/",
         "relative_dirs": [
+            ".config/gtk-2.0"
         ],
         "relative_files": [
             ".gtkrc-2.0"
@@ -126,6 +139,17 @@
         ],
         "relative_files": [
             "settings.ini"
+        ]
+    },
+    {
+        "app_name":     "fontconfig",
+        "description":  "", 
+        "source_dir":   "~/.config/",
+        "target_dir":   "~/hypr-conf/",
+        "relative_dirs": [
+            "fontconfig"
+        ],
+        "relative_files": [
         ]
     },
     {
@@ -170,7 +194,8 @@
         "relative_dirs": [
         ],
         "relative_files": [
-            "config"
+            "config",
+            "input.conf"
         ]
     },
     {
@@ -192,19 +217,7 @@
         "relative_dirs": [
         ],
         "relative_files": [
-            "config",
             "earth-wallpaper.conf"
-        ]
-    },
-    {
-        "app_name":     "mako",
-        "description":  "", 
-        "source_dir":   "~/.config/mako/",
-        "target_dir":   "~/hypr-conf/",
-        "relative_dirs": [
-        ],
-        "relative_files": [
-            "config"
         ]
     },
     {
@@ -232,6 +245,41 @@
         ]
     },
     {
+        "app_name":     "qt6ct",
+        "description":  "", 
+        "source_dir":   "~/.config/qt6ct/",
+        "target_dir":   "~/hypr-conf/",
+        "relative_dirs": [
+            "qss",
+            "colors"
+        ],
+        "relative_files": [
+            "qt6ct.conf"
+        ]
+    },
+    {
+        "app_name":     "nwg-look",
+        "description":  "", 
+        "source_dir":   "~/.config/nwg-look/",
+        "target_dir":   "~/hypr-conf/",
+        "relative_dirs": [
+        ],
+        "relative_files": [
+            "config"
+        ]
+    },
+    {
+        "app_name":     "xsettingsd",
+        "description":  "", 
+        "source_dir":   "~/.config/xsettingsd/",
+        "target_dir":   "~/hypr-conf/",
+        "relative_dirs": [
+        ],
+        "relative_files": [
+            "xsettingsd.conf"
+        ]
+    },
+    {
         "app_name":     "qtfm6",
         "description":  "", 
         "source_dir":   "~/.config/qtfm6/",
@@ -251,17 +299,6 @@
         ],
         "relative_files": [
             "vlcrc"
-        ]
-    },
-    {
-        "app_name":     "wofi",
-        "description":  "", 
-        "source_dir":   "~/.config/wofi/",
-        "target_dir":   "~/hypr-conf/",
-        "relative_dirs": [
-        ],
-        "relative_files": [
-            "config"
         ]
     },
     {
@@ -342,6 +379,53 @@
         ]
     },
     {
+        "app_name":     "vim",
+        "description":  "", 
+        "source_dir":   "~/.config/",
+        "target_dir":   "~/hypr-conf/",
+        "relative_dirs": [
+            "vim"
+        ],
+        "relative_files": [
+        ]
+    },
+    {
+        "app_name":     "paru",
+        "description":  "", 
+        "source_dir":   "~/.config/",
+        "target_dir":   "~/hypr-conf/",
+        "relative_dirs": [
+            "paru"
+        ],
+        "relative_files": [
+        ]
+    },
+    {
+        "app_name":     "yay",
+        "description":  "", 
+        "source_dir":   "~/.config/",
+        "target_dir":   "~/hypr-conf/",
+        "relative_dirs": [
+            "yay"
+        ],
+        "relative_files": [
+        ]
+    },
+    {
+        "app_name":     "xdg-user",
+        "description":  "", 
+        "source_dir":   "~/.config/",
+        "target_dir":   "~/hypr-conf/",
+        "relative_dirs": [
+        ],
+        "relative_files": [
+            "user-dirs.dirs",
+            "user-dirs.locale",
+            "locale.conf",
+            "mimeapps.list"
+        ]
+    },
+    {
         "app_name":     "face-icon",
         "description":  "", 
         "source_dir":   "~/",
@@ -350,6 +434,18 @@
         ],
         "relative_files": [
             ".face.icon"
+        ]
+    },
+    {
+        "app_name":     "electron",
+        "description":  "", 
+        "source_dir":   "~/.config/",
+        "target_dir":   "~/hypr-conf/",
+        "relative_dirs": [
+        ],
+        "relative_files": [
+            "electron-flags.conf",
+            "code-flags.conf"
         ]
     }
 ]
