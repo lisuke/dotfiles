@@ -1,3 +1,13 @@
-
 [Default Applications]
 inode/directory=qtfm.desktop
+x-scheme-handler/postman=Postman.desktop
+x-scheme-handler/clash=clash-verge.desktop
+x-scheme-handler/lxmusic=lx-music-desktop.desktop
+x-scheme-handler/discord-1176718791388975124=discord-1176718791388975124.desktop
+x-scheme-handler/tonsite=userapp-Telegram Desktop-1MOO42.desktop
+x-scheme-handler/zy=zyfun.desktop
+x-scheme-handler/tg=userapp-Telegram Desktop-6Z4O42.desktop
+
+[Added Associations]
+x-scheme-handler/tonsite=org.telegram.desktop.desktop;userapp-Telegram Desktop-1MOO42.desktop;
+x-scheme-handler/tg=userapp-Telegram Desktop-6Z4O42.desktop;

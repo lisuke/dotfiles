@@ -107,6 +107,7 @@ plugins=( 	sudo 	git 	autojump 	zsh-syntax-highlighting 	zsh-autosuggestions )
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+typeset -g POWERLEVEL9K_INSTANT_PROMPT=quiet
 
 ZSH_CACHE_DIR=$HOME/.cache/oh-my-zsh
 if [[ ! -d $ZSH_CACHE_DIR ]]; then
@@ -125,3 +126,9 @@ fi
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
+
+## [Completion]
+## Completion scripts setup. Remove the following line to uninstall
+[[ -f /home/lisuke/.dart-cli-completion/zsh-config.zsh ]] && . /home/lisuke/.dart-cli-completion/zsh-config.zsh || true
+## [/Completion]
+

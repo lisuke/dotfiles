@@ -2,7 +2,7 @@
 
 configuration {
     font:                       "monospace 13";
-    modes:                      "window,drun,run,ssh,filebrowser,calc,emoji";
+    modes:                      "window,drun,run,ssh,filebrowser";
     show-icons:                 true;
     display-drun:               "";
     display-run:                "";

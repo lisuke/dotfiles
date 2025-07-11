@@ -1,5 +1,17 @@
 [
     {
+        "app_name":     "xdg-desktop-portal-hyprland",
+        "description":  "",
+        "source_dir":   "~/.config/",
+        "target_dir":   "~/hypr-conf/",
+        "relative_dirs": [
+        ],
+        "relative_files": [
+            "xdg-desktop-portal/hyprland-portals.conf",
+            "hypr/xdph.conf"
+        ]
+    },
+    {
         "app_name":     "hyprland",
         "description":  "Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
         "source_dir":   "~/.config/hypr/",
@@ -11,6 +23,28 @@
         ],
         "relative_files": [
             "hyprland.conf"
+        ]
+    },
+    {
+        "app_name":     "hypridle",
+        "description":  "",
+        "source_dir":   "~/.config/hypr/",
+        "target_dir":   "~/hypr-conf/",
+        "relative_dirs": [
+        ],
+        "relative_files": [
+            "hypridle.conf"
+        ]
+    },
+    {
+        "app_name":     "hyprlock",
+        "description":  "",
+        "source_dir":   "~/.config/hypr/",
+        "target_dir":   "~/hypr-conf/",
+        "relative_dirs": [
+        ],
+        "relative_files": [
+            "hyprlock.conf"
         ]
     },
     {
@@ -34,7 +68,7 @@
             "scripts"
         ],
         "relative_files": [
-            "config",
+            "config.jsonc",
             "style.css"
         ]
     },
@@ -56,10 +90,10 @@
         "source_dir":   "~/.config/alacritty/",
         "target_dir":   "~/hypr-conf/",
         "relative_dirs": [
+            "themes"
         ],
         "relative_files": [
-            "alacritty.toml",
-            "theme.toml"
+            "alacritty.toml"
         ]
     },
     {
@@ -68,6 +102,7 @@
         "source_dir":   "~/.config/kitty/",
         "target_dir":   "~/hypr-conf/",
         "relative_dirs": [
+            "themes"
         ],
         "relative_files": [
             "kitty.conf"
@@ -79,9 +114,9 @@
         "source_dir":   "~/.config/foot/",
         "target_dir":   "~/hypr-conf/",
         "relative_dirs": [
+            "themes"
         ],
         "relative_files": [
-            "colors.ini",
             "foot.ini"
         ]
     },
@@ -138,7 +173,19 @@
         "relative_dirs": [
         ],
         "relative_files": [
+            "bookmarks",
             "settings.ini"
+        ]
+    },
+    {
+        "app_name":     "lxqt",
+        "description":  "", 
+        "source_dir":   "~/.config/",
+        "target_dir":   "~/hypr-conf/",
+        "relative_dirs": [
+            "lxqt"
+        ],
+        "relative_files": [
         ]
     },
     {
@@ -159,9 +206,10 @@
         "target_dir":   "~/hypr-conf/",
         "relative_dirs": [
             ".config/fcitx5",
-            ".local/share/fcitx5"
+            ".local/share/fcitx5/themes"
         ],
         "relative_files": [
+            ".local/share/fcitx5/rime/default.custom.yaml"
         ]
     },
     {
@@ -189,13 +237,12 @@
     {
         "app_name":     "mpv",
         "description":  "", 
-        "source_dir":   "~/.config/mpv/",
+        "source_dir":   "~/.config/",
         "target_dir":   "~/hypr-conf/",
         "relative_dirs": [
+            "mpv"
         ],
         "relative_files": [
-            "config",
-            "input.conf"
         ]
     },
     {
@@ -258,17 +305,6 @@
         ]
     },
     {
-        "app_name":     "nwg-look",
-        "description":  "", 
-        "source_dir":   "~/.config/nwg-look/",
-        "target_dir":   "~/hypr-conf/",
-        "relative_dirs": [
-        ],
-        "relative_files": [
-            "config"
-        ]
-    },
-    {
         "app_name":     "xsettingsd",
         "description":  "", 
         "source_dir":   "~/.config/xsettingsd/",
@@ -277,17 +313,6 @@
         ],
         "relative_files": [
             "xsettingsd.conf"
-        ]
-    },
-    {
-        "app_name":     "qtfm6",
-        "description":  "", 
-        "source_dir":   "~/.config/qtfm6/",
-        "target_dir":   "~/hypr-conf/",
-        "relative_dirs": [
-        ],
-        "relative_files": [
-            "qtfm6.conf"
         ]
     },
     {
@@ -421,7 +446,6 @@
         "relative_files": [
             "user-dirs.dirs",
             "user-dirs.locale",
-            "locale.conf",
             "mimeapps.list"
         ]
     },
@@ -444,8 +468,15 @@
         "relative_dirs": [
         ],
         "relative_files": [
+            "chromium-flags.conf",
+            "code-flags.conf",
             "electron-flags.conf",
-            "code-flags.conf"
+            "element-flags.conf",
+            "google-chrome-flags.conf",
+            "lx-music-desktop-flags.conf",
+            "microsoft-edge-stable-flags.conf",
+            "qq-flags.conf",
+            "yesplaymusic-flags.conf"
         ]
     }
 ]

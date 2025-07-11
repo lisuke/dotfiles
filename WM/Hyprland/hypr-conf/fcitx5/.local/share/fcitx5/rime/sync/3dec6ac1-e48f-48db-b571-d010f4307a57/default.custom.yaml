@@ -1,5 +1,0 @@
-patch:
-  "menu/page_size": 9
-  schema_list:
-    - schema: clover
-    - schema: luna_pinyin_simp

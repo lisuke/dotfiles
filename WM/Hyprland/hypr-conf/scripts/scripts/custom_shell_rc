@@ -37,15 +37,42 @@ export GOBIN=$GOPATH/bin
 #
 export PATH=$PATH:$GOROOT/bin:$GOPATH/bin
 
+
+# Android Sdk
+export ANDROID_HOME="${HOME}/Android/Sdk"
+export PATH=${PATH}:${ANDROID_HOME}/cmdline-tools/latest/bin
+export PATH=${PATH}:${ANDROID_HOME}/emulator
+export PATH=${PATH}:${ANDROID_HOME}/tools
+export PATH=${PATH}:${ANDROID_HOME}/tools/bin
+export PATH=${PATH}:${ANDROID_HOME}/platform-tools
+#
+# Flutter
+export PATH=/opt/flutter/bin:$PATH
+export PUB_HOSTED_URL=https://pub.flutter-io.cn
+export FLUTTER_STORAGE_BASE_URL=https://storage.flutter-io.cn
+# fvm
+alias flutter="fvm flutter"
+alias dart="fvm dart"
+
 # rofi custom scripts
 export PATH=$PATH:$HOME/.config/rofi/scripts
+
+# MAKEFLAGS
+export MAKEFLAGS="-j$(nproc)"
+# CCACHE
+export USE_CCACHE=1
+export CCACHE_EXEC=/usr/bin/ccache
+# ccache -M 50G
+ccache -o compression=true
 
 # alias
 alias pgrepv="ps -aux | grep -v grep| grep"
 #
-export PROXIES=http://lisuke:lisuke165@192.168.31.11:7890
-alias proxies=all_proxy=$PROXIES
-#alias proxies=all_proxy=http://127.0.0.1:20483
+export RP="http://192.168.31.11:24680"
+export LP="http://127.0.0.1:7890"
+alias ap="all_proxy=$RP"
+alias p="env {all,http,https,ftp,socks5}_proxy=\$RP"
+alias lp="env {all,http,https,ftp,socks5}_proxy=\$LP"
 #
 alias ud="du -a | sort -rn | head -10"
 

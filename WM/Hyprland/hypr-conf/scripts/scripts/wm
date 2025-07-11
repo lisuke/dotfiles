@@ -1,0 +1,19 @@
+#!/usr/bin/env bash
+
+logout() {
+	case $1 in
+	hyprland)
+		command ...
+		;;
+	*)
+		command ...
+		;;
+	esac
+}
+
+#
+if [[ $# == 0 ]]; then
+	echo "need a command."
+else
+	$TERM $1
+fi

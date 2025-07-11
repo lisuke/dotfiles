@@ -5,3 +5,21 @@
 	name = lisuke
 [safe]
 	directory = /home/lisuke/.local/share/hyprload/hyprland
+	directory = /opt/flutter
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+  required = true
+; [http]
+;   proxy = http://127.0.0.1:7890
+; [https]
+;   proxy = http://127.0.0.1:7890
+[http]
+  proxy = http://192.168.31.11:24680
+[https]
+  proxy = http://192.168.31.11:24680
+[color]
+	ui = auto
+[trailer "changeid"]
+	key = Change-Id
